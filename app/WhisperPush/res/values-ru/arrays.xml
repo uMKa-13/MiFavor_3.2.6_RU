@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_registration_numbers">
+        <item>+12064893444</item>
+        <item>12064893444</item>
+        <item>2064893444</item>
+    </string-array>
+</resources>

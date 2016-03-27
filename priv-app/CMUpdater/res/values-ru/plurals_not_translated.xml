@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="extension_status">
+    <item quantity="other">%d updates</item>
+    <item quantity="one">%d update</item>
+  </plurals>
+  <plurals name="extension_expandedTitle">
+    <item quantity="other">%d CyanogenMod updates</item>
+    <item quantity="one">%d CyanogenMod update</item>
+  </plurals>
+</resources>

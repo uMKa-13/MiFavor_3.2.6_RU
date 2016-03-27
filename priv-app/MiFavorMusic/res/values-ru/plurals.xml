@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="Nsongs">
+    <item quantity="other">Композиций: %d</item>
+  </plurals>
+  <plurals name="Nsongscomp">
+    <item quantity="other">"
+%2$d из %1$d песен"</item>
+  </plurals>
+  <plurals name="Nalbums">
+    <item quantity="other">Альбомов: %d</item>
+    <item quantity="one">1 альбом</item>
+  </plurals>
+  <plurals name="NNNtracksdeleted">
+    <item quantity="other">Удалено композиций: %d.</item>
+    <item quantity="one">1 трек удален</item>
+  </plurals>
+  <plurals name="NNNtrackstoplaylist">
+    <item quantity="other">Композиций, добавленных в плейлист: %d</item>
+    <item quantity="one">1 трек добавлен в плейлист.</item>
+  </plurals>
+  <plurals name="NNNtrackstoplayfavoritlist">
+    <item quantity="other">%d песен добавлен к списку воспроизведения любимых произведений</item>
+    <item quantity="one">1 песня добавлена к списку воспроизведения любимых произведений</item>
+  </plurals>
+  <plurals name="NNNtrackswilldeleted">
+    <item quantity="other">%d песни будут навсегда удалены из памяти.</item>
+    <item quantity="one">Одна песня будет навсегда удалена из памяти.</item>
+  </plurals>
+  <plurals name="download_select_delete_alert">
+    <item quantity="other">%d download historys will be deleted.</item>
+    <item quantity="one">1 download history will be deleted.</item>
+  </plurals>
+</resources>

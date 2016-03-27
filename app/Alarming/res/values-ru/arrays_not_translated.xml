@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="lockscreen_direction_descriptions">
+    <item>@string/description_direction_right</item>
+    <item>@string/description_direction_up</item>
+    <item>@string/description_direction_left</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="lockscreen_target_descriptions_unlock_only">
+    <item>@string/description_target_unlock</item>
+    <item>@string/description_target_unlock</item>
+  </string-array>
+  <array name="lockscreen_targets_unlock_only">
+    <item>@drawable/ic_alarm_alert_dismiss</item>
+    <item>@drawable/ic_alarm_alert_snooze</item>
+  </array>
+  <string-array name="aqi_strings">
+    <item>Excellent</item>
+    <item>Good</item>
+    <item>Light pollution</item>
+    <item>Moderate pollution</item>
+    <item>Intense pollution</item>
+    <item>Serious pollution</item>
+  </string-array>
+  <array name="snooze_dismiss_drawables">
+    <item>@drawable/ic_alarm_alert_dismiss</item>
+    <item>@null</item>
+    <item>@drawable/ic_alarm_alert_snooze</item>
+    <item>@null</item>
+  </array>
+  <string-array name="snooze_dismiss_descriptions">
+    <item>@string/alarm_alert_dismiss_text</item>
+    <item>@null</item>
+    <item>@string/alarm_alert_snooze_text</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="snooze_dismiss_direction_descriptions">
+    <item>@string/description_direction_right</item>
+    <item>@null</item>
+    <item>@string/description_direction_left</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="voice_dismiss_alarm">
+    <item>关闭闹钟</item>
+    <item>别响了</item>
+    <item>关闭</item>
+    <item>取消闹钟</item>
+    <item>取消</item>
+    <item>我起床了</item>
+  </string-array>
+  <string-array name="voice_snooze_alarm">
+    <item>延迟</item>
+    <item>延迟再响</item>
+    <item>一会儿再响</item>
+    <item>我再睡会儿</item>
+    <item>等会儿再响</item>
+  </string-array>
+  <string-array name="snooze_duration_value">
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+    <item>25</item>
+    <item>30</item>
+  </string-array>
+  <string-array name="snooze_time_value">
+    <item>1</item>
+    <item>3</item>
+    <item>5</item>
+    <item>10</item>
+  </string-array>
+  <string-array name="flip_state_value">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+</resources>

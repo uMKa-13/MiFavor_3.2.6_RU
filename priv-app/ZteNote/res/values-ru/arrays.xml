@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="colorbox_colors">
+        <item>@android:color/black</item>
+        <item>@color/color_2</item>
+        <item>@color/color_3</item>
+        <item>@color/color_4</item>
+        <item>@color/color_5</item>
+        <item>@color/color_6</item>
+    </array>
+    <array name="color_suggest_group">
+        <item>@color/color_group_1_1</item>
+        <item>@color/color_group_1_2</item>
+        <item>@color/color_group_1_3</item>
+        <item>@color/color_group_1_4</item>
+        <item>@color/color_group_1_5</item>
+        <item>@color/color_group_1_6</item>
+        <item>@color/color_group_2_1</item>
+        <item>@color/color_group_2_2</item>
+        <item>@color/color_group_2_3</item>
+        <item>@color/color_group_2_4</item>
+        <item>@color/color_group_2_5</item>
+        <item>@color/color_group_2_6</item>
+        <item>@color/color_group_3_1</item>
+        <item>@color/color_group_3_2</item>
+        <item>@color/color_group_3_3</item>
+        <item>@color/color_group_3_4</item>
+        <item>@color/color_group_3_5</item>
+        <item>@color/color_group_3_6</item>
+        <item>@color/color_group_4_1</item>
+        <item>@color/color_group_4_2</item>
+        <item>@color/color_group_4_3</item>
+        <item>@color/color_group_4_4</item>
+        <item>@color/color_group_4_5</item>
+        <item>@color/color_group_4_6</item>
+    </array>
+    <array name="thickness_group">
+        <item>@dimen/skitch_paint_width_1</item>
+        <item>@dimen/skitch_paint_width_2</item>
+        <item>@dimen/skitch_paint_width_3</item>
+        <item>@dimen/skitch_paint_width_4</item>
+        <item>@dimen/skitch_paint_width_5</item>
+    </array>
+    <string-array name="sort_items">
+        <item>@string/sort_by_latest_time</item>
+        <item>@string/sort_by_oldest_time</item>
+        <item>@string/sort_by_name</item>
+    </string-array>
+    <string-array name="sort_items_location">
+        <item>@string/sort_by_latest_time</item>
+        <item>@string/sort_by_oldest_time</item>
+        <item>@string/sort_by_name</item>
+        <item>@string/location</item>
+    </string-array>
+    <string-array name="new_note_menu_items_tag">
+        <item>@string/note_add_gallery</item>
+        <item>@string/note_add_resource</item>
+        <item>@string/note_move</item>
+        <item>@string/note_wallpaper</item>
+    </string-array>
+    <string-array name="new_note_menu_items_untag">
+        <item>@string/note_add_video</item>
+        <item>@string/note_add_resource</item>
+        <item>@string/note_wallpaper</item>
+    </string-array>
+    <string-array name="note_option_items_tag">
+        <item>@string/edit</item>
+        <item>@string/share</item>
+        <item>@string/export</item>
+        <item>@string/note_move</item>
+        <item>@string/delete</item>
+        <item>@string/note_info</item>
+    </string-array>
+    <string-array name="note_option_items_untag">
+        <item>@string/edit</item>
+        <item>@string/share</item>
+        <item>@string/export</item>
+        <item>@string/note_move</item>
+        <item>@string/delete</item>
+        <item>@string/note_info</item>
+    </string-array>
+    <string-array name="handwrite_saved_items">
+        <item>@string/share</item>
+        <item>@string/delete</item>
+    </string-array>
+    <string-array name="handwrite_unsaved_items">
+        <item>@string/edit</item>
+        <item>@string/share</item>
+        <item>@string/delete</item>
+    </string-array>
+    <string-array name="view_note_object_items">
+        <item>@string/share</item>
+        <item>@string/handwrite_save</item>
+    </string-array>
+    <string-array name="month_items">
+        <item>@string/January</item>
+        <item>@string/febuary</item>
+        <item>@string/march</item>
+        <item>@string/april</item>
+        <item>@string/may</item>
+        <item>@string/june</item>
+        <item>@string/July</item>
+        <item>@string/august</item>
+        <item>@string/september</item>
+        <item>@string/october</item>
+        <item>@string/november</item>
+        <item>@string/December</item>
+    </string-array>
+</resources>

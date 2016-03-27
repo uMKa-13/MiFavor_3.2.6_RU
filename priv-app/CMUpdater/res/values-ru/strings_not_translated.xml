@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="conf_update_server_url_def">https://download.cyanogenmod.org/api</string>
+  <string name="conf_changelog_url">http://localhost/changelog.xml</string>
+  <string name="dialog_ok">OK</string>
+  <string name="extension_label">CyanogenMod Updates</string>
+  <string name="extension_description">Displays number of new updates available.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_update_frequency_entry">
+        <item>@string/settings_auto_cycle_no</item>
+        <item>@string/settings_auto_cycle_1</item>
+        <item>@string/settings_auto_cycle_3</item>
+        <item>@string/settings_auto_cycle_6</item>
+    </string-array>
+    <string-array name="auto_update_frequency_value">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="customcitynames">
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+        <item>成都</item>
+        <item>重庆</item>
+        <item>天津</item>
+        <item>南京</item>
+        <item>杭州</item>
+        <item>苏州</item>
+        <item>武汉</item>
+        <item>西安</item>
+    </string-array>
+    <string-array name="isw_updatesettings">
+        <item>只在WIFI状态下更新</item>
+        <item>WIFI+GPRS下都更新</item>
+        <item>不联网更新</item>
+    </string-array>
+    <string-array name="optionCitys">
+        <item>Update</item>
+        <item>Delete</item>
+    </string-array>
+</resources>

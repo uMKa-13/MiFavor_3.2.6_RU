@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multi_language_20404">China Telecom</string>
+  <string name="multi_language_46000">China Mobile</string>
+  <string name="multi_language_46001">China Unicom</string>
+  <string name="multi_language_46002">China Mobile</string>
+  <string name="multi_language_46003">China Telecom</string>
+  <string name="multi_language_46007">China Mobile</string>
+  <string name="multi_language_46019">460 19</string>
+  <string name="pppoe_indicator_title">PPPOE</string>
+  <string name="textoff" />
+  <string name="texton" />
+  <string name="ratio_1_1">1:1</string>
+  <string name="ratio_3_2">3:2</string>
+  <string name="ratio_2_3">2:3</string>
+  <string name="ratio_4_3">4:3</string>
+  <string name="ratio_3_4">3:4</string>
+  <string name="ratio_16_9">16:9</string>
+  <string name="ratio_9_16">9:16</string>
+  <string name="curve_rgb">RGB</string>
+  <string name="curve_r">R</string>
+  <string name="curve_g">G</string>
+  <string name="gif_order_ab">A-&gt;B</string>
+  <string name="gif_order_ba">B-&gt;A</string>
+  <string name="gif_order_aba">A-&gt;B-&gt;A</string>
+  <string name="gif_size_small">160 x 160</string>
+  <string name="gif_size_medium">240 x 240</string>
+  <string name="gif_size_large">320 x 320</string>
+</resources>

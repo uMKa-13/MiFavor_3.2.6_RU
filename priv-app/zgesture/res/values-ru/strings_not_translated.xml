@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="multi_language_20404">China Telecom</string>
+  <string name="multi_language_46000">China Mobile</string>
+  <string name="multi_language_46001">China Unicom</string>
+  <string name="multi_language_46002">China Mobile</string>
+  <string name="multi_language_46003">China Telecom</string>
+  <string name="multi_language_46007">China Mobile</string>
+  <string name="multi_language_46019">460 19</string>
+  <string name="pppoe_indicator_title">PPPOE</string>
+  <string name="textoff" />
+  <string name="texton" />
+  <string name="app_name">ZTEGesture</string>
+  <string name="draw_gesture_open" />
+  <string name="draw_gesture_w_def">WeChat</string>
+  <string name="draw_gesture_s_def">Sms</string>
+</resources>

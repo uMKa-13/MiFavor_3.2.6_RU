@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="enable_recoloring">Изменить цвет</string>
+  <string name="color_label">Тон</string>
+  <string name="saturation_label">Насыщенность</string>
+  <string name="brightness_label">Яркость</string>
+  <item type="string" name="hue">0.0</item>
+  <item type="string" name="saturation">1.0</item>
+  <item type="string" name="brightness">1.0</item>
+  <string name="wallpaper_label">Блики и лучи</string>
+  <string name="wallpaper_author">Google</string>
+</resources>

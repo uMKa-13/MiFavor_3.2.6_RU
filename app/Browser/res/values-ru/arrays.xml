@@ -1,0 +1,1360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="yahoo_uk">
+    <item>Yahoo! UK &amp; Ireland</item>
+    <item>uk.yahoo.com</item>
+    <item>http://uk.search.yahoo.com/favicon.ico</item>
+    <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="yahoo_jp">
+    <item>Yahoo! JAPAN</item>
+    <item>yahoo.co.jp</item>
+    <item>http://search.yahoo.co.jp/favicon.ico</item>
+    <item>http://search.yahoo.co.jp/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="rambler">
+    <item>Rambler</item>
+    <item>rambler.ru</item>
+    <item>http://www.rambler.ru/favicon.ico</item>
+    <item>http://www.rambler.ru/srch?words={searchTerms}</item>
+    <item>windows-1251</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_br">
+    <item>Yahoo! Brasil</item>
+    <item>br.yahoo.com</item>
+    <item>http://br.search.yahoo.com/favicon.ico</item>
+    <item>http://br.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://br-sayt.ff.search.yahoo.com/gossip-br-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_zh_HK">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=zh-HK&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_el_GR">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=el-GR&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_tr_TR">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=tr-TR&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="ask_uk">
+    <item>Ask Jeeves</item>
+    <item>uk.ask.com</item>
+    <item>http://uk.ask.com/favicon.ico</item>
+    <item>http://uk.ask.com/web?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ss.uk.ask.com/query?q={searchTerms}&amp;li=ff</item>
+  </string-array>
+  <string-array name="nate">
+    <item>네이트닷컴</item>
+    <item>nate.com</item>
+    <item>http://nate.search.empas.com/favicon.ico</item>
+    <item>http://nate.search.empas.com/search/all.html?q={searchTerms}</item>
+    <item>EUC-KR</item>
+    <item></item>
+  </string-array>
+  <string-array name="uol">
+    <item>UOL Busca</item>
+    <item>busca.uol.com.br</item>
+    <item>http://busca.uol.com.br/favicon.ico</item>
+    <item>http://busca.uol.com.br/www/index.html?q={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="sousuo360">
+    <item>360sousuo</item>
+    <item>m.so.com</item>
+    <item>http://m.so.com/favicon.ico</item>
+    <item>http://m.so.com/s?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="shenma">
+    <item>shenmasousuo</item>
+    <item>m.sa.sm.cn</item>
+    <item>http://m.yz.sm.cn/favicon.ico</item>
+    <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=1623</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="baidu_zh_CN">
+    <item>百度</item>
+    <item>baidu.com</item>
+    <item>http://m.baidu.com/favicon.ico</item>
+    <item>http://m.baidu.com/s?from={searchId}&amp;word={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="baidu">
+    <item>Baidu</item>
+    <item>baidu.com</item>
+    <item>http://m.baidu.com/favicon.ico</item>
+    <item>http://m.baidu.com/s?from={searchId}&amp;word={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="yahoo_ch">
+    <item>Yahoo! Suche</item>
+    <item>ch.yahoo.com</item>
+    <item>http://ch.search.yahoo.com/favicon.ico</item>
+    <item>http://ch.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_nl_BE">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=nl-BE&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_cn">
+    <item>中国雅虎</item>
+    <item>cn.yahoo.com</item>
+    <item>http://search.cn.yahoo.com/favicon.ico</item>
+    <item>http://search.cn.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>GB2312</item>
+    <item></item>
+  </string-array>
+  <string-array name="onet">
+    <item>Onet.pl</item>
+    <item>onet.pl</item>
+    <item>http://szukaj.onet.pl/favicon.ico</item>
+    <item>http://szukaj.onet.pl/query.html?qt={searchTerms}</item>
+    <item>ISO-8859-2</item>
+    <item></item>
+  </string-array>
+  <string-array name="ask_es">
+    <item>Ask.com España</item>
+    <item>es.ask.com</item>
+    <item>http://es.ask.com/favicon.ico</item>
+    <item>http://es.ask.com/web?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ss.es.ask.com/query?q={searchTerms}&amp;li=ff</item>
+  </string-array>
+  <string-array name="bing_cs_CZ">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=cs-CZ&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="altavista_se">
+    <item>AltaVista</item>
+    <item>se.altavista.com</item>
+    <item>http://se.altavista.com/favicon.ico</item>
+    <item>http://se.altavista.com/web/results?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="mail_ru">
+    <item>\@MAIL.RU</item>
+    <item>mail.ru</item>
+    <item>http://img.go.mail.ru/favicon.ico</item>
+    <item>http://go.mail.ru/search?q={searchTerms}</item>
+    <item>windows-1251</item>
+    <item></item>
+  </string-array>
+  <string-array name="hispavista">
+    <item>hispavista</item>
+    <item>hispavista.com</item>
+    <item>http://buscar.hispavista.com/favicon.ico</item>
+    <item>http://buscar.hispavista.com/?cadena={searchTerms}</item>
+    <item>iso-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_zh_CN">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=zh-CN&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="cmcc_zh_CN">
+    <item>中国移动</item>
+    <item>s.139.com</item>
+    <item>http://s.139.com/s/wlflag.ico</item>
+    <item>http://139.chinaso.com/page/search?rs=monternet&amp;q={searchTerms}&amp;f=D</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="cmcc">
+    <item>cmcc</item>
+    <item>s.139.com</item>
+    <item>http://s.139.com/s/wlflag.ico</item>
+    <item>http://139.chinaso.com/page/search?rs=monternet&amp;q={searchTerms}&amp;f=D</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="google">
+    <item>Google</item>
+    <item>google.com</item>
+    <item>http://www.google.com/favicon.ico</item>
+    <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_en_NZ">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-NZ&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_fr_BE">
+    <item>Bing</item>
+    <item></item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=fr-BE&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="rednano">
+    <item>Rednano</item>
+    <item>rednano.sg</item>
+    <item>http://rednano.sg/favicon.ico</item>
+    <item>http://rednano.sg/sfe/lwi.action?querystring={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="goo">
+    <item>goo</item>
+    <item>search.goo.ne.jp</item>
+    <item>http://goo.ne.jp/favicon.ico</item>
+    <item>http://search.goo.ne.jp/web.jsp?MT={searchTerms}&amp;IE={inputEncoding}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="sapo">
+    <item>SAPO</item>
+    <item>sapo.pt</item>
+    <item>http://imgs.sapo.pt/images/sapo.ico</item>
+    <item>http://pesquisa.sapo.pt/?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://pesquisa.sapo.pt/livesapo?q={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_it_IT">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=it-IT&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_es_ES">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=es-ES&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="abcsok">
+    <item>ABC Søk</item>
+    <item>abcsok.no</item>
+    <item>http://abcsok.no/favicon.ico</item>
+    <item>http://abcsok.no/index.html?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_dk">
+    <item>Yahoo! Danmark</item>
+    <item>dk.yahoo.com</item>
+    <item>http://dk.search.yahoo.com/favicon.ico</item>
+    <item>http://dk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_de">
+    <item>Yahoo! Deutschland</item>
+    <item>de.yahoo.com</item>
+    <item>http://de.search.yahoo.com/favicon.ico</item>
+    <item>http://de.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://de-sayt.ff.search.yahoo.com/gossip-de-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_de_AT">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=de-AT&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_pl_PL">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=pl-PL&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="tut">
+    <item>TUT.BY</item>
+    <item>tut.by</item>
+    <item>http://www.tut.by/favicon.ico</item>
+    <item>http://search.tut.by/?query={searchTerms}</item>
+    <item>windows-1251</item>
+    <item></item>
+  </string-array>
+  <string-array name="spray">
+    <item>Spray</item>
+    <item>spray.se</item>
+    <item>http://www.eniro.se/favicon.ico</item>
+    <item>http://www.eniro.se/query?ax=spray&amp;search_word={searchTerms}&amp;what=web</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="wp">
+    <item>Wirtualna Polska</item>
+    <item>wp.pl</item>
+    <item>http://szukaj.wp.pl/favicon.ico</item>
+    <item>http://szukaj.wp.pl/szukaj.html?szukaj={searchTerms}</item>
+    <item>ISO-8859-2</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_tw">
+    <item>Yahoo!奇摩</item>
+    <item>tw.yahoo.com</item>
+    <item>http://tw.search.yahoo.com/favicon.ico</item>
+    <item>http://tw.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="atlas_cz">
+    <item>Atlas</item>
+    <item>atlas.cz</item>
+    <item>http://img.atlas.cz/favicon.ico</item>
+    <item>http://search.atlas.cz/?q={searchTerms}</item>
+    <item>windows-1250</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_en_GB">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-GB&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_es">
+    <item>Yahoo! España</item>
+    <item>es.yahoo.com</item>
+    <item>http://es.search.yahoo.com/favicon.ico</item>
+    <item>http://es.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://es-sayt.ff.search.yahoo.com/gossip-es-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="libero">
+    <item>Libero</item>
+    <item>libero.it</item>
+    <item>http://arianna.libero.it/favicon.ico</item>
+    <item>http://arianna.libero.it/search/abin/integrata.cgi?query={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_sv_SE">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=sv-SE&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_nz">
+    <item>Yahoo!Xtra</item>
+    <item>nz.yahoo.com</item>
+    <item>http://nz.search.yahoo.com/favicon.ico</item>
+    <item>http://nz.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://aue-sayt.ff.search.yahoo.com/gossip-nz-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="terra_es">
+    <item>Terra</item>
+    <item>terra.es</item>
+    <item>http://buscador.terra.es/favicon.ico</item>
+    <item>http://buscador.terra.es/Default.aspx?query={searchTerms}&amp;source=Search</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_nl">
+    <item>Yahoo! Nederland</item>
+    <item>nl.yahoo.com</item>
+    <item>http://nl.search.yahoo.com/favicon.ico</item>
+    <item>http://nl.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_no">
+    <item>Yahoo! Norge</item>
+    <item>no.yahoo.com</item>
+    <item>http://no.search.yahoo.com/favicon.ico</item>
+    <item>http://no.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="daum">
+    <item>Daum</item>
+    <item>daum.net</item>
+    <item>http://search.daum.net/favicon.ico</item>
+    <item>http://search.daum.net/search?q={searchTerms}</item>
+    <item>EUC-KR</item>
+    <item>http://sug.search.daum.net/search_nsuggest?mod=fxjson&amp;q={searchTerms}</item>
+  </string-array>
+  <string-array name="yahoo_fr">
+    <item>Yahoo! France</item>
+    <item>fr.yahoo.com</item>
+    <item>http://fr.search.yahoo.com/favicon.ico</item>
+    <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="ask_nl">
+    <item>Ask.com Nederland</item>
+    <item>nl.ask.com</item>
+    <item>http://nl.ask.com/favicon.ico</item>
+    <item>http://nl.ask.com/web?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ss.nl.ask.com/query?q={searchTerms}&amp;li=ff</item>
+  </string-array>
+  <string-array name="seznam">
+    <item>Seznam</item>
+    <item>seznam.cz</item>
+    <item>http://1.im.cz/szn/img/favicon.ico</item>
+    <item>http://search.seznam.cz/?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggest.fulltext.seznam.cz/?dict=fulltext_ff&amp;phrase={searchTerms}&amp;encoding={inputEncoding}&amp;response_encoding=utf-8</item>
+  </string-array>
+  <string-array name="centrum_cz">
+    <item>Centrum.cz</item>
+    <item>centrum.cz</item>
+    <item>http://img.centrum.cz/6/vy2/o/favicon.ico</item>
+    <item>http://search.centrum.cz/index.php?charset={inputEncoding}&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="eniro_se">
+    <item>Eniro</item>
+    <item>eniro.se</item>
+    <item>http://eniro.se/favicon.ico</item>
+    <item>http://eniro.se/query?search_word={searchTerms}&amp;what=web_local</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="kvasir">
+    <item>Kvasir</item>
+    <item>kvasir.no</item>
+    <item>http://www.kvasir.no/img/favicon.ico</item>
+    <item>http://www.kvasir.no/nettsok/searchResult.html?searchExpr={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo">
+    <item>Yahoo!</item>
+    <item>yahoo.com</item>
+    <item>http://search.yahoo.com/favicon.ico</item>
+    <item>http://search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_en_IE">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-IE&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_pt_PT">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=pt-PT&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_de_CH">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=de-CH&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_nl_NL">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=nl-NL&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_fr_CH">
+    <item>Bing</item>
+    <item></item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=fr-CH&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_zh_TW">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=zh-TW&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_ru_RU">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=ru-RU&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_en_AU">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-AU&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing_da_DK">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=da-DK&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="ask_it">
+    <item>Ask.com Italia</item>
+    <item>it.ask.com</item>
+    <item>http://it.ask.com/favicon.ico</item>
+    <item>http://it.ask.com/web?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ss.it.ask.com/query?q={searchTerms}&amp;li=ff</item>
+  </string-array>
+  <string-array name="yandex_ru">
+    <item>Яндекс</item>
+    <item>yandex.ru</item>
+    <item>http://yandex.ru/favicon.ico</item>
+    <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_ja_JP">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=ja-JP&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_kr">
+    <item>야후! 코리아</item>
+    <item>kr.yahoo.com</item>
+    <item>http://kr.search.yahoo.com/favicon.ico</item>
+    <item>http://kr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://kr.atc.search.yahoo.com/atcx.php?property=main&amp;ot=fxjson&amp;ei=utf8&amp;eo=utf8&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="ask_de">
+    <item>Ask.com Deutschland</item>
+    <item>de.ask.com</item>
+    <item>http://de.ask.com/favicon.ico</item>
+    <item>http://de.ask.com/web?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ss.de.ask.com/query?q={searchTerms}&amp;li=ff</item>
+  </string-array>
+  <string-array name="yahoo_hk">
+    <item>Yahoo! Hong Kong</item>
+    <item>hk.yahoo.com</item>
+    <item>http://hk.search.yahoo.com/favicon.ico</item>
+    <item>http://hk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_fr_FR">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=fr-FR&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="in">
+    <item>in.gr</item>
+    <item>in.gr</item>
+    <item>http://www.in.gr/favicon.ico</item>
+    <item>http://find.in.gr/?qs={searchTerms}</item>
+    <item>ISO-8859-7</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_nb_NO">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=nb-NO&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_sg">
+    <item>Yahoo! Singapore</item>
+    <item>sg.yahoo.com</item>
+    <item>http://sg.search.yahoo.com/favicon.ico</item>
+    <item>http://sg.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://sg-sayt.ff.search.yahoo.com/gossip-sg-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="yahoo_se">
+    <item>Yahoo! Sverige</item>
+    <item>se.yahoo.com</item>
+    <item>http://se.search.yahoo.com/favicon.ico</item>
+    <item>http://se.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_de_DE">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=de-DE&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="search_de_CH">
+    <item>search.ch</item>
+    <item>search.ch</item>
+    <item>http://www.search.ch/favicon.ico</item>
+    <item>http://www.search.ch/index.de.html?q={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="mynet">
+    <item>MYNET</item>
+    <item>mynet.com</item>
+    <item>http://img.mynet.com/mynetfavori.ico</item>
+    <item>http://arama.mynet.com/search.aspx?q={searchTerms}&amp;pg=q</item>
+    <item>windows-1254</item>
+    <item></item>
+  </string-array>
+  <string-array name="search_fr_CH">
+    <item>search.ch</item>
+    <item></item>
+    <item>http://www.search.ch/favicon.ico</item>
+    <item>http://www.search.ch/index.fr.html?q={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="virgilio">
+    <item>Virgilio</item>
+    <item>virgilio.it</item>
+    <item>http://ricerca.alice.it/favicon.ico</item>
+    <item>http://ricerca.alice.it/ricerca?qs={searchTerms}</item>
+    <item>ISO-8859-1</item>
+    <item></item>
+  </string-array>
+  <string-array name="bing_en_SG">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-SG&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="yahoo_it">
+    <item>Yahoo! Italia</item>
+    <item>it.yahoo.com</item>
+    <item>http://it.search.yahoo.com/favicon.ico</item>
+    <item>http://it.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://it-sayt.ff.search.yahoo.com/gossip-it-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="yahoo_at">
+    <item>Yahoo! Suche</item>
+    <item>at.yahoo.com</item>
+    <item>http://at.search.yahoo.com/favicon.ico</item>
+    <item>http://at.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="yahoo_au">
+    <item>Yahoo!7</item>
+    <item>au.yahoo.com</item>
+    <item>http://au.search.yahoo.com/favicon.ico</item>
+    <item>http://au.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://aue-sayt.ff.search.yahoo.com/gossip-au-sayt?output=fxjson&amp;command={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_pt_BR">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=pt-BR&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="bing">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="netsprint">
+    <item>NetSprint</item>
+    <item>netsprint.pl</item>
+    <item>http://netsprint.pl/favicon.ico</item>
+    <item>http://www.netsprint.pl/serwis/search?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item></item>
+  </string-array>
+  <string-array name="naver">
+    <item>네이버</item>
+    <item>naver.com</item>
+    <item>http://search.naver.com/favicon.ico</item>
+    <item>http://search.naver.com/search.naver?ie={inputEncoding}&amp;query={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://ac.search.naver.com/autocompl?m=s&amp;ie={inputEncoding}&amp;oe=utf-8&amp;q={searchTerms}</item>
+  </string-array>
+  <string-array name="bing_en_ZA">
+    <item>Bing</item>
+    <item>bing.com</item>
+    <item>http://www.bing.com/s/wlflag.ico</item>
+    <item>http://www.bing.com/search?setmkt=en-ZA&amp;q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+  </string-array>
+  <string-array name="easou">
+    <item>Easou</item>
+    <item>easou.com</item>
+    <item>http://i.easou.com/favicon.ico</item>
+    <item>http://i.easou.com/s.m?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="soso">
+    <item>Soso</item>
+    <item>soso.com</item>
+    <item>http://it.search.yahoo.com/favicon.ico</item>
+    <item>http://wap.soso.com/sweb/search.jsp?key={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="sogou">
+    <item>Sogou</item>
+    <item>sogou.com</item>
+    <item>http://wap.sogou.com/favicon.ico</item>
+    <item>http://wap.sogou.com/web/sl?keyword={searchTerms}&amp;bid=sogou-mobp-700fdb2ba62d4554</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="shopping">
+    <item>Shopping</item>
+    <item>taobao.com</item>
+    <item>http://m.taobao.com/favicon.ico</item>
+    <item>http://s.m.taobao.com/search.htm?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="video">
+    <item>Video</item>
+    <item>baidu.com</item>
+    <item>http://www.soku.com/m/favicon.ico</item>
+    <item>http://www.soku.com/m/y/video?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="music">
+    <item>Music</item>
+    <item>qq.com</item>
+    <item>http://m.y.qq.com/favicon.ico</item>
+    <item>http://m.y.qq.com/#search/{searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="app">
+    <item>App</item>
+    <item>baidu.com</item>
+    <item>http://wap.ztems.com/favicon.ico</item>
+    <item>http://wap.ztems.com/zxh5/?search_key={searchTerms}#app_searchkey</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="food">
+    <item>Food</item>
+    <item>baidu.com</item>
+    <item>http://m.dianping.com/favicon.ico</item>
+    <item>http://m.dianping.com/shoplist/2/r/0/c/0/s/s_-1/kw/{searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="dictionary">
+    <item>Dictionary</item>
+    <item>baidu.com</item>
+    <item>http://dict.youdao.com/m/favicon.ico</item>
+    <item>http:/dict.youdao.com/m/search?q={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="picture">
+    <item>Cloud</item>
+    <item>baidu.com</item>
+    <item>http://m.baidu.com/favicon.ico</item>
+    <item>http://m.baidu.com/s?vit=union&amp;from={searchId}&amp;st=103041&amp;word={searchTerms}</item>
+    <item>UTF-8</item>
+    <item>http://suggestion.baidu.com/su?from={searchId}&amp;wd={searchTerms}&amp;action=opensearch&amp;ie={inputEncoding}</item>
+  </string-array>
+  <string-array name="bandwidth_entry_values">
+    <item>always_prefetch</item>
+    <item>prefetch_on_wifi</item>
+    <item>never_prefetch</item>
+  </string-array>
+  <string-array name="bandwidth_entries">
+    <item>@string/always_prefetch_bandwidth_entry</item>
+    <item>@string/wifi_prefetch_bandwidth_entry</item>
+    <item>@string/never_prefetch_bandwidth_entry</item>
+  </string-array>
+  <string-array name="rotate_screen_entries">
+    <item>@string/rotate_screen_as_system</item>
+    <item>@string/rotate_screen_landscape</item>
+    <item>@string/rotate_screen_portrait</item>
+  </string-array>
+  <string-array name="rotate_screen_entries_keep">
+    <item>@string/rotate_screen_keep</item>
+    <item>@string/rotate_screen_follow</item>
+  </string-array>
+  <string-array name="array_cloud_speed_pic_item">
+    <item>@string/array_cloud_speed_pic_item_orig</item>
+    <item>@string/array_cloud_speed_pic_item_high</item>
+    <item>@string/array_cloud_speed_pic_item_mid</item>
+    <item>@string/array_cloud_speed_pic_item_low</item>
+  </string-array>
+  <string-array name="download_app_package_entries">
+    <item>@string/download_app_package_in_wifi</item>
+    <item>@string/never_download_app_package</item>
+  </string-array>
+  <string-array name="rotate_screen_entry_values">
+    <item>as_system</item>
+    <item>landscape</item>
+    <item>portrait</item>
+  </string-array>
+  <string-array name="crash_upload_entries">
+    <item>@string/crash_dump_always_upload</item>
+    <item>@string/crash_dump_only_with_wifi</item>
+    <item>@string/crash_dump_never_upload</item>
+  </string-array>
+  <string-array name="crash_upload_values">
+    <item>@string/crash_dump_always_upload_value</item>
+    <item>@string/crash_dump_only_with_wifi_value</item>
+    <item>@string/crash_dump_never_upload_value</item>
+  </string-array>
+  <string-array name="allow_block_spinner">
+    <item>@string/allow_block_spinner</item>
+    <item>@string/block_block_spinner</item>
+    <item>@string/default_block_spinner</item>
+  </string-array>
+  <array name="official_command_line" />
+  <string-array name="browse_mode_entry_values">
+    <item>android</item>
+    <item>iphone</item>
+    <item>ipad</item>
+    <item>other</item>
+  </string-array>
+  <string-array name="browse_mode_entries">
+    <item>android</item>
+    <item>iphone</item>
+    <item>ipad</item>
+    <item>other</item>
+  </string-array>
+  <string-array name="plugins_state_entries">
+    <item>@string/plugins_state_on</item>
+    <item>@string/plugins_state_ondemand</item>
+    <item>@string/plugins_state_off</item>
+  </string-array>
+  <string-array name="homepage_subscription_entries">
+    <item>@string/subscription_state_simple</item>
+    <item>@string/subscription_state_whole</item>
+  </string-array>
+  <string-array name="browser_user_agent_entries">
+    <item>@string/user_agent_android</item>
+    <item>@string/user_agent_iphone</item>
+    <item>@string/user_agent_ipad</item>
+    <item>@string/user_agent_computer</item>
+  </string-array>
+  <string-array name="cloud_speed_type_entries">
+    <item>@string/cloud_speed_colorful_pic</item>
+    <item>@string/cloud_speed_standard_pic</item>
+    <item>@string/cloud_speed_lowcolor_pic</item>
+    <item>@string/cloud_speed_superlowcolor_pic</item>
+  </string-array>
+  <string-array name="front_size_entries">
+    <item>@string/front_size_super_small</item>
+    <item>@string/front_size_small</item>
+    <item>@string/front_size_normall</item>
+    <item>@string/front_size_large</item>
+  </string-array>
+  <string-array name="font_entries">
+    <item>Sans-serif</item>
+    <item>Serif</item>
+    <item>Monospace</item>
+  </string-array>
+  <string-array name="setting_roate_dialog_item">
+    <item>@string/rotate_screen_as_system</item>
+    <item>@string/rotate_screen_landscape</item>
+    <item>@string/rotate_screen_portrait</item>
+  </string-array>
+  <string-array name="setting_fling_dialog_item">
+    <item>@string/page_model_float</item>
+    <item>@string/page_model_key</item>
+  </string-array>
+  <string-array name="setting_nopic_dialog_item">
+    <item>@string/nopic_model_auto</item>
+    <item>@string/nopic_mode_always</item>
+  </string-array>
+  <string-array name="front_size_values">
+    <item>0.5</item>
+    <item>1</item>
+    <item>1.5</item>
+  </string-array>
+  <string-array name="encoding_rules_entries">
+    <item>@string/AUTO</item>
+    <item>@string/iso_8859_1</item>
+    <item>@string/utf_8</item>
+    <item>@string/gbk</item>
+    <item>@string/big5</item>
+    <item>@string/iso_2022_jp</item>
+    <item>@string/shift_jis</item>
+    <item>@string/euc_jp</item>
+  </string-array>
+  <string-array name="encoding_rules_values">
+    <item>auto-detector</item>
+    <item>ISO-8859-1</item>
+    <item>UTF-8</item>
+    <item>GBK</item>
+    <item>Big5</item>
+    <item>ISO-2022-JP</item>
+    <item>Shift_JIS</item>
+    <item>EUC-JP</item>
+  </string-array>
+  <string-array name="wifi_preload_rules_entries">
+    <item>@string/wifi_preload_close</item>
+    <item>@string/wifi_preload_open_in_wifi</item>
+    <item>@string/wifi_preload_open</item>
+  </string-array>
+  <string-array name="picture_mode_entries">
+    <item>@string/picture_mode</item>
+    <item>@string/no_picture_mode</item>
+    <item>@string/save_network_data</item>
+  </string-array>
+  <string-array name="picture_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="homepage_popup_oftencontent">
+    <item>@string/delete</item>
+    <item>@string/open_in_background</item>
+  </string-array>
+  <string-array name="bookmark_popup_content_isnotpreset">
+    <item>@string/contextmenu_open_in_new_top_tab</item>
+    <item>@string/contextmenu_open_in_new_tab</item>
+    <item>@string/remove_bookmark</item>
+    <item>@string/modify_bookmark</item>
+    <item>@string/slidingmenu_addshortcut</item>
+    <item>@string/slidingmenu_sendtodesktop</item>
+    <item>@string/slidingmenu_sharepage</item>
+  </string-array>
+  <string-array name="bookmark_popup_content_third_isnotpreset">
+    <item>@string/contextmenu_open_in_new_top_tab</item>
+    <item>@string/contextmenu_open_in_new_tab</item>
+    <item>@string/remove_bookmark</item>
+    <item>@string/modify_bookmark</item>
+    <item>@string/slidingmenu_addshortcut</item>
+  </string-array>
+  <string-array name="bookmark_popup_content_oldman_isnotpreset">
+    <item>@string/remove_bookmark</item>
+    <item>@string/modify_bookmark</item>
+    <item>@string/slidingmenu_addshortcut</item>
+    <item>@string/contextmenu_open_in_new_top_tab</item>
+  </string-array>
+  <string-array name="bookmark_popup_content_ispreset">
+    <item>@string/menu_add_to_home</item>
+    <item>@string/contextmenu_sharelink</item>
+  </string-array>
+  <string-array name="bookmarkfolder_popup_content">
+    <item>@string/rename_folder</item>
+    <item>@string/deleteroot_folder</item>
+  </string-array>
+  <string-array name="bookmarksavepage_popup_content">
+    <item>@string/deleteroot_folder</item>
+  </string-array>
+  <string-array name="history_popup_content">
+    <item>@string/slidingmenu_addshortcut</item>
+    <item>@string/remove_history_item</item>
+  </string-array>
+  <string-array name="setting_search_engines_gen">
+    <item>@string/csearch_sogou</item>
+    <item>@string/csearch_shenma</item>
+    <item>@string/csearch_baidu</item>
+    <item>@string/csearch_google</item>
+    <item>@string/csearch_bing</item>
+  </string-array>
+  <string-array name="setting_search_engines_cmcc">
+    <item>@string/csearch_baidu</item>
+  </string-array>
+  <string-array name="setting_search_engines_ct">
+    <item>@string/csearch_baidu</item>
+    <item>@string/csearch_shenma</item>
+    <item>@string/csearch_bing</item>
+  </string-array>
+  <string-array name="setting_search_engines_unicom">
+    <item>@string/csearch_baidu</item>
+    <item>@string/csearch_shenma</item>
+    <item>@string/csearch_bing</item>
+  </string-array>
+  <string-array name="search_engines_gen">
+    <item>sogou</item>
+    <item>shenma</item>
+    <item>baidu</item>
+    <item>google</item>
+    <item>bing</item>
+  </string-array>
+  <string-array name="search_engines_cmcc">
+    <item>baidu</item>
+    <item>cmcc</item>
+  </string-array>
+  <string-array name="search_engines_ct">
+    <item>baidu</item>
+    <item>easou</item>
+    <item>sougou</item>
+  </string-array>
+  <string-array name="search_engines_unicom">
+    <item>baidu</item>
+    <item>easou</item>
+    <item>sogou</item>
+  </string-array>
+  <string-array name="bottom_add_to_shotcut">
+    <item>@string/menu_add_to_homapage</item>
+    <item>@string/menu_add_to_homescreen</item>
+  </string-array>
+  <string-array name="import_export_bookmarks">
+    <item>@string/exportbookmaks</item>
+    <item>@string/importbookmarks</item>
+  </string-array>
+  <string-array name="sync_bookmarks">
+    <item>@string/exportbookmakstocloud</item>
+    <item>@string/importbookmarksfromcloud</item>
+    <item>@string/exportbookmaks</item>
+    <item>@string/importbookmarks</item>
+  </string-array>
+  <string-array name="sync_bookmarks_system">
+    <item>@string/import_system_bookmarks</item>
+    <item>@string/exportbookmakstocloud</item>
+    <item>@string/importbookmarksfromcloud</item>
+    <item>@string/exportbookmaks</item>
+    <item>@string/importbookmarks</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item>baidu</item>
+    <item>easou</item>
+    <item>sogou</item>
+  </string-array>
+  <string-array name="urlbar_popup_menu_no_paste">
+    <item>@string/clip_copy_all</item>
+    <item>@string/clip_select</item>
+  </string-array>
+  <string-array name="urlbar_popup_menu_no_select">
+    <item>@string/clip_paste</item>
+    <item>@string/clip_paste_entre</item>
+  </string-array>
+  <string-array name="urlbar_popup_menu">
+    <item>@string/clip_copy_all</item>
+    <item>@string/clip_select</item>
+    <item>@string/clip_paste</item>
+    <item>@string/clip_paste_entre</item>
+  </string-array>
+  <string-array name="download_flow_name">
+    <item>2MB</item>
+    <item>5MB</item>
+    <item>10MB</item>
+    <item>@string/unlimited</item>
+  </string-array>
+  <string-array name="download_flow_value">
+    <item>2</item>
+    <item>5</item>
+    <item>10</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="open_download_item">
+    <item>@string/open</item>
+    <item>@string/delete_download</item>
+    <item>@string/details</item>
+    <item>@string/upload</item>
+  </string-array>
+  <string-array name="fileEndingImage">
+    <item>.bmp</item>
+    <item>.gif</item>
+    <item>.jpeg</item>
+    <item>.jpg</item>
+    <item>.png</item>
+  </string-array>
+  <string-array name="fileEndingAudio">
+    <item>.3ga</item>
+    <item>.3gpp</item>
+    <item>.acc</item>
+    <item>.amr</item>
+    <item>.flac</item>
+    <item>.imy</item>
+    <item>.m4a</item>
+    <item>.mid</item>
+    <item>.midi</item>
+    <item>.mogg</item>
+    <item>.mp3</item>
+    <item>.mp4a</item>
+    <item>.mpeg</item>
+    <item>.mxmf</item>
+    <item>.ota</item>
+    <item>.qcp</item>
+    <item>.rtttl</item>
+    <item>.rxt</item>
+    <item>.wav</item>
+    <item>.wma</item>
+    <item>.mxf</item>
+  </string-array>
+  <string-array name="fileEndingPackage">
+    <item>.jar</item>
+    <item>.zip</item>
+    <item>.rar</item>
+    <item>.gz</item>
+    <item>.7z</item>
+  </string-array>
+  <string-array name="fileEndingWebText">
+    <item>.htm</item>
+    <item>.html</item>
+    <item>.php</item>
+  </string-array>
+  <string-array name="fileEndingVideo">
+    <item>.3g2</item>
+    <item>.3gp</item>
+    <item>.avi</item>
+    <item>.m4v</item>
+    <item>.mov</item>
+    <item>.mp4</item>
+    <item>.mpg</item>
+    <item>.rmvb</item>
+    <item>.webm</item>
+    <item>.wmv</item>
+  </string-array>
+  <string-array name="downloadlist_sorted_type">
+    <item>@string/download_title_sorted_by_date</item>
+    <item>@string/download_title_sorted_by_name</item>
+    <item>@string/download_title_sorted_by_type</item>
+    <item>@string/download_title_sorted_by_size</item>
+  </string-array>
+  <string-array name="bookmarks_mobile">
+    <item>冲浪网址</item>
+    <item>http://go.10086.cn/?coc=6GG2GGRq</item>
+    <item>139邮箱</item>
+    <item>http://mail.10086.cn/</item>
+    <item>飞信首页</item>
+    <item>http://f.10086.cn/</item>
+    <item>12580</item>
+    <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+    <item>无线音乐</item>
+    <item>http://m.10086.cn/</item>
+    <item>手机视频</item>
+    <item>http://wap.cmvideo.cn/</item>
+    <item>手机游戏</item>
+    <item>http://g.10086.cn/</item>
+    <item>手机阅读</item>
+    <item>http://wap.cmread.com/</item>
+    <item>MM综合门户</item>
+    <item>http://mm.10086.cn/a/j/2743/</item>
+  </string-array>
+  <string-array name="bookmarks_unicom">
+    <item>手机音乐</item>
+    <item>http://wap.mv.wo.com.cn/</item>
+    <item>手机营业厅</item>
+    <item>http://wap.10010.com/</item>
+    <item>沃商店</item>
+    <item>http://mstore.wo.com.cn/</item>
+    <item>中国联通3G主页</item>
+    <item>http://www.wo.com.cn/</item>
+  </string-array>
+  <string-array name="bookmarks_default">
+    <item>今日热点</item>
+    <item>http://umeweb.cn/p20n/bdnews/bd.php</item>
+    <item>问医生</item>
+    <item>http://m.soujibing.com/?from=zte</item>
+    <item>新浪彩票</item>
+    <item>http://8.sina.cn/index.do?agentId=2334080&amp;vt=5</item>
+    <item>影视</item>
+    <item>http://m.tv.sohu.com/?pvid=53d7f2fcecf67ef8&amp;fcid=1748&amp;cid=1515&amp;nid=11120</item>
+    <item>掌阅书城</item>
+    <item>http://m.ireader.com/qd.php?p2=104061</item>
+    <item>资讯</item>
+    <item>http://app.myzaker.com/news/app.php?fcid=1748&amp;cid=598&amp;nid=30968</item>
+    <item>应用中心</item>
+    <item>http://www.wandoujia.com/apps?utm_source=umebrowser&amp;utm_campaign=biz&amp;utm_medium=searchapi</item>
+    <item>糗事百科</item>
+    <item>http://m.qiushibaike.com/?fcid=1748&amp;cid=1455&amp;nid=11218</item>
+    <item>百度</item>
+    <item>http://m.baidu.com/?from=1013276b</item>
+    <item>58同城</item>
+    <item>http://m.58.com/?utm_source=zx_gg</item>
+    <item>淘宝网</item>
+    <item>http://m.taobao.com/?fcid=1748&amp;cid=1459&amp;nid=28113</item>
+    <item>搜索</item>
+    <item>http://m.yz.sm.cn/?from=100078</item>
+    <item>网址导航</item>
+    <item>http://hao.uc.cn/business?source=zx</item>
+  </string-array>
+  <string-array name="bookmarks_telecom_low">
+    <item>中兴商城</item>
+    <item>http://www.myzte.com/</item>
+    <item>星星论坛</item>
+    <item>http://www.myzte.cn/</item>
+    <item>人民网</item>
+    <item>http://www.people.com.cn/</item>
+    <item>天翼手机网</item>
+    <item>http://www.hicdma.com/</item>
+    <item>新华网</item>
+    <item>http://www.xinhuanet.com/</item>
+    <item>凤凰网</item>
+    <item>http://www.ifeng.com/</item>
+    <item>搜狐网</item>
+    <item>http://www.sohu.com/</item>
+    <item>新浪网</item>
+    <item>http://www.sina.com.cn/</item>
+    <item>百度地图</item>
+    <item>http://map.baidu.com/</item>
+    <item>同花顺</item>
+    <item>http://www.10jqka.com.cn/</item>
+    <item>淘宝</item>
+    <item>http://m.taobao.com/</item>
+    <item>酷狗音乐</item>
+    <item>http://m.kugou.com/</item>
+    <item>腾讯新闻</item>
+    <item>http://news.qq.com/</item>
+    <item>优酷</item>
+    <item>http://www.youku.com/</item>
+    <item>百度搜索</item>
+    <item>http://m.baidu.com/</item>
+  </string-array>
+  <string-array name="bookmarks_telecom_surfing">
+    <item>中兴商城</item>
+    <item>http://www.myzte.com/</item>
+    <item>星星论坛</item>
+    <item>http://www.myzte.cn/</item>
+    <item>人民网</item>
+    <item>http://www.people.com.cn/</item>
+    <item>天翼手机网</item>
+    <item>http://www.hicdma.com/</item>
+    <item>新华网</item>
+    <item>http://www.xinhuanet.com/</item>
+    <item>凤凰网</item>
+    <item>http://www.ifeng.com/</item>
+    <item>搜狐网</item>
+    <item>http://www.sohu.com/</item>
+    <item>新浪网</item>
+    <item>http://www.sina.com.cn/</item>
+    <item>支付宝</item>
+    <item>http://auth.alipay.com/</item>
+    <item>QQ游戏</item>
+    <item>http://qqgame.qq.com/</item>
+    <item>同花顺</item>
+    <item>http://www.10jqka.com.cn/</item>
+    <item>淘宝</item>
+    <item>http://m.taobao.com/</item>
+    <item>酷狗音乐</item>
+    <item>http://m.kugou.com/</item>
+  </string-array>
+  <string-array name="bookmarks_telecom_P826N30">
+    <item>新华网</item>
+    <item>http://www.xinhuanet.com/</item>
+    <item>凤凰网</item>
+    <item>http://www.ifeng.com/</item>
+    <item>新浪网</item>
+    <item>http://www.sina.com.cn/</item>
+    <item>天翼手机网</item>
+    <item>http://www.hicdma.com/</item>
+    <item>人民网</item>
+    <item>http://www.people.com.cn/</item>
+    <item>搜狐网</item>
+    <item>http://www.sohu.com/</item>
+    <item>我查查</item>
+    <item>http://www.wochacha.com/</item>
+    <item>有道词典</item>
+    <item>http://dict.youdao.com/</item>
+    <item>同花顺</item>
+    <item>http://www.10jqka.com.cn/</item>
+    <item>大众点评</item>
+    <item>http://android.dianping.com/dianxin/</item>
+    <item>新浪微博</item>
+    <item>http://weibo.com/</item>
+    <item>星星论坛</item>
+    <item>http://www.myzte.cn/</item>
+    <item>中兴商城</item>
+    <item>http://www.myzte.com/</item>
+  </string-array>
+  <string-array name="bookmarks_telecom_P812H03">
+    <item>我查查</item>
+    <item>http://www.wochacha.com/</item>
+    <item>UC浏览器</item>
+    <item>http://www.uc.cn/</item>
+    <item>有道词典</item>
+    <item>http://dict.youdao.com/</item>
+    <item>同花顺</item>
+    <item>http://www.10jqka.com.cn/</item>
+    <item>大众点评</item>
+    <item>http://cps.dianping.com/redirect?src=ztebrowser</item>
+    <item>淘宝</item>
+    <item>http://www.taobao.com/</item>
+    <item>微信</item>
+    <item>http://weixin.qq.com/</item>
+  </string-array>
+  <string-array name="bookmarks_telecom_guangzhou">
+    <item>百度地图</item>
+    <item>http://map.baidu.com/</item>
+    <item>同花顺</item>
+    <item>http://www.10jqka.com.cn/</item>
+    <item>淘宝</item>
+    <item>http://m.taobao.com/</item>
+    <item>酷狗音乐</item>
+    <item>http://m.kugou.com/</item>
+    <item>腾讯新闻</item>
+    <item>http://news.qq.com/</item>
+    <item>优酷</item>
+    <item>http://www.youku.com/</item>
+    <item>百度搜索</item>
+    <item>http://m.baidu.com/</item>
+  </string-array>
+</resources>

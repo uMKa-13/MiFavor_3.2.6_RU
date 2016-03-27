@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth extensions</string>
+    <string name="defaultname">Carkit</string>
+    <string name="process" />
+    <string name="bluetooth_remember_choice">"Don't ask again"</string>
+    <string name="acceptance_timeout_message">Acceptance of connection from %1$s timed out</string>
+    <string name="authentication_timeout_message">Authentication with %1$s timed out</string>
+    <string name="notif_ticker">Bluetooth connection request</string>
+    <string name="notif_message">"Touch to connect to '%1$s'."</string>
+    <string name="bluetooth_dun_request">DUN request</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s would like to use DUN. Give access to %2$s?</string>
+    <string name="ftp_session_key_dialog_title">Type session key for %1$s</string>
+    <string name="ftp_session_key_dialog_header">Bluetooth session key required</string>
+    <string name="ftp_notif_title">Session key request for FTP</string>
+    <string name="ftp_notif_active_session">Bluetooth FTP active session</string>
+    <string name="ftp_notif_connected">"Bluetooth file transfer access to '%1$s'."</string>
+    <string name="bluetooth_ftp_request">FTP request</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
+    <string name="map_notif_active_session">Bluetooth MAP active session</string>
+    <string name="map_notif_connected">"Bluetooth message access to '%1$s'."</string>
+    <string name="bluetooth_mas_request">Message access request</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
+    <string name="bluetooth_sap_request">SAP request</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
+</resources>

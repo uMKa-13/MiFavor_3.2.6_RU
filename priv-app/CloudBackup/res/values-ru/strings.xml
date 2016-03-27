@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="BackupFinishTitle">Резервное копирование данных завершено</string>
+  <string name="RestoreFinishTitle">Восстановление данных завершено</string>
+  <string name="appLauncherTitle">Резервная копия</string>
+  <string name="help_title">Помощь</string>
+  <string name="NoSpace">Недостаточно места</string>
+  <string name="NoSpaceConfirm">Пожалуйста, освободите место и попытайтесь снова.</string>
+  <string name="Backupview_title">Данные резервного копирования</string>
+  <string name="Next">Следующий</string>
+  <string name="Available_status">Доступное место:</string>
+  <string name="Backup_status">Необходимое место:</string>
+  <string name="FillFileInfoTitle">Данные резервного копирования</string>
+  <string name="PasswordErrorContent">Пароли не совпадают. Пожалуйста, попытайтесь снова.</string>
+  <string name="PasswordErrorTitle">Пароли не совпадают.</string>
+  <string name="OK">ОК</string>
+  <string name="RemoveCardCancleTitle">Карта SD вынута</string>
+  <string name="RemoveCardContent">Ката памяти вынута</string>
+  <string name="RemoveCardCancleContent">Карта SD вынута</string>
+  <string name="RemoveCardBackupCancleContent">Карта SD вынута. Резервная копия прервано.</string>
+  <string name="RemoveCardRestoreCancleContent">Карта SD вынута. Восстановление прервано.</string>
+  <string name="ProcessBackCancleTitle">Резервное копирование отменено</string>
+  <string name="LogProcessBackCancleTitle">Создание резервной копии отменено</string>
+  <string name="ProcessBackCancleContent">Резервная копия отменена</string>
+  <string name="ProcessRestoreCancleTitle">Восстановление отменено</string>
+  <string name="ProcessRestoreCancleContent">Восстановление отменено</string>
+  <string name="CANCLE">Отмена</string>
+  <string name="NoCardTitle">Нет SD карты</string>
+  <string name="NOSDcard">Пожалуйста, вставьте SD карту</string>
+  <string name="DeleteMenu">Удалите</string>
+  <string name="DeleteDone">Готово</string>
+  <string name="DeleteMark">Отметить все</string>
+  <string name="UnDeleteMark">Отменить отметку всего</string>
+  <string name="DeleteFileMenu">Удалить файл резервного копирования</string>
+  <string name="DeleteCancle">Отмена</string>
+  <string name="App_Backup">Старт</string>
+  <string name="App_Restore">Восстановить</string>
+  <string name="App_Help">Помощь</string>
+  <string name="Sel_Contacts">Контакты</string>
+  <string name="Sel_Messages">SMS</string>
+  <string name="Sel_Calendar">Календари</string>
+  <string name="Sel_MMS">MMS</string>
+  <string name="Sel_SMSMMS">Сообщение</string>
+  <string name="AvaSpace">Доступное место:</string>
+  <string name="NeedSpace">Необходимое место:</string>
+  <string name="Unit">МБ</string>
+  <string name="RestoreSelectedItems">Восстановить выбранные объекты</string>
+  <string name="BackResNoData">Нет данных</string>
+  <string name="BackResSuccess">Успех</string>
+  <string name="BackResFail">Неудача</string>
+  <string name="BackResDbFull">БД полна</string>
+  <string name="EnterPasswordErrorContent">Неправильный пароль. Пожалуйста, попытайтесь еще раз</string>
+  <string name="ProcessRestoreTitle">Восстановить приложения</string>
+  <string name="RestoreTitle">Восстановить данные</string>
+  <string name="ProcessRestoreContent">Вы хотите перезаписать прежние данные? (будут перезаписаны только установки системы и основные установки)</string>
+  <string name="ProcessBack">На это может потребоваться несколько минут. Не вынимайте карту SD во время процесса резервного копирования</string>
+  <string name="ProcessRestore">На это может потребоваться несколько минут. Не вынимайте карту SD во время процесса восстановления</string>
+  <string name="DialogDelFileTitle">Удалить</string>
+  <string name="DialogDelSelFiles">Выбранные объекты будут удалены</string>
+  <string name="DialogFileDelete">будет удалено</string>
+  <string name="DialogDelSelFilesTitle">Удалить файлы</string>
+  <string name="DialogDelSelFilesProcess">Удаление</string>
+  <string name="File_name">Имя файла</string>
+  <string name="Notes">Примечания</string>
+  <string name="Setpasscode">Требуется пароль (опционально)</string>
+  <string name="InputPsw">Новый пароль</string>
+  <string name="ConfirmPassword">Подтвердите пароль</string>
+  <string name="ReInputPsw">Подтвердите новый пароль</string>
+  <string name="Backup">Старт</string>
+  <string name="Cancel">Отменить</string>
+  <string name="PleaseWait">Пожалуйста, подождите</string>
+  <string name="EnterPsw">Введите пароль:</string>
+  <string name="RestoreCover">Перезапись</string>
+  <string name="RestoreRetain">Удержание</string>
+  <string name="ExitTitle">Выход</string>
+  <string name="Empty">Нет данных для восстановления</string>
+  <string name="appRestoreEmpty">Нет приложений для восстановления</string>
+  <string name="appBackupEmpty">Нет приложений для резервного копирования</string>
+  <string name="Sel_Browser">Закладка браузера</string>
+  <string name="Sel_CallHistory">Журнал звонков</string>
+  <string name="Sel_Settings">Установки системы</string>
+  <string name="Sel_Alarms">Будильник</string>
+  <string name="Sel_Notes">Блокнот</string>
+  <string name="Sel_ZteNote">Примечание ZTE</string>
+  <string name="Sel_Favorites">Основные установки</string>
+  <string name="DeleteRestoreFileTitle">Удалить</string>
+  <string name="DeleteRestorefileMenu">Удалить все резервные копии</string>
+  <string name="filewouldbedeleted">Файл резервной копии %1$s будет удален</string>
+  <string name="DeleteRestoreFileText">Выбранные файлы будут удалены</string>
+  <string name="EnterPasswordErrorTitle">Неправильный пароль</string>
+  <string name="appInstalled">Установлено</string>
+  <string name="appbackupfileinfotitle">Создать резервную копию приложений</string>
+  <string name="apprestorefinish_title">Восстановление приложений завершено</string>
+  <string name="RebootFailed">Перезагрузка не удалась</string>
+  <string name="RebootFailedContent">Пожалуйста, перезагрузитесь вручную</string>
+  <string name="RestoreReboot">Требуется перезагрузка</string>
+  <string name="RestoreRebootContent">вступит в силу после перезагрузки</string>
+  <string name="RestoreRebootCancel">Перезагрузить позже</string>
+  <string name="Waiting_Message">Пожалуйста, подождите</string>
+  <string name="appbackupfinish_title">Резервное копирование приложений завершено</string>
+  <string name="RestoreDataDelete_title">Удалить несколько</string>
+  <string name="RestoreAppDelete_title">Удалить несколько</string>
+  <string name="RestoreDataMsgTitle">Восстановить</string>
+  <string name="DeleteItem">Удаление данных</string>
+  <string name="QueryLog">Журнал запросов</string>
+  <string name="HelpTitle">Резервное копирование и восстановление</string>
+  <string name="HelpCopyRight">ZTE Corporation Все права защищены</string>
+  <string name="Log_backupData">Создать резервную копию данных</string>
+  <string name="Log_restoreData">Восстановить данные</string>
+  <string name="Log_backupApp">Создать резервную копию приложений</string>
+  <string name="Log_restoreApp">Восстановить приложения</string>
+  <string name="Log_Tcard">SD карта</string>
+  <string name="Log_delete">Очистить историю</string>
+  <string name="Log_deleteLogTitle">Удалить</string>
+  <string name="Log_deleteMsgInfo">История будет очищена</string>
+  <string name="Log_empty">История пуста</string>
+  <string name="App_CloudBackup">Резервное копирование облака</string>
+  <string name="CloudRestoreTitle">Восстановление из облака</string>
+  <string name="CloudBackup_Inport">Импорт данных</string>
+  <string name="CloudBackup_Export">Экспорт данных</string>
+  <string name="CloudBackup_Syncing">Идет резервное копирования сервера облака, пожалуйста. Подождите…</string>
+  <string name="CloudBackup_DataFlow">Использование данных сети:</string>
+  <string name="CloudBackup_BackupSuccess">Резервное копирование произведено успешно</string>
+  <string name="CloudBackup_BackupFailed">Резервное копирование не удалось</string>
+  <string name="CloudBackup_Reason">Причина неудачи:</string>
+  <string name="CloudBackup_BackupInit">Начало резервного копирования….</string>
+  <string name="CloudBackup_SelectAll">Выберите все</string>
+  <string name="CloudBackup_SelectNone">Не выбирайте ничего</string>
+  <string name="CloudBackup_RestoreInit">Загрузка данных с сервера, ждите….</string>
+  <string name="CloudBackup_RestoreSuccess">Восстановление успешно</string>
+  <string name="CloudBackup_RestoreFailed">Восстановление не удалось</string>
+  <string name="CloudBackup_ResultFailed">неудача</string>
+  <string name="Log_Cloud">Облако</string>
+  <string name="Backup_SelectAll">Выберите все</string>
+  <string name="Backup_SelectNone">Не выбирайте ничего</string>
+  <string name="TipPass">Будет зашифрован</string>
+  <string name="BackResExist">Существует</string>
+  <string name="AppRestoreFileDeleted">Файл, с которого сделана резервная копия, будет удален</string>
+  <string name="Restore_NoSelected_Title">Ничего не выбрано</string>
+  <string name="Restore_NoSelected_Message">Пожалуйста, выберите объект для удаления</string>
+  <string name="AppBackup_HasUpdate">Новое обновление</string>
+  <string name="DataBackup_HasUpdate">Новое обновление</string>
+  <string name="PWDNull">Пароль нулевой</string>
+  <string name="AppInstall_insufficient_storage">Неудача: недостаточно места для хранения</string>
+  <string name="History">История</string>
+  <string name="Button_BackupToServer">Резервное копирование на веб-сервер</string>
+  <string name="Button_BackupToSD">Резервное копирование на SD карту</string>
+  <string name="Restore_FromWeb">Веб-сервер</string>
+  <string name="Restore_FromSD">SD карта</string>
+  <string name="Process_restore">Восстановить</string>
+  <string name="Restore_Enter_Password">Введите пароль:</string>
+  <string name="AccountNoLogin">Нет учетной записи</string>
+  <string name="Login">Вход</string>
+  <string name="Logout">Выход из учетной записи</string>
+  <string name="CloudBackupPrompt">Не отключайтесь от сети во время резервного копирования</string>
+  <string name="CloudRestorePrompt">Не отключайтесь от сети во время процесса восстановления</string>
+  <string name="CloudConfirmPwd">Подтвердите пароль</string>
+  <string name="CloudBackupNetworkNotAvailable">Нет доступной сети, пожалуйста, проверьте сетевые установки!</string>
+  <string name="CloudBackupNetworkError">Ошибка сети, пожалуйста, попытайтесь снова позже!</string>
+  <string name="CloudBackupExportDataError">Сбой при экспорте данных</string>
+  <string name="CloudBackupGetUserError">Не удалось получить информацию пользователя!</string>
+  <string name="CloudBackupPwdIsError">Ошибка пароля!</string>
+  <string name="CloudBackupServerIsBusy">Сервер занят, пожалуйста, попытайтесь позже!</string>
+  <string name="CloudBackupNoRestoreDataError">На сервере нет восстановленных данных!</string>
+  <string name="CloudBackupUnknownError">Неизвестная ошибка!</string>
+  <string name="CloudBackupCanceled">Отменено!</string>
+  <string name="DataBackupTimeInfo">Последнее обновление:%1$s</string>
+  <string name="CMCCDataBackupTimeInfo">"Последнее резервное копирование: %1$s, путь резервного копирования: %2$s
+Текущий путь резервного копирования: %2$s"</string>
+  <string name="AppBackupTimeInfo">Последние обновления:%1$s</string>
+  <string name="DataNotBackup">Нет резервных копий данных</string>
+  <string name="AppNotBackup">У вас нет приложений резервного копирования</string>
+  <string name="AppCannotBackupData">У вас нет привилегий корневого каталога, только резервной копии приложений apk, нельзя выполнить резервное копирование данных приложений</string>
+  <string name="AppCannotRestoreData">У вас нет привилегий корневого каталога, вы можете восстановить только приложения apk, данные приложений не могут быть восстановлены.</string>
+  <string name="rebootContent">Некоторые изменения (Системные и Основные установки) вступят в силу после перезагрузки вашего телефона</string>
+  <string name="DataDetailsTitle">Подробности</string>
+  <string name="DataDetailsMessageFilename">Имя файла:</string>
+  <string name="DataDetailsMessageSize">Размер файла:</string>
+  <string name="DataDetailsMessageTime">Время:</string>
+  <string name="DataDetailsMessagePath">Путь:</string>
+  <string name="DataDetailsMessageNotes">Примечания:</string>
+  <string name="DataDetailsMessageCrypt">Файл зашифрован, и его нельзя просмотреть</string>
+  <string name="CloudBackupRestoreNoData">Нет данных для восстановления</string>
+  <string name="DataSelectAll">ВСЕ</string>
+  <string name="backupData_spaceInfo">Требуетсяоступно: %1$s/ %2$s</string>
+  <string name="Previous">Предыдущий</string>
+  <string name="DeleteSelected">Удалить выбранное</string>
+  <string name="WaitingForBackup">Ожидание резервного копирования</string>
+  <string name="WaitingForRestore">Ожидание восстановления</string>
+  <string name="FinishButton">Окончание</string>
+  <string name="AppsBackupComplete">Резервное копирование завершено</string>
+  <string name="AppsRestoreComplete">Восстановление приложений завершено</string>
+  <string name="backupData_spaceInfo_phone">%1$s/ %2$s</string>
+  <string name="FreeUp">Освобождение</string>
+  <string name="Requirepassword">Требуется пароль</string>
+  <string name="Clear">очистить</string>
+  <string name="selectedNumber">%1$s выбрано</string>
+  <string name="Account_mgr_Attention">Внимание</string>
+  <string name="RestoreFromWeb">Восстановить с веб-сервера</string>
+  <string name="RestoreFromSD">Восстановить с SD карты</string>
+  <string name="ActionBar_selectall">Выберите все</string>
+  <string name="ActionBar_deselectall">Отменить выбор</string>
+  <string name="SelectedNumber_spaceInfo">%1$s Выбрано(%2$s/ %3$s)</string>
+  <string name="SelectedNumber">%1$s Выбрано</string>
+  <string name="app_unbackup">Не выполнено</string>
+  <string name="Upgrade">Обновление версии</string>
+  <string name="soft_update_no">Нет обновлённых версий</string>
+  <string name="soft_update_title">Обновить программное обеспечение</string>
+  <string name="soft_update_info">Система определила новую версию, обновить сейчас?</string>
+  <string name="soft_update_updatebtn">Обновить</string>
+  <string name="soft_update_later">Обновить позже</string>
+  <string name="soft_updating">Обновление</string>
+  <string name="soft_update_cancel">Отмена</string>
+  <string name="net_exception">Сеть неисправна!</string>
+  <string name="checking">Идет проверка, ждите!</string>
+  <string name="net_closed">Невозможно подключиться к сети, попробуйте позже!</string>
+  <string name="InstallCompNote">Установить соответствующие свойства?</string>
+  <string name="Tcard_remove_when_cloud_backup">SD карта была удалена. Пожалуйста выполните резервное копирование снова</string>
+  <string name="Tcard_remove_when_cloud_restore">SD карта была удалена. Пожалуйста восстановите заново</string>
+  <string name="Cloud_not_enough_memory_title">Недостаточно памяти.</string>
+  <string name="Cloud_not_enough_memory">Недостаточно памяти.</string>
+  <string name="files_deleted">Файлы удалены</string>
+  <string name="cloud_data_used">Использованное пространство:</string>
+  <string name="DataPosition">Осталось места:</string>
+  <string name="CheckUpdate">Проверка обновлений</string>
+  <string name="CloudUploadData">Выгрузка данных</string>
+  <string name="CloudDownloadData">Загрузка данных</string>
+  <string name="NoSDcard">Нет SD-карты</string>
+  <string name="LoginForRestore">Авторизуйтесь и восстановите свои данные</string>
+  <string name="NoRestoredData">Нет файлов с резервной копией</string>
+  <string name="Newversionavailable">Доступна новая версия</string>
+  <string name="Newversion">Новое в версии %1$s:</string>
+  <string name="UpdateTitle">Oбновления</string>
+  <string name="VersionIsUpToDate">Версия на данный момент</string>
+  <string name="VersionSize">Размер:</string>
+  <string name="IAgreeWith">"Я согласен с  "</string>
+  <string name="Agreement">Соглашение</string>
+  <string name="Start">Начало</string>
+  <string name="Back">Назад</string>
+  <string name="AgreementInfo">"Настоящее Соглашение представляет собой правовой договор между конечным пользователем сервиса ZTE Cloud (в том числе, но не ограничиваясь, физическими лицами, группами лиц и т.д.) (далее - Пользователь или Пользователи) и ZTE Corporation и ее филиалами (далее - ZTE), в котором представлены условия и положения использования сервиса ZTE Cloud и иных связанных сервисов (далее - сервис ZTE Cloud). Используя любой сервис ZTE Cloud Вы подтверждаете, что Вы ознакомлены с настоящим соглашением, понимаете его положения и принимаете и соглашаетесь с его обязательными условиями. Настоящее соглашения должно применяться ко всем сервисам ZTE Cloud, в том числе модернизациям и обновлениям различных сервисов, используемых Пользователем в течение срока действия настоящего соглашения.
+ 1. Сервис и руководство
+ 1.1 Сервис ZTE Cloud представляет собой сервисную платформу для хранения данных для предоставления онлайн пространства и предлагает технологию загрузки для пользователей. С технологией облачного хранения он предлагает Пользователю основную услугу онлайн хранения, а также другие онлайн Интернет сервисы. Сервис ZTE Cloud не загружает напрямую и не предоставляет контент, а также не изменяет и не редактирует контент, загруженный Пользователем.
+ 1.2 Пользователь не должен неправильно использовать сервис ZTE Cloud, и ZTE настоящим официально заявляет, что вся информация, данные, текст, программы, музыка, аудио, фотографии, графические данные, видео, сообщения, регистрационная информация пользователей и любая иная информация, переданная с помощью сервиса ZTE Cloud вся загружена и несет исключительную ответственность со стороны провайдеров контента и/или пользователей сервиса. Пользователь соглашается, что в качестве сервисной платформы для онлайн хранения данных сервис ZTE Cloud не способен управлять контентом, переданным Пользователями или характером использования Пользователями, следовательно, ZTE не обязана гарантировать правомерность, точность, полноту и аутентичность такого контента.
+ 1.3 Если ZTE обнаружила характер использования Пользователя через уведомления, отчеты или иным возможным способом, который не соблюдает положения настоящего соглашения, ZTE имеет право принять решение о немедленном прекращении работы сервиса ZTE Cloud, частично или полностью без предварительного уведомления Пользователя. Пользователь должен нести полную ответственность и обеспечить ZTE непричинение ущерба в отношении всех расходов, обязательств и иных финансовых последствий, связанных с любыми требованиями третьих лиц против ZTE в связи с использованием Пользователем сервиса ZTE Cloud, в том числе, но не ограничиваясь загрузкой и распределением контента.
+ 1.4 ZTE имеет право контролировать ситуацию использования Пользователем сервиса ZTE Cloud. Если ZTE выявляет любой характер применения Пользователем сетевого сервиса ZTE посредством уведомлений, отчетов или иными возможными средствами, который не удовлетворяет положениям настоящего соглашения, ZTE имеет право потребовать от Пользователя исправить такое несоответствие или принять непосредственные меры, которые ZTE считает необходимыми для снижения действия таких несоответствий, в том числе, но не ограничиваясь изменением или удалением контента, загруженного Пользователем, приостановки или прекращения права Пользователя использования сетевого сервиса ZTE.
+ 2. Право
+ ZTE сохраняет полные и неотъемлемые права, права собственности, права, интересы и права интеллектуальной собственности следующего контента:
+ (1) За исключением контента, загруженного или распределенного Пользователями самостоятельно, сервис ZTE Cloud должен иметь право сохранения права собственности и права интеллектуальной собственности на всю иную информацию, в том числе, но не ограничиваясь контент, данные, технологии, программное обеспечение, коды, интерфейс пользователя, а также связанными с ними работы.
+ (2) Данные и обратная связь, представленные Пользователем в сервис ZTE Cloud в связи с предоставлением услуг платформы.
+ Без согласия ZTE ни один из вышеупомянутых материалов не может быть выпущен, воспроизведен, записан или переиздан для выпуска или воспроизведения или использован в любых иных коммерческих целях на любых носителях, прямо или косвенно. Сервис ZTE не несет ответственности перед Пользователями или любыми третьими лицами относительно возмещения требований об убытках, возникших или связанных или имеющих отношений к вышеупомянутым материалам или отсрочке, неточности, ошибке или пропуске таких материалов в рамках их полной или частичной поставки или распределения.
+ Все права на программное обеспечение, используемое ZTE для сетевого сервиса, принадлежат владельцам авторских прав на такое программное обеспечение. Без согласия таких владельцев авторских прав Пользователь не должен декомпилировать, осуществлять вскрытие технологии или разбирать такое программное обеспечение или участвовать в иных действиях, которые могут нарушить авторское право.
+ 3. Соглашения и гарантии
+ 3.1 Пользователь не должен и гарантирует не загружать контент в сервис ZTE Cloud, который может прямо или косвенно:
+ (1) удалять, скрывать, изменять или повреждать любы патенты, авторские права, торговые марки или иные заявления о праве собственности, отображаемые или вовлеченные в сервис ZTE Cloud;
+ (2) любым способом прпятстсвовать или пытаться препятствовать работе сервиса ZTE cloud или нормальной работе веб-сайта ZTE, части веб-сайта или функции;
+ (3) избегать, пытаться избегать или заявлять об избегании любых средств защиты контента или средств измерения данных при использовании сервиса ZTE Cloud;
+ (4) отображать или иным способом предлагать любые данные пользователя не подлинным пользователям без предварительного согласия подлинного Пользователя любыми способами и средствами; 
+ (5) предлагать услугу отслеживания, в том числе, но не ограничиваясь, идентификации иных видов Пользователя и работе на персональных домашних страницах; 
+ (6) автоматически перенаправлять окно браузера на другую веб-страницу;
+ (7) нарушение пользователем любой вышеупомянутой гарантии дает ZTE право на предусмотрение штрафа кроме предупреждения, ограждения до дисквалификации на основании деталей нарушения. Если такое нарушение Пользователем гарантии приводит к возникновению убытков и ущерба сервису ZTE Cloud или его пользователям или иным партнерам ZTE, Пользователь должен нести полную правовую ответственность и быть обязан компенсировать все убытки.
+ 3.2 Обязательства Пользователя:
+ (1) Пользователь признает, что он получил письменное разрешение лица, имеющего обязательства (при наличии) на загрузку, выпуск, передачу или распределение любым способом контента с помощью сетевого сервиса на базе сервиса ZTE Cloud. Пользователь признает и гарантирует, что имеет полное действующее эксклюзивное право на интеллектуальную собственность до представления и загрузки контента в сервис ZTE Cloud. Относительно загружаемого, выпускаемого, передаваемого или распределяемого контента любым способом с помощью сетевого сервиса на базе сервиса ZTE Cloud Пользователь будет прилагать все усилия и предпринимать все необходимые действия за свой счет для возмещения ZTE и ее партнерам вред относительно следующего: (a) любых требований, отчетов, вопросов, претензий и правовых исков, возникающих в связи с нарушением Пользователем прав или законных выгод третьих лиц, в том числе, но не ограничиваясь, патентных прав, прав на торговые марки, авторских и связанных прав, прав на изображения, частных прав или прав на имидж; (b) любых потерь репутации и финансовых потерь, прямых или косвенных.
+ (2) Загружаемый, выгружаемый, передаваемый или распределяемый Пользователем контент любым способом с помощью сетевого сервиса на базе сервиса ZTE Cloud не должен содержать данные, противоречащие законодательству и нормативным актам Государства, в том числе, но не ограничиваясь, информацией, которая может:
+ (a) противоречить основным принципам, указанным в Конституции;
+ (b) угрохать государственной безопасности, разглашать государственную тайну, подрывать государственную мощь и нарушать целостность Государства;
+ (c) угрожать чести или интересам Государства;
+ (d) провоцировать разделение и дискриминацию среди национальностей и подрывать национальное единство;
+ (e) нарушать государственную политику в области религии, пропагандировать культ дьявола, феодализм и идолопоклонство;
+ (f) распространять слухи, нарушать социальный порядок и стабильность;
+ (g) пропагандировать непристойное поведение, порнографию, азартные игры, насилие, угрозы, подстрекательство к совершению преступления;
+ (h) оскорбление или клевета или ущемление законных прав других лиц; 
+ (i) иной контент, запрещенный законодательством и административными распоряжениями.
+ (3) Пользователь не должен применять данную систему сетевого сервиса в незаконных целях или любым способом, который может иметь негативное влияние на нормальную работу сети Интернет или мобильной сети.
+ (4) Пользователь не должен применять сервис ZTE Cloud для совершения действий, которые могут угрожать сетевой безопасности данных компьютера.
+ 4. Защита интеллектуальной собственности
+ Если контент, загружаемый Пользователем, является доступным для скачивания, просмотра, передачи или иным образом доступным для других пользователей, Пользователь должен гарантировать, что выпуск такого контента и связанный характер использования не нарушает соответствующей политики авторских прав, указанной в законах и нормативных актах об интеллектуальной собственности, в том числе, но не ограничиваясь:
+ 4.1 Пользователь должен удалять или скрывать контент, который является частью заявления о нарушении немедленно после получения уведомления, а также должен немедленно связаться с отправителем уведомления для получения подробной информации о таком заявлении. 
+ 4.2 Пользователь признает и соглашается, что ZTE на основании соответствующего законодательства и нормативных актов будет рассматривать такие проверенные уведомления о нарушении надлежащим образом и принимать и осуществлять соответствующую политику во избежание повторных нарушений при соответствующих условиях.
+ 5. Защита частной информации
+ 5.1 Для усовершенствования опыта использования сервиса ZTE Cloud и улучшения обслуживания ZTE собирает необходимую информацию в ходе использования сервиса ZTE Cloud пользователями и предлагает обновленный и понятный сервис на базе анализа данных.
+ 5.2 ZTE не будет выпускать, редактировать или разглашать любые персональные данные Пользователей или частный контент, хранящийся в сервисе ZTE Cloud, за исключением следующей информации или контента:
+ (1) выпуск, редактирование или разглашение которого требуется законодательством и нормативными актами или политикой соответствия сервиса ZTE Cloud;
+ (2) выпуск, редактирование или разглашение которого требуется в чрезвычайной ситуации для защиты прав и интересов Пользователей или общественности;
+ (3) выпуск, редактирование или разглашение которого требуется в иных ситуациях в рамках соответствующего законодательства.
+ 6. Заявление об ограничении ответственности
+ 6.1 С учетом особенностей сетевых услуг Пользователь соглашается, что сервис ZTE Cloud сохраняет право изменения, прерывания или прекращения веб-услуг полностью или частично. Относительно изменения, прерывания или прекращения веб-услуг ZTE не обязана информировать Пользователя и не имеет обязательств перед Пользователем или третьим лицами.
+ 6.2 Пользователь понимает, что сервис ZTE Cloud имеет необходимость в ремонте или обслуживании платформы и оборудования, используемого для поддержки сетевого сервиса, на регулярной и нерегулярной основе, следовательно, сервис ZTE Cloud не предполагает ответственности за сервисное прерывание сетевых услуг с условием, что такое прерывание вызвано вышеизложенными причинами в разумные сроки.
+ 6.3 Сервис ZTE Cloud НЕ гарантирует (в том числе, но не ограничиваясь)：
+ (1) что сервис ZTE Cloud сможет удовлетворить требования пользователяS;
+ (2) что сервис ZTE Cloud может работать без помех, а также его своевременность, безопасность, надежность или безотказность. 
+ 6.4 Сервис ZTE Cloud не предполагает ответственности за прямую или косвенную потерю прибыли, деловой репутации, данных или любые иные повреждения, вызванные следующими причинами: 
+ (1) использование или невозможность использования сервиса ZTE Cloud; 
+ (2) несанкционированное использование или изменения информации пользователя и иными вопросами в связи с сервисом ZTE Cloud;
+ 7. Прочие положения
+ 7.1 ZTE сохраняет право окончательной интерпретации настоящего Соглашения.
+ 7.2 Данное соглашение вступает в силу после публикации. ZTE имеет право изменять положения соглашения в любое время. Пересмотренная версия настоящего соглашения будет опубликована на сайте сервиса ZTE Cloud. Если пользователь не желает связывать себя обязательствами положений настоящего соглашения, он имеет право прервать оказание веб-услуг. Продолжая использовать веб-сервис, пользователь признает, что он принимает все изменения настоящего соглашения, внесенные ZTE.
+ 7.3 Все уведомления, направленные от сервиса ZTE Cloud Пользователю в рамках настоящего Соглашения, могут иметь вид объявления на веб-странице, электронного письма, текстового сообщения на мобильный телефон или в виде обычного почтового отправления; уведомление должно считаться доставленным получателю на дату выпуска.
+ 7.4 Настоящее соглашение, в том числе его заключение, исполнение, интерпретация и разрешение споров, должно регулироваться и интерпретироваться в соответствии с законодательством Китайской Народной Республики. Любые споры, возникающие в связи с настоящим Соглашением или его исполнением сторонами, должны сначала решаться путем переговоров между сторонами. При невозможности достигнуть соглашения любая сторона может представить спор на рассмотрение Южнокитайскому арбитражному подразделению Китайской международной экономической и торговой арбитражной комиссии в соответствии с Правилами арбитража, действующими на момент подачи иска в арбитраж. Решение арбитража должно быть окончательным и обязательным для сторон.
+ 7.5 Настоящее Соглашение содержит весь объем соглашений между сторонами в отношении предмета настоящего Соглашения. Если иное не предусмотрено настоящим соглашением, стороны соглашения не наделяются иными правами.
+ 7.6 Если любое положение настоящего Соглашения признается частично или полностью недействительным или юридически не действительным по любой причине, остальные положения настоящего Соглашения должны оставаться действительными и обязательными для исполнения."</string>
+  <string name="SdcardFull">SD карта заполнена</string>
+  <string name="sd_Password_rule">Пароль(4-8 знаков)</string>
+  <string name="auto_backup">Локальная Автоматическая копия</string>
+  <string name="auto_backup_info">Настройка автоматического рез.копирования</string>
+  <string name="local_onekeybackup">Быстрое копирование(локально)</string>
+  <string name="local_onekeybackup_info">Выберите тип данных для локальной рез. копии</string>
+  <string name="cloud_onekeybackup">Быстрое копирование(в облако)</string>
+  <string name="cloud_onekeybackup_info">Выберите тип данных для рез. копии в облако</string>
+  <string name="share_title">Отправить</string>
+  <string name="settings_title">Настройки</string>
+  <string name="apps_item">Приложения</string>
+  <string name="local_onekeybackup_iteminfo">Тип данных для локальной рез. копии</string>
+  <string name="local_onekeybackup_title">Быстрое копирование(локально)</string>
+  <string name="cloud_onekeybackup_title">Быстрое копирование(в облако)</string>
+  <string name="cloud_onekeybackup_iteminfo">Тип данных для рез. копии в облако</string>
+  <string name="shared_information">Я пользуюсь ZTE Backup,присоединяйся ко мне!</string>
+  <string name="exit_app">Нажмите на кнопку возврата, чтобы выйти</string>
+  <string name="local_backup_gridinfo">Копирование &amp; приложений</string>
+  <string name="local_backup_data">"Копирование 
+данных"</string>
+  <string name="local_backup_apps">Копировать приложения</string>
+  <string name="local_backup_contacts">Копировать друзей</string>
+  <string name="local_backup_onekey">Быстрое копирование</string>
+  <string name="local_restore_data">"Восстановить 
+данные"</string>
+  <string name="local_restore_apps">"Восстановить 
+приложения"</string>
+  <string name="cloud_backup_gridinfo">рез. копия данных</string>
+  <string name="cloud_restore_gridinfo">Восстановить данные</string>
+  <string name="auto_backupfiles_preservationtime">Периодическое копирование файлов при автоматическом рез. копировании.</string>
+  <string name="backup_data_types">Тип данных для рез. копии</string>
+  <string name="seeting_autobackup_cycle">Установить цикл для рез. копирования</string>
+  <string name="autobackup_everyweek">Еженедельно</string>
+  <string name="autobackup_every2week">2 недели</string>
+  <string name="autobackup_everymonth">Ежемесячно</string>
+  <string name="autobackup_every2month">2 месяца</string>
+  <string name="autobackup_date_monday">понедельник</string>
+  <string name="autobackup_date_tuesday">вторник</string>
+  <string name="autobackup_date_wednesday">среда</string>
+  <string name="autobackup_date_thursday">четверг</string>
+  <string name="autobackup_date_friday">пятница</string>
+  <string name="autobackup_date_saturday">суббота</string>
+  <string name="autobackup_date_sunday">воскресенье</string>
+  <string name="autobakcup_Preservationtime_onemonth">Один месяц</string>
+  <string name="autobakcup_Preservationtime_threemonths">Три месяца</string>
+  <string name="autobakcup_Preservationtime_sixmonths">Шесть месяцев</string>
+  <string name="autobakcup_Preservationtime_unlimited">Неограниченно</string>
+  <string name="autobackup_start">Автоматическое рез. копирование включено.</string>
+  <string name="autobackup_run">Автоматическое копирование на заднем плане</string>
+  <string name="manulClearSD">Несоответствие файлового менеджера, пожалуйста очистите SD карту вручную.</string>
+  <string name="manulClearSDReason">Внимание</string>
+  <string name="autobackup_noteswhenoff">Автоматическое рез. копирование выключено.</string>
+  <string name="autobackup_is_running">Авто копирование активировано</string>
+  <string name="autobackup_is_cancled">Приложение используется и не возможно активировать авто копирование</string>
+  <string name="autobackup_is_Nosdcard">Нет SD-карты, невозможно автоматически осуществить резервное копирование данных</string>
+  <string name="local_tab">Локальные</string>
+  <string name="cloud_tab">Облако</string>
+  <string name="select_data_msg">Выберите данные.</string>
+  <string name="select_app_msg">Выберите приложения.</string>
+  <string name="select_net_wifi_backup">Нажмите Далее для рез. копирования.</string>
+  <string name="select_net_wifi_restore">Нажмите Далее для восстановления.</string>
+  <string name="net_content_wifi_backup">Не отключайте от сети во время рез. копирования.</string>
+  <string name="net_content_wifi_restore">"Исходные данные, включая Контакты, Сообщения, Календари не будут скопированы. 
+Не отключайте от сети во время рез. копирования."</string>
+  <string name="select_net_mobile_backup">Нажмите далее для рез. копирования по мобильной сети.</string>
+  <string name="select_net_mobile_restore">Нажмите далее для восстановления по мобильной сети.</string>
+  <string name="net_content_mobile_backup">"Это действие приведет к большому объему трафика. Рекомендуется производить копирование по Wi-Fi сети. 
+Не отключать от сети во время рез. копирования."</string>
+  <string name="net_content_mobile_media_backup">Это создаст некоторое количество данных. Обновление через сеть Wi-Fi предпочтительнее.</string>
+  <string name="net_content_mobile_restore">"Это действие приведет к большому объему трафика. Рекомендуется производить восстановление по Wi-Fi сети. 
+Не отключать от сети во время восстановления."</string>
+  <string name="net_content_mobile_deleted">Это создаст некоторое количество данных. Удаление через сеть Wi-Fi предпочтительнее. Не отключайтесь от сети в процессе удаления.</string>
+  <string name="select_net_nonet">На данный момент подключение к сети отсутствует.</string>
+  <string name="net_content_nonet_backup">Пожалуйста подключитесь к Wi-Fi или мобильной сети для рез. копирования.</string>
+  <string name="net_content_nonet_restore">Пожалуйста подключитесь к Wi-Fi или мобильной сети для восстановления.</string>
+  <string name="net_content_nonet_deleted">Чтобы удалить данные, пожалуйста, подключитесь к сети Wi-Fi или к мобильным сетям.</string>
+  <string name="backup_again">Копировать заново</string>
+  <string name="choose_one_item">Вам следует использовать минимум один пункт</string>
+  <string name="contactbackup_tab">ЛЮДИ</string>
+  <string name="contact_backup_edit_type">Тип данных для рез. копии</string>
+  <string name="contact_backup_edit_file_name">_данные</string>
+  <string name="contact_backup_edit_file_note">"'данные"</string>
+  <string name="cloud_sign_in_msg">Чтобы найти пароль, пожалуйста, используйте действующий номер или электронную почту</string>
+  <string name="TapToSelect">Нажмите для выбора</string>
+  <string name="HistoryData">Данные Истории</string>
+  <string name="Done">Готово</string>
+  <string name="HistoryDataTypeTitle">Несколько копии данных Истории сохранены на сервере</string>
+  <string name="HistoryDataTypeContent">Выберите пункт, который вы хотите восстановить</string>
+  <string name="HistoryDataItemTitle">Система сохраняет последние 5 копии данных Истории</string>
+  <string name="HistoryDataItemContent">Выберите данные Истории согласно вашему заданному времени для копирования</string>
+  <string name="HistoryDataProcessTitle">Ожидание восстановления</string>
+  <string name="HistoryDataProcessContent">Это займёт несколько минут. Не отключайте сеть при дублировании</string>
+  <string name="searchLabel">Резервная копия</string>
+  <string name="searchHint">Пожалуйста введите название</string>
+  <string name="appsearch_result">Не было найдено соответсвующего приложения</string>
+  <string name="App_Search">Поиск</string>
+  <string name="select_contacts_to_backup">Выберите контакты для копии</string>
+  <string name="select_contacts_to_backup_info">Выберите контакты для резервного копирования</string>
+  <string name="select_groups_to_backup">Выберите группы для копии</string>
+  <string name="select_groups_no_group_msg">В Ваших контактах нет групп</string>
+  <string name="Sel_Gallery">Галерея</string>
+  <string name="Sel_Block">Чёрный &amp;Белые списки Mi-assist</string>
+  <string name="settings_general">Общие</string>
+  <string name="settings_about">О приложении</string>
+  <string name="Guide01_title">Сохранить данные на облачный сервер</string>
+  <string name="Guide01_info">Данные копируются на облочном сервере</string>
+  <string name="Guide02_title">Сохранить игровой прогресс</string>
+  <string name="Guide02_info">Сохранить данные приложения при копировании приложений; восстановить данные игры</string>
+  <string name="Guide03_title">Передача журнала звонков с контактами</string>
+  <string name="Guide03_info">Передача журнала звонков с заданными контактами</string>
+  <string name="GuideLocal_title">Локальное копирование</string>
+  <string name="GuideLocal_info">Копировать данные и приложения на SD карту</string>
+  <string name="backupSimContacts">Копировать контакты на SIM карте</string>
+  <string name="backupSimContacts_info">Копировать контакты на SIM карте при копировании контактов на телефоне</string>
+  <string name="AndSoOn">и так далее</string>
+  <string name="app_use_tip">Нажмите для начала копирования</string>
+  <string name="app_use_tip_title">Вы можете скопировать данные, настройки и приложения</string>
+  <string name="Help_copyright">Копирайт ©1998-2015 ZTE Corp. Все права сохранены.</string>
+  <string name="Help_local_title">Локальное резервное копирование</string>
+  <string name="Help_local_info">"Резервное копирование контактов, сообщений, журналов вызовов, календарей, настроек и установленных на SD-карту приложений.
+Они будут сохранены"</string>
+  <string name="Help_cloud_title">Резервное копирование на облачный сервер</string>
+  <string name="Help_cloud_info">Резервное копирование контактов, сообщений, журналов вызовов, календарей, настроек &amp;настройки сервера. Вы можете восстановить данные, даже если они будут утеряны</string>
+  <string name="Help_auto_title">Автоматическое резервное копирование данных</string>
+  <string name="Help_auto_info">Система будет создавать резервные копии автоматически в зависимости от установленного времени и выбранных элементов. Доступно только для локального резервного копирования.</string>
+  <string name="Help_friends_info">Экспорт всех сообщений и журналов вызовов данного контакта. Вы можете создать копию всех его/ее сообщений, вызовов, контактов.Доступно только для локального резервного копирования.</string>
+  <string name="Help_changePhone_info">Коснитесь для создания резервной копии данных всех приложений. Вы можете перенести данные с Вашего устройства на другой телефон. Только одна копия данных будет сохранена. Предыдущая история будет перезаписана.</string>
+  <string name="Help_onekey_info">Нажмите, чтобы сделать резервные копии выбранных элементов</string>
+  <string name="Help_learn_more">" "узнать больше" "</string>
+  <string name="Help_learn_more_local_backup_info">Резервное копирование контактов, сообщений, журналов вызовов, календарей, настроек и приложений, установленных на SD-карте. Резервное копирование сэкономит данные - будет создана резервная копия данных приложений</string>
+  <string name="Help_learn_more_local_restore_title">Местное восстановление</string>
+  <string name="Help_learn_more_local_restore_info">"В процессе копирования файлов резервной копии с компьютера на SD-карту, пожалуйста, не изменяйте путь файла.
+Восстановление не повредит текущие данные."</string>
+  <string name="Help_learn_more_cloud_backup_info">Резервное копирование контактов, сообщений, журналов вызовов, календарей. Настройки на сервере. Вы можете восстановить данные даже в случае их утери.</string>
+  <string name="Help_learn_more_cloud_attention_title">Резервное копирование отменено</string>
+  <string name="Help_learn_more_cloud_attention_info">Последняя копия будет сохранена на сервере, а предыдущая копия будет перезаписана. Восстановление создаст некоторое количество данных. Предлагается сделать это через сеть Wi-Fi</string>
+  <string name="Background_button">Уменьшить</string>
+  <string name="Background_backup">Резервное копирование</string>
+  <string name="Background_restore">Восстановление</string>
+  <string name="Background_backup_complete">Резервное копирование завершено.</string>
+  <string name="Background_restore_complete">Восстановление завершено</string>
+  <string name="FeedBack">Отзыв</string>
+  <string name="FirstImport_title">Импортировать данные с SD-карты</string>
+  <string name="Backup_tip_title">Напоминание о резервном копировании</string>
+  <string name="Backup_tip_info">Напомнить мне о создании резервной копии данных, если это не было сделано длительное время.</string>
+  <string name="period_tip_1">Резервное копирование данных и настроек на облачном сервере позволит избежать потери данных</string>
+  <string name="period_tip_2">Автоматически создать резервную копию игрового процесса</string>
+  <string name="period_tip_3">Автоматическое резервное копирование данных вместо ручного</string>
+  <string name="period_tip_4">Экспортировать сообщения и журналы вызовов Ваших контактов</string>
+  <string name="period_tip_5">Автоматически создавать резернвую копию данных приложений и сохранять историю чатов.</string>
+  <string name="external_sdCard">Внешняя SD-карта</string>
+  <string name="cloud_info_title">Информация:</string>
+  <string name="cloud_info">1. Данные перемещены на облачный сервер, и это не повлияет на политику безопасности. 2.Резервная копия данных на облачном сервере позволит избежать потери данных.</string>
+  <string name="ZTE_USERAPP_FORBIDDEN">ZTE ID отключен, пожалуйста, включите его</string>
+  <string name="auto_backup_sycle">Цикл автоматического резервного копирования</string>
+  <string name="auto_backup_time_notify">Следующее автокопирование: %1$s(доступно только для локального копирования)</string>
+  <string name="auto_backup_del_file">Автоматически удалить устаревшие файлы</string>
+  <string name="auto_backup_del_file_time">Автоматически удалить файлы резервных копий %1$s до</string>
+  <string name="auto_backup_del_file_nolimit">Все автоматически созданные резервные копии сохранены</string>
+  <string name="auto_backup_week_Monday">(Понедельник)</string>
+  <string name="auto_backup_del_file_title">Установить период хранения резервных копий</string>
+  <string name="auto_backup_del_file_note">Система будет создавать резервные копии автоматически в соответствии с настройками. Она будет автоматически удалять устаревшие резервные копии, чтобы сохранить больше места.</string>
+  <string name="cloudBackup_UsrManage_info">Управление счетом ZTE</string>
+  <string name="storage_backuped">Локальное резервное копирование файлов:%1$s</string>
+  <string name="storage_available">Свободно:%1$s</string>
+  <string name="storage_total">Всего:%1$s ГБ</string>
+  <string name="clear_storage">Удалить резервные копии</string>
+  <string name="help_about_other">Другие доступные функции</string>
+  <string name="help_guide_local_change_phone">Восстановить на другом телефоне (локальный сервер)</string>
+  <string name="help_guide_cloud_change_phone">Восстановить на другом телефоне (облачный сервер)</string>
+  <string name="help_sept1">Шаг 1</string>
+  <string name="help_sept2">Шаг 2</string>
+  <string name="help_sept3">Шаг 3</string>
+  <string name="help_sept4">Шаг 4</string>
+  <string name="help_sept5">Шаг 5</string>
+  <string name="step1_local_content1">Пожалуйста, создайте резервную копию данных или приложений на локальном сервере.</string>
+  <string name="step1_local_content12">"
+ Вы также можете создать резервную копию на облачном сервере."</string>
+  <string name="step1_cloud_content1">Пожалуйста, создайте резервное копирование данных или приложений на облачном сервере . ( Данная функция недоступна на данный момент) nВы можете также создать резервную копию данных или приложений на локальном сервере.</string>
+  <string name="step2_local_content1">Извлеките SD-карту из телефона. Перед извлечением отключите SD-карту или выключите телефон, чтобы избежать потери данных.</string>
+  <string name="step2_cloud_content1">найти \"резервное копирование и восстановление &amp; \" в главном меню</string>
+  <string name="step2_cloud_content2">Если приложения отсутствуют, пожалуйста, загрузите &amp; и установите их.</string>
+  <string name="step3_local_content1">"Вставьте SD-карту в другой телефон. 
+ Для других моделей мобильных телефонов, пожалуйста, перезагрузите телефон, чтобы установить SD-карту в случае необходимости."</string>
+  <string name="step3_cloud_content1">Откройте Резервное копирование и восстановление \", а затем откройте Восстановить данные \" во вкладке Cloud.</string>
+  <string name="step4_local_content1">Найдите приложение «Резервная копия» в главном меню. Для других моделей телефонов, пожалуйста, откройте «Диспетчер файлов», найдите установочный файл резервного копирования и установите его</string>
+  <string name="step4_cloud_content1">"Вы можете подписаться на счет ZTE Cloud. Пожалуйста, войдите в учетную запись, используемую для резервного копирования прямо сейчас, и Вам будут доступны файлы резервного копирования n Заметка:. N1.Резервное копирование и восстановление на облачном сервере будет генерировать трафик данных. Предлагается использовать сети Wi-Fi. 
+2. .Облачный сервер не создает файлов резервного копирования и восстановления&amp; восстановить файлы APK сейчас."</string>
+  <string name="step5_local_content1">Откройте приложение «Резервная копия», и система начнет автоматический поиск локальных данных резервного копирования и файлы АРК. Вы можете восстановить данные по своему усмотрению</string>
+  <string name="percent_sign">%</string>
+  <string name="progress_doMore">Вы можете также</string>
+  <string name="progress_canBackupToCloud">" "Создать резервную копию данных на облачном сервере" "</string>
+  <string name="progress_canRestoreToOtherPhone">" "Восстановить данные на другом мобильном телефоне" "</string>
+  <string name="local_more_features">Дополнительные функции локального сервера</string>
+  <string name="cloud_more_features">Дополнительные функции облачного сервера</string>
+  <string name="contact_restore_fail_title">Восстановить контакты не удалось</string>
+  <string name="contact_restore_fail_content">Система будет пытаться ускорить восстановление контактов. Это займет продолжительное время, продолжить?</string>
+  <string name="retry_restore_contact">Попытаться восстановить контакты</string>
+  <string name="restore_part_success">Результаты</string>
+  <string name="restore_fail">Восстановление не удалось</string>
+  <string name="scanning">Сканирование:%1$s</string>
+  <string name="restore_full_success">Восстановлено успешно</string>
+  <string name="restore_part_success_tip">%1$s контактов восстановлено успешно, %2$s не удалось восстановить</string>
+  <string name="restore_fail_tip">Не удалось восстановить контакты, файл резервного копирования может быть поврежден.</string>
+  <string name="clear_selected_tab_loacl_data">Локальные данные</string>
+  <string name="clear_selected_tab_loacl_app">Локальные приложения</string>
+  <string name="contact_backup_info">Выберите друга и создайте резервную копию всех его данных</string>
+  <string name="contact_restore_info">Восстановление данных друга из файлов резервных копий</string>
+  <string name="change_phone_info">"Вы можете передавать данные с устройства на другой телефон.Только одна копия будет сохранена. При этом предыдущая история будет перезаписана. 
+Размещение файла копии&amp; восстановить: карта памяти/ резервное копирование."</string>
+  <string name="friends_backup_info">Вы можете создать резервную копию всех его/ее вызовов, сообщений &amp; контактов. Доступно только для локального копирования.</string>
+  <string name="main_auto_backup_status_close">Автосохран. резервн. копии:Откл</string>
+  <string name="main_auto_backup_status_open">Автосохран. резервн. копии:Вкл</string>
+  <string name="main_last_backup_time">Дата последнего копирования:</string>
+  <string name="friendTitleInfo">Восстановить данные из резервной копии друга</string>
+  <string name="restoreTabInfo">Файлы, копии которых были созданы пользователем &amp; системы</string>
+  <string name="userTab">ОБЩИЙ</string>
+  <string name="systemTab">АВТО</string>
+  <string name="changePoneBack">Нажмите для создания резервной копии всех данных и приложений</string>
+  <string name="changePoneRestore">Нажмите, чтобы восстановить файл, копия которого была создана в прошлый раз</string>
+  <string name="noChangePhoneFile">Нет выполненных резервных копий, нет файла для восстановления</string>
+  <string name="contact_firends_alert">Нет номера контакта</string>
+  <string name="filldata_password_attention">Не забудьте сохранить этот пароль. Если он будет потерян, Вы никогда не сможете восстановить данные из резервной копии.</string>
+  <string name="filldata_password_checkbox">Не напоминать снова</string>
+  <string name="localmore_friends">Копировать друзей</string>
+  <string name="more_changephone">Копировать на другой телефон</string>
+  <string name="localmore_changephone">Копировать на другой телефон</string>
+  <string name="localmore_changephone_msg">Нажмите для создания резервной копии и восстановления всех данных и приложений</string>
+  <string name="cloudmore_changephone_msg">Нажмите для создания резервной копии и восстанвоить все данные</string>
+  <string name="localmore_group">Создать резервную копию группы контактов</string>
+  <string name="localmore_friends_info">Создать резервную копию всех сообщений и журнала вызовов выбранных контактов</string>
+  <string name="localmore_group_info">Объединить контакты в группы</string>
+  <string name="cloudmore_history">История</string>
+  <string name="cloudmore_history_info">Восстановить историю с облачного сервераили управлять ею</string>
+  <string name="dialog_title">Переписать историю резервного копирования</string>
+  <string name="dialog_changePhone_backup">Последний раз вы создали резервную копию на другом телефоне%1$s. Предыдущая копия будет перезаписана, продолжить?</string>
+  <string name="dialog_changePhone_restore">Ваш телефон будет перезаписан%1$s ,(Текущие контакты, журналы вызовов, сообщения и приложения перезаписаны не будут), продолжить?</string>
+  <string name="dialog_changePhone_restoreNew">"Данные резервного копирования находились в:
+%1$s
+
+Настройки телефона будут восстановлены до %2$s ,Это не приведет к перезаписи текущих контактов, журнала вызовов, сообщений&amp; приложений), продолжить?"</string>
+  <string name="dialog_changePhone_restoreNew2">Найдите 2 комплекта данных резервного копирования. Выберите один для восстановления:</string>
+  <string name="dialog_changePhone_restoreInfo1">"1. %1$s
+%2$s"</string>
+  <string name="dialog_changePhone_restoreInfo2">"2. %1$s
+%2$s"</string>
+  <string name="cloud_backup_declaration">Резервное копирование данных на облачный сервер позволит избежать потери данных. N Передача данных на облачный сервер является безопасной, и это не повлияет на политику Вашей безопасности.</string>
+  <string name="not_remind_again">Не напоминать снова</string>
+  <string name="Items">"  элементов"</string>
+  <string name="sorttitle">Сортировать</string>
+  <string name="sortappby0">По умолчанию (нет резервной копии)</string>
+  <string name="sortappby0_restore">По умолчанию (удалено)</string>
+  <string name="sortappby1">Имя (A–Я)</string>
+  <string name="sortappby2">Дата (последняя)</string>
+  <string name="sortappby3">Размер (наименьший)</string>
+  <string name="wifi_name">Wifi</string>
+  <string name="loadOtherVcardFiles">Загрузить остальные файлы с VCard</string>
+  <string name="notice">Заметки:</string>
+  <string name="media_notice_info">Заметки: п Поддерживает резервное копирование и восстановление. Будут сохранены оригинальные изображения. Мы предлагаем вам создать резервную копию и восстановить данные, используя Wi-Fi-сети или во время зарядки аккумулятора.</string>
+  <string name="media_image">Картинки</string>
+  <string name="media_audio">Музыка</string>
+  <string name="media_video">Видео</string>
+  <string name="media_title">Резервное копирование медиа файлов</string>
+  <string name="media_local_image">Изображения с локального сервера: %1$s</string>
+  <string name="media_local_audio">Музыка с локального сервера: %1$s</string>
+  <string name="media_local_video">Видео с локального сервера: %1$s</string>
+  <string name="media_cloud_image">Изображения с облачного сервера: %1$s</string>
+  <string name="media_cloud_audio">Музыка с облачного сервера: %1$s</string>
+  <string name="media_cloud_video">Видео с облачного сервера: %1$s</string>
+  <string name="media_backup">Создать резервную копию медиа файлов</string>
+  <string name="media_restore">Восстановить медиа файлы</string>
+  <string name="media_backup_msg">Резервное копирование фотографий, аудио и видео на облачный сервер; восстановление их из резервной копии облачного сервера</string>
+  <string name="settings_version_history">Версия и история использования</string>
+  <string name="media_backup_error">Нет локальных файлов для резервного копирования</string>
+  <string name="media_getting_count">Получение данных с облачного сервера</string>
+  <string name="media_restore_error">Нет файлов для восстановления с облачного сервера</string>
+  <string name="clear_storage_local">Местные резервные копии файлов</string>
+  <string name="clear_storage_cloud">Резервные копии файлов Cloud</string>
+  <string name="not_support_restore_type">Не поддерживает восстановление данных в файле</string>
+  <string name="cloud_backup_apps">Создать резервную копию приложений</string>
+  <string name="cloud_restore_apps">Восстановить приложения</string>
+  <string name="network_switch_phone">Подключено к телефонной сети, продолжить?</string>
+  <string name="update_backup_reminder_title">"%1$s   обновление"</string>
+  <string name="update_backup_reminder_info">Нажмите для создания резервной копии данных</string>
+  <string name="unbackup_reminder_title">Напоминание о резервном копировании</string>
+  <string name="unbackup_reminder_info">Сообщить мне, если резервная копия не создавалась более 30 дней</string>
+  <string name="contact_reminder_title">Контакты</string>
+  <string name="contact_reminder_info">Сообщить мне о резервном копировании при обновлении информации о контактах</string>
+  <string name="app_reminder_title">Приложения</string>
+  <string name="app_reminder_info">Сообщить мне, что резервная копия данных создается при каждом обновлении приложений.</string>
+  <string name="app_reminder_info_auto">Сообщить мне, что резервная копия данных приложений создается регулярно.</string>
+  <string name="autobackup_type_data">Данные</string>
+  <string name="autobackup_type_app">Приложения</string>
+  <string name="autobackup_app_info">Автоматическое резервное копирование данных вновь установленных приложений</string>
+  <string name="autobackup_app_finished">"%1$s  резервное копирование успешно"</string>
+  <string name="apps_share_title">Выбрать приложения, которыми можно поделиться</string>
+  <string name="apps_share_sort">Сортировка</string>
+  <string name="apps_share_more">Поделиться с несколькими</string>
+  <string name="gallery_last_time">Последний раз перемещено: %1$s</string>
+  <string name="gallery_number_on_phone">В памяти телефона %1$s изображений</string>
+  <string name="gallery_remind_save_to_sd">Вы можете установить SD-карту как место хранения изображений с камеры.</string>
+  <string name="gallery_function_info">Используйте эту функцию, чтобы переместить все изображения из Галереи с памяти телефона на SD-карту, избежав потери данных.</string>
+  <string name="gallery_continue">Продолжить</string>
+  <string name="gallery_move_to_sdcard">Переместить</string>
+  <string name="appInstall">Установить</string>
+  <string name="appInstallNoFile">Нет установочного файла</string>
+  <string name="loginMsgAfterZip">Пакет данных резервного копирования создан. Для загрузки подпишите аккаунт ZTE cloud.</string>
+  <string name="privacyTitle">Конфиденциальность резервного копирования</string>
+  <string name="privacyInfo">Защитить резервное копирование с помощью Mi-Assist</string>
+  <string name="delPrivacyBackupDataInfo">Удалить защиту резервного копирования</string>
+  <string name="delPrivacyBackupDataWarning">Защита резервного копирования будет удалена, продолжить?</string>
+  <string name="privacyBackup">Старт</string>
+  <string name="privacyRestore">Восстановить</string>
+  <string name="privacyBackupWarning">Предыдущая история резервного копирования будет перезаписана</string>
+  <string name="privacyRestoreInfo">Восстановить из защищенной резервной копии</string>
+  <string name="privacyIntroduce">Защита резервного копирования сохраняет только одну копию. При создании новой резервной копии старая копия будет перезаписана. N При создании резервной копии, система будет сохранять текущие настройки безопасности и политики конфиденциальности.</string>
+  <string name="restoreSmsWarning">Для восстановления Ваших сообщений будет выбрано приложение для отправки сообщений, заданное по умолчанию (Вы не сможете отправлять и получать сообщения в процессе восстановления)</string>
+  <string name="defaultSmsAppWarning">Для отправки и принятия сообщений, пожалуйста, используйте настройки, заданные по умолчанию.</string>
+  <string name="settings_function">Функции</string>
+  <string name="settings_function_image_move">Переместить изображения из Галереи</string>
+  <string name="settings_function_app_share">Share App</string>
+  <string name="gallery_moving">Не извлекайте SD-карту в процессе перемещения.</string>
+  <string name="gallery_finished">Завершено перемещение изображений из Галереи.</string>
+  <string name="login_clouddisk">Войти в облачный диск</string>
+  <string name="noBackupBeforUpdate">Не создана резервная копия перед обновлением данных, или файл копии поврежден.</string>
+  <string name="userAgreement">"Резервное копирование &amp;Для восстановления требуются следующие разрешения: п u0020 u0020 (1) Доступ к личной информации на Вашем телефоне, включая: контакты, журналы вызовов, SMS / MMS, календарь, закладки браузера, блокнот и некоторые системные настройки, сигнализация, установочные настройки, настройки WLAN. п u0020 u0020 (2) Чтение и запись установленных приложений и их данных на телефоне, в том числе данных о внутренней и внешней SD-карте; п u0020 u0020 (3) Подключение к сети - При создании резервной копии или восстановлении данных устройство будет подключаться к облачным серверам ZTE, которые могут генерировать трафик данных; п Резервное копирование &amp; При восстановлении Ваши персональные данные не будут переданы и раскрыты. "</string>
+  <string name="userAgreementAccept">Принять</string>
+  <string name="userAgreementReject">Отклонить</string>
+  <string name="userAgreementTips">Резервное копирование &amp; Согласие на восстановление</string>
+  <string name="RecommendToFriends">Рекомендовать друзьям</string>
+  <string name="weixinBackupTitle">Резервная копия WeChat</string>
+  <string name="weixinBackupInfo">Резервная копия WeChat (apk файл) и чаты</string>
+  <string name="weixinBackupMessage">Резервная копия WeChat (apk файл) и чаты</string>
+  <string name="weixinRestoreMessage">Установить WeChat и восстановить чаты</string>
+  <string name="weixinMessage">"Приложение WeChat и история сообщений могут быть сохранены и восстановлены по необходимости. Вы можете сделать резервную копию на SD-карту. 
+Подсказка:Копирование и восстановление истории сообщений возможно, если на устройстве получены права root"</string>
+  <string name="weChat">WeChat</string>
+  <string name="weChat_NoRoot_uninstalled">Вы не можете восстановить историю сообщений, поскольку для этого устройства не получены права root</string>
+  <string name="weChat_NoRoot_installed">Не получены права root. Невозможно восстановить чаты. Не нужно устанавливать WeChat заново.</string>
+  <string name="weChat_RemindBeforeRestore">Вы сможете восстановить историю сообщений до момента последнего резервного копирования.</string>
+  <string name="weChat_Noroot_backupMsg">У вас нет прав root. Только приложение WeChat может быть сохранено</string>
+  <string name="weChat_NoInstalled_Msg">Вы не установили приложение WeChat</string>
+  <string name="weChat_HasNotBackedup_Msg">На вашем телефоне нет сохраненных файлов WeChat</string>
+  <string name="weChat_guideTitle">Записи чатов WeChat</string>
+  <string name="weChat_guideInfo">Сохранить весь текст и медиа данные</string>
+  <string name="bigDataMsg">Подождите…</string>
+  <string name="Waiting_Decompression_Message">Распаковка, подождите…</string>
+  <string name="oneKeyRestoreDataFinished">Копирование данных завершено, нажмите Установить для восстановления приложения</string>
+  <string name="contactFriendsRestoreEmpty">Нет данных для восстановления</string>
+  <string name="clouddiskprocessing">%1$s восстановлено, %2$s не удалось восстановить</string>
+  <string name="clouddiskprocessfailed">Что-то пошло не так</string>
+  <string name="clouddiskcontinue">,Попытайтесь %1$s снова</string>
+  <string name="clouddiskcancel">Отмена</string>
+  <string name="clouddiskok">ОК</string>
+  <string name="updateBackupFilesExist">Вы сохранили данные перед обновлением системы. Восстановите данные, используя Копирование на другой телефон.</string>
+  <string name="updateBackupFinishedRestoreNotify">Резервное копирование данных завершено. После обновления системы можно восстановить данные с помощью приложения Восстановление данных резервного копирования&amp;</string>
+  <string name="appFailedVersionDowngrade">Установлена новая версия приложения. Восстановить не удалось. Для восстановления из резервной копии удалите это приложение</string>
+  <string name="cloudBackupDataSize">Тип данных резервного копирования:</string>
+  <string name="cloudContactBackupDataSize">Контакты:</string>
+  <string name="cloudCalllogBackupDataSize">Журнал звонков:</string>
+  <string name="cloudSMSBackupDataSize">SMS:</string>
+  <string name="cloudCalendarBackupDataSize">Календарь:</string>
+  <string name="cloudAccountLogout">Для выполнения резервного копирования в облако войдите в аккаунт ZTE.</string>
+  <string name="cloudSpaceLoading">Загрузка...</string>
+  <string name="more_movePicturesInfo">переместить все изображения галереи из телефона на SD-карту</string>
+  <string name="BackupTo">Выполнить резервную копию в</string>
+  <string name="BackupToPositionSD">SD-карта</string>
+  <string name="BackupToPositionPhone">Телефон</string>
+  <string name="BackupToPositionPhoneNoSDcard">Телефон(SD-карта не обнаружена)</string>
+  <string name="attention">Внимание!</string>
+  <string name="item_could_not_backup_to_cloud">Резервное копирование следующих элементов не может быть выполнено в облако:</string>
+  <string name="checking_local_data">Проверка локальных данных.</string>
+  <string name="checking_cloud_data">Проверка облачных данных.</string>
+  <string name="no_data_to_upload">Нет данных для загрузки!</string>
+  <string name="datas_will_be_overwritten">Следующие данные резервного копирования будут заменены:</string>
+  <string name="packing">Упаковка</string>
+  <string name="uploading">Загрузка</string>
+  <string name="pleaseLogIn">Войдите в систему</string>
+  <string name="Ready">Готово</string>
+  <string name="RestoreTo">Восстановить в:</string>
+  <string name="ReadyToRestore">Готов к восстановлению</string>
+  <string name="DontRebootOrShutDown">Не перезагружайте и не выключайте телефон.</string>
+  <string name="SendLink">Отправить ссылку</string>
+  <string name="ShareViaQrCode">Поделиться с помощью QR-кода</string>
+  <string name="QrCodeShareMsg">Предложите другу отсканировать QR-код над ссылкой на загрузку.</string>
+  <string name="BackupPeriod">ПЕРИОД РЕЗЕРВНОГО КОПИРОВАНИЯ</string>
+  <string name="BackupItems">ЭЛЕМЕНТЫ ДЛЯ РЕЗЕРВНОГО КОПИРОВАНИЯ</string>
+  <string name="Data">Данные</string>
+  <string name="Save">Сохранить</string>
+  <string name="AutoBackupSelectedDataItems">%1$sэлемент(ы):%2$s</string>
+  <string name="AutoBackupSelectedAppsItems">%1$s резервное копирование приложения(ий) выполняется автоматически</string>
+  <string name="AutoBackupRemovedAppsMsg">Следующие приложения установлены, удалены из автоматического резервного копирования:%1$s</string>
+  <string name="AutoBackupApps">Приложения для автоматического резервного копирования</string>
+  <string name="changePhoneBackupOverMsg">"Резервные копии всех данных и приложений пользователя были сохранены в телефоне. Для их восстановления скопируйте папку \"резервное копирование\" в другой телефон.
+
+Для предотвращения потери данных можно также скопировать папку \"резервное копирование\" на ПК пользователя."</string>
+  <string name="changePhoneBackupOverMsgSD">Резервные копии всех данных и приложений пользователя были сохранены на SD-карту. Для их восстановления вставьте SD-карту в другой телефон или скопируйте папку \"резервное копирование\" на другой телефон.</string>
+  <string name="privacyAgreement">"1.Соглашение о конфиденциальности
+   (1) Прочитайте и запишите персональные данные на свой телефон, в том числе контакты, журнал вызовов, SMS/MMS, календарь, закладки браузера, блокнот, некоторые настройки системы, будильник, настройки запуска, настройки WiFi (необходимо разрешение CHANGE_WIFI_STATE).
+    (2) Прочитайте и запишите установленные приложения и их данные на телефон, в том числе на внутреннюю и внешнюю SD-карту;
+   (3) Резервное копирование &amp; восстановление не приведет к передаче или отображению персональных данных пользователя.
+2.Трафик данных
+    Подключитесь к сети - С помощью облачного резервного копирования или облачного восстановления произойдет подключение к облачному серверу ZTE, который может генерировать трафик данных"</string>
+  <string name="serviceAgreement">Сервисное соглашение</string>
+  <string name="IAgreeWithAgrement">Я принимаю условия Соглашения</string>
+  <string name="nextButton">Далее(%1$s)</string>
+  <string name="backupButton">Резервное копирование(%1$s)</string>
+  <string name="noSDcardDialogMsg">SD-карта не вставлена, данные резервного копирования будут сохранены во внутреннем хранилище. Храните эти данные на ПК или иных устройствах во избежание потери данных.</string>
+  <string name="storage_used">Использовано: %1$s</string>
+  <string name="restoreButton">Восстановить(%1$s)</string>
+  <string name="restoreFrom">ВОССТАНОВИТЬ ИЗ</string>
+  <string name="sdcard_storage_total">емкость SD-карты: %1$sГб</string>
+  <string name="phone_storage_total">Емкость телефона: %1$sГб</string>
+  <string name="selectedSaveToPhoneMsg">Данные резервного копирования будут сохранены во внутреннем хранилище. Храните эти данные на ПК или иных устройствах во избежание потери данных.</string>
+  <string name="update_data_used_networkConnectivity">Данное приложение содержит %1$sМб данных. Продолжить?</string>
+  <string name="foundNewVersion">Найдена новая версия</string>
+  <string name="Notes_info">Примечание:</string>
+  <string name="InstallBaiduServiceNote">Чтобы использовать облачное резервное копирование, вам, возможно, потребуется установить последнюю версию Baidu Cloud. Нажмите кнопку ОК, чтобы установить сейчас.</string>
+  <string name="dataRestoreFailPart">Неу далось восстановить часть данных</string>
+  <string name="InstallBaiduServiceSuccess">Вход в Baidu cloud успешно выполнен</string>
+  <string name="copyingTitle">Выполняется резервное копирование:</string>
+  <string name="restoringTitle">Восстановление:</string>
+  <string name="change">Изменить</string>
+  <string name="CMCC_Agreement">"   Резервное копирование &amp; Восстановить требуется CMCC, которые могут использоваться для всех мобильных телефонов CMCC. 
+    Использование данной опции может требовать следующих разрешений:
+    1.Прочитайте и запишите персональные данные, такие как контакты, журнал вызовов, SMS/MMS, календарь, закладки браузера, блокнот, некоторые настройки системы, будильник, настройки главного экрана, настройки WiFi (если WiFi включен). 
+    2.Прочитайте и запищите приложения &amp; данные приложений на внутреннюю &amp; внешнюю SD-карту. 
+    Backup &amp; При восстановлении данные пользователя не отображаются."</string>
+  <string name="pictureMoveCurrentPath">Выбранные изображения будут перемещены в：%1$s</string>
+  <string name="privacyBackupToCurrentPath">Путь резервного копирования：%1$s</string>
+  <string name="Searching">Идет поиск...</string>
+  <string name="CMCC_emptyDataDialogText">Поиск данных резервного копирования не выполнен. SD-карта не вставлена, может быть выполнена замена для восстановления данных . Для справки можно просмотреть специальные операции.</string>
+  <string name="CMCC_read">Прочитать</string>
+  <string name="CMCC_close">Закрыть</string>
+  <string name="AutoLaunchEnable">Автозапуск отключен. При отключенном автозапуске некоторые функции приложения могут работать не правильно. Для включения автозапуска зайдите в \"Настройки-Диспетчер питания-Диспетчер автозапуска\"</string>
+  <string name="SearchAttentionTitle">Внимание!</string>
+  <string name="SearchAttentionMsg">Полное сканирование может занять длительное время, пожалуйста, подождите.</string>
+</resources>

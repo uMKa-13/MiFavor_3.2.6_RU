@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <integer-array name="share_column">
+    <item>4</item>
+    <item>6</item>
+  </integer-array>
+  <integer-array name="emoticon_column">
+    <item>7</item>
+    <item>10</item>
+  </integer-array>
+  <string-array name="prefValues_vibrateWhen">
+    <item>always</item>
+    <item>silent</item>
+    <item>never</item>
+  </string-array>
+  <string-array name="select_insert_contact_items_text">
+    <item>Text format</item>
+  </string-array>
+  <string-array name="select_insert_contact_items_file">
+    <item>Attachment format</item>
+  </string-array>
+  <string-array name="select_add_recipient_items_cc">
+    <item>Add Cc</item>
+  </string-array>
+  <string-array name="select_add_recipient_items_bcc">
+    <item>Add Bcc</item>
+  </string-array>
+  <string-array name="list_language_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+  </string-array>
+  <string-array name="prefValues_cmasRemind">
+    <item>Remind once</item>
+    <item>Remind every 2 minutes</item>
+    <item>Remind every 15 minutes</item>
+    <item>Off</item>
+  </string-array>
+  <string-array name="move_to_item1">
+    <item>Security box</item>
+  </string-array>
+  <string-array name="FilterTypeSingMode">
+    <item>All</item>
+  </string-array>
+</resources>

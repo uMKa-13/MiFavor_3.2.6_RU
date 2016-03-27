@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ztepuss</string>
+    <string name="local_service_started">ZtePkgUsageStats server start</string>
+    <string name="local_service_stopped">ZtePkgUsageStats server stop</string>
+    <string name="local_service_label">ZtePkgUsageStats run run.....</string>
+    <string name="local_service_disconnected">ZtePkgUsageStats disconnect</string>
+    <string name="local_service_connected">ZtePkgUsageStats connect</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="common_nicknames" />
+    <string-array name="unrestricted_packages">
+        <item>com.android.contacts</item>
+        <item>com.facebook.katana</item>
+        <item>com.android.mms</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>com.android.phone</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.android.globalsearch</item>
+        <item>com.android.calendar</item>
+        <item>com.google.android.talk</item>
+        <item>com.android.bluetooth</item>
+        <item>com.zte.hub</item>
+        <item>android</item>
+        <item>com.facebook.orca</item>
+        <item>com.instagram.android</item>
+    </string-array>
+</resources>

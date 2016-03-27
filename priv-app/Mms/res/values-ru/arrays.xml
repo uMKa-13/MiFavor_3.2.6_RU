@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="default_smiley_texts">
+    <item>:-)</item>
+    <item>:-(</item>
+    <item>;-)</item>
+    <item>:-P</item>
+    <item>=-O</item>
+    <item>:-*</item>
+    <item>:O</item>
+    <item>B-)</item>
+    <item>:-$</item>
+    <item>:-!</item>
+    <item>:-[</item>
+    <item>O:-)</item>
+    <item>:-\\</item>
+    <item>":'("</item>
+    <item>:-X</item>
+    <item>:-D</item>
+    <item>o_O</item>
+    <item>&lt;3</item>
+    <item>x-(</item>
+    <item>:-/</item>
+    <item>:-I</item>
+  </string-array>
+  <string-array name="default_smiley_names">
+    <item>Радость</item>
+    <item>Грустный</item>
+    <item>Подмигивает</item>
+    <item>Показывает язык</item>
+    <item>Удивлен</item>
+    <item>Поцелуй</item>
+    <item>Кричит</item>
+    <item>Крутой</item>
+    <item>Не болтай попусту</item>
+    <item>В замешательстве</item>
+    <item>Смущение</item>
+    <item>Ангел</item>
+    <item>Нерешительный</item>
+    <item>Плачет</item>
+    <item>Не скажу</item>
+    <item>Смех</item>
+    <item>Озадаченный</item>
+    <item>Сердце</item>
+    <item>Злой</item>
+    <item>Ухмылка</item>
+    <item>Невозмутимость</item>
+  </string-array>
+  <string-array name="delete_attachhment_item">
+    <item>Удалить вложение</item>
+  </string-array>
+  <string-array name="delete_attachhment_slide_item">
+    <item>Удалить вложение</item>
+    <item>Удалить слайд</item>
+  </string-array>
+  <string-array name="select_card_item">
+    <item>вызов с карты 1</item>
+    <item>вызов с карты 2</item>
+  </string-array>
+  <string-array name="appendix_menu_item">
+    <item>Скопировать вложение на SD-карту</item>
+  </string-array>
+  <string-array name="appendix_menu_item_local">
+    <item>Скопировать вложение на локальное устройство</item>
+  </string-array>
+  <string-array name="appendix_menu_item_local2">
+    <item>Открыть</item>
+    <item>Скопировать вложение на локальное устройство</item>
+  </string-array>
+  <string-array name="appendix_menu_item2">
+    <item>Открыть</item>
+    <item>Скопировать вложение на SD-карту</item>
+  </string-array>
+  <string-array name="otherfilelist_menu_item">
+    <item>Удалить</item>
+  </string-array>
+  <string-array name="save_link">
+    <item>Сохранить закладку</item>
+  </string-array>
+  <string-array name="mms_priority_items">
+    <item>Низкий</item>
+    <item>Нормальный</item>
+    <item>Высокий</item>
+  </string-array>
+  <string-array name="other_attachment_list_menu_item">
+    <item>Удалить</item>
+  </string-array>
+  <string-array name="sort_mode">
+    <item>по времени</item>
+    <item>по имени/номеру</item>
+  </string-array>
+  <string-array name="mms_bookmark">
+    <item>Открыть</item>
+    <item>Сохранить закладки</item>
+  </string-array>
+  <string-array name="pref_sms_save_location_choices">
+    <item>Телефон</item>
+    <item>SIM карта</item>
+  </string-array>
+  <string-array name="pref_sms_save_location_values">
+    <item>Телефон</item>
+    <item>SIM</item>
+  </string-array>
+  <string-array name="array_telephone">
+    <item>Позвонить</item>
+    <item>Новый контакт</item>
+    <item>Обновить</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+    <item>Изменить перед вызовом</item>
+  </string-array>
+  <string-array name="array_telephone_save_contact">
+    <item>Позвонить</item>
+    <item>Новый контакт</item>
+    <item>Обновить до</item>
+    <item>Обновить</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+    <item>Изменить перед вызовом</item>
+  </string-array>
+  <string-array name="array_telephone_contactInDatabase">
+    <item>Позвонить</item>
+    <item>Просмотреть Контакт</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+    <item>Изменить перед вызовом</item>
+  </string-array>
+  <string-array name="array_mailto">
+    <item>Отправить сообщение по электронной почте</item>
+    <item>Новый контакт</item>
+    <item>Обновить</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+  </string-array>
+  <string-array name="array_mailto_contactInDatabase">
+    <item>Отправить сообщение по электронной почте</item>
+    <item>Просмотреть Контакт</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+  </string-array>
+  <string-array name="array_website">
+    <item>посетить</item>
+    <item>Скопировать текст</item>
+    <item>Новый контакт</item>
+    <item>Обновить</item>
+    <item>Добавить закладку</item>
+  </string-array>
+  <string-array name="array_website_contactInDatabase">
+    <item>посетить</item>
+    <item>Скопировать текст</item>
+    <item>Просмотреть Контакт</item>
+    <item>Добавить закладку</item>
+  </string-array>
+  <string-array name="array_rtsp">
+    <item>Воспроизв.</item>
+    <item>Скопировать текст</item>
+  </string-array>
+  <string-array name="array_timer">
+    <item>Новое мероприятие</item>
+    <item>Просмотрите в календаре</item>
+    <item>Скопировать текст</item>
+  </string-array>
+  <string-array name="array_address">
+    <item>Навигация</item>
+    <item>Скопировать текст</item>
+  </string-array>
+  <string-array name="array_telephone_black_list">
+    <item>Позвонить</item>
+    <item>Новый контакт</item>
+    <item>Обновить</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+    <item>Изменить перед вызовом</item>
+    <item>Добавить в черный список</item>
+  </string-array>
+  <string-array name="array_telephone_contactInDatabase_black_list">
+    <item>Позвонить</item>
+    <item>Просмотреть Контакт</item>
+    <item>Скопировать текст</item>
+    <item>Отправить сообщение</item>
+    <item>Изменить перед вызовом</item>
+    <item>Добавить в черный список</item>
+  </string-array>
+  <string-array name="quick_text_content">
+    <item>Я занят, перезвоню позже.</item>
+    <item>Я на совещании.</item>
+    <item>Я опаздываю.</item>
+    <item>Ты где?</item>
+    <item>Я тебя люблю</item>
+  </string-array>
+  <string-array name="array_vcard">
+    <item>Импорт</item>
+    <item>Просмотр</item>
+  </string-array>
+  <string-array name="array_qktext">
+    <item>Скоро буду!</item>
+    <item>С Днем Рождения!</item>
+    <item>С Новым Годом!</item>
+    <item>Позвони мне сейчас</item>
+    <item>Пообедаем?</item>
+    <item>Скоро вернусь</item>
+    <item>Извините, сейчас я занят.</item>
+    <item>Мне очень жаль</item>
+    <item>Спасибо!</item>
+    <item>Как ты?</item>
+    <item>С наилучшими пожеланиями!</item>
+    <item>Что происходит?</item>
+    <item>Отлично сделано!</item>
+    <item>Нет прблем.</item>
+    <item>Удачного дня!</item>
+  </string-array>
+  <integer-array name="share_column">
+    <item>4</item>
+    <item>6</item>
+  </integer-array>
+  <integer-array name="emoticon_column">
+    <item>7</item>
+    <item>10</item>
+  </integer-array>
+  <string-array name="select_dialog_items">
+    <item>1 секунда</item>
+    <item>2 сек.</item>
+    <item>3 сек.</item>
+    <item>4 сек.</item>
+    <item>5 секунд</item>
+    <item>6 секунд</item>
+    <item>7 секунд</item>
+    <item>8 секунд</item>
+    <item>9 секунд</item>
+    <item>10 секунд</item>
+    <item>Другое</item>
+  </string-array>
+  <string-array name="prefEntries_vibrateWhen">
+    <item>Всегда</item>
+    <item>Только в режиме без звука</item>
+    <item>Никогда</item>
+  </string-array>
+  <string-array name="prefValues_vibrateWhen">
+    <item>always</item>
+    <item>silent</item>
+    <item>never</item>
+  </string-array>
+  <string-array name="mms_restricted_items">
+    <item>Бесплатно</item>
+    <item>Предупреждение</item>
+    <item>Ограничено</item>
+  </string-array>
+  <string-array name="select_expiry_items">
+    <item>1 ч.</item>
+    <item>6 часов</item>
+    <item>24 часа</item>
+    <item>2 дня</item>
+    <item>1 неделя</item>
+    <item>Максимум</item>
+  </string-array>
+  <string-array name="select_mms_size_items">
+    <item>100 КБ</item>
+    <item>300 КБ</item>
+    <item>500 КБ</item>
+  </string-array>
+  <string-array name="insert_contact_items">
+    <item>Формат текста</item>
+    <item>Формат приложения</item>
+  </string-array>
+  <string-array name="select_insert_contact_items_text">
+    <item>Text format</item>
+  </string-array>
+  <string-array name="select_insert_contact_items_file">
+    <item>Attachment format</item>
+  </string-array>
+  <string-array name="select_sms_priority_items">
+    <item>Обычный</item>
+    <item>Интерактивный</item>
+    <item>Высокий</item>
+    <item>Службы экстренной помощи</item>
+  </string-array>
+  <string-array name="select_sms_priority_items_vzw">
+    <item>Обычный</item>
+    <item>Высокий</item>
+  </string-array>
+  <string-array name="select_add_recipient_items">
+    <item>Добавить CC</item>
+    <item>Добавить BCC</item>
+  </string-array>
+  <string-array name="select_add_recipient_items_cc">
+    <item>Add Cc</item>
+  </string-array>
+  <string-array name="select_add_recipient_items_bcc">
+    <item>Add Bcc</item>
+  </string-array>
+  <string-array name="select_mms_priority_items">
+    <item>Низкий</item>
+    <item>Обычный</item>
+    <item>Высокий</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>Английский</item>
+    <item>Французский</item>
+    <item>Испанский</item>
+    <item>Японский</item>
+    <item>Корейский</item>
+    <item>Китайский</item>
+    <item>Иврит</item>
+  </string-array>
+  <string-array name="list_language_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+  </string-array>
+  <string-array name="prefEntries_cmasRemind">
+    <item>Напоминание</item>
+    <item>Напоминание каждые 2 мин.</item>
+    <item>Напоминание каждые 15 мин.</item>
+    <item>Выкл</item>
+  </string-array>
+  <string-array name="prefValues_cmasRemind">
+    <item>Remind once</item>
+    <item>Remind every 2 minutes</item>
+    <item>Remind every 15 minutes</item>
+    <item>Off</item>
+  </string-array>
+  <string-array name="move_to_item1">
+    <item>Security box</item>
+  </string-array>
+  <string-array name="SIM_N_SEND">
+    <item>Посылка с SIM1</item>
+    <item>Посылка с SIM2</item>
+    <item>"Отправить
+C"</item>
+    <item>"Отправить
+G"</item>
+  </string-array>
+  <string-array name="SIM_SEND">
+    <item>"Отправить
+SIM1"</item>
+    <item>"Отправить
+SIM2"</item>
+    <item>"Отправить
+C"</item>
+    <item>"Отправить
+G"</item>
+  </string-array>
+  <string-array name="FilterTypeSingMode">
+    <item>All</item>
+  </string-array>
+  <string-array name="FilterTypeDualMode">
+    <item>Все</item>
+    <item>SIM 1</item>
+    <item>SIM 2</item>
+  </string-array>
+  <string-array name="insert_location_items">
+    <item>Адрес, URL-ссылка</item>
+    <item>Карта, Адрес, URL-ссылка</item>
+  </string-array>
+  <string-array name="insert_route_items">
+    <item>Маршрут, URL-ссылка</item>
+    <item>Карта, Маршрут, URL-ссылка</item>
+  </string-array>
+</resources>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+    <item quantity="one">Цепочка будет удалена.</item>
+  </plurals>
+  <plurals name="slide_duration">
+    <item quantity="other">%s с.</item>
+    <item quantity="one">%s с.</item>
+    <item quantity="few">%s с.</item>
+  </plurals>
+  <plurals name="search_results_title">
+    <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+    <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+  </plurals>
+  <plurals name="message_count_notification_overflow">
+    <item quantity="other">Еще сообщений: %1$s</item>
+    <item quantity="one">Еще сообщений: %1$s</item>
+  </plurals>
+  <plurals name="recipient_count">
+    <item quantity="other">%1$s чел.</item>
+  </plurals>
+  <plurals name="confirm_delete_conversations">
+    <item quantity="other">%1$s цепочек будет удалено.</item>
+    <item quantity="one">Будет удалена 1 цепочка.</item>
+  </plurals>
+  <plurals name="confirm_delete_messages">
+    <item quantity="other">Будет удалено %1$s сообщений.</item>
+    <item quantity="one">Будет удалено %1$s сообщение.</item>
+    <item quantity="few">Будет удалено %1$s сообщения.</item>
+  </plurals>
+  <plurals name="confirm_delete_favorite">
+    <item quantity="other">%1$s избранные сообщения будут удалены.</item>
+    <item quantity="one">1 избранное сообщение будет удалено.</item>
+  </plurals>
+  <plurals name="confirm_delete_draft">
+    <item quantity="other">%1$s черновиков будет удалено.</item>
+    <item quantity="one">Этот черновик будет удален.</item>
+  </plurals>
+  <plurals name="confirm_delete_unread">
+    <item quantity="other">%1$s цепочек будет удалено.</item>
+    <item quantity="one">Будет удалена 1 цепочка.</item>
+  </plurals>
+</resources>

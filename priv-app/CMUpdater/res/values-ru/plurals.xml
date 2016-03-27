@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="not_new_updates_found_body">
+    <item quantity="other">Доступно %d обновлённых версий CyanogenMod</item>
+    <item quantity="one">Доступна %d обновлённая версия CyanogenMod</item>
+    <item quantity="few">Доступно %d обновлённых версии CyanogenMod</item>
+  </plurals>
+  <plurals name="not_additional_count">
+    <item quantity="other">+ ещё %d</item>
+    <item quantity="one">+ ещё %d</item>
+    <item quantity="few">+ ещё %d</item>
+  </plurals>
+  <plurals name="extension_status">
+    <item quantity="other">%d updates</item>
+    <item quantity="one">%d update</item>
+  </plurals>
+  <plurals name="extension_expandedTitle">
+    <item quantity="other">%d CyanogenMod updates</item>
+    <item quantity="one">%d CyanogenMod update</item>
+  </plurals>
+</resources>

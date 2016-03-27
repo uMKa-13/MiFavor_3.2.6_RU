@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_edit_item">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="log_type">
+        <item>UI</item>
+        <item>Telephony</item>
+        <item>DataService</item>
+        <item>Location</item>
+        <item>Multimedia</item>
+        <item>Camera</item>
+        <item>WiFi</item>
+        <item>Bluetooth</item>
+        <item>AudioFM</item>
+        <item>PowerBatt</item>
+        <item>Crash</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="upload_mode_entries">
+        <item>Production</item>
+        <item>Development</item>
+        <item>Testing</item>
+    </string-array>
+    <string-array name="upload_mode_values">
+        <item>production</item>
+        <item>development</item>
+        <item>testing</item>
+    </string-array>
+    <string-array name="log_server_entries">
+        <item>San Diego</item>
+        <item>ShangHai</item>
+        <item>Ftp</item>
+    </string-array>
+    <string-array name="log_server_values">
+        <item>https://qrdlog.qualcomm.com</item>
+        <item>https://qrd-dm.qualcomm.com</item>
+        <item>FtpServer</item>
+    </string-array>
+    <string-array name="upload_phase">
+        <item>FUT</item>
+        <item>ESG Field Test</item>
+        <item>CleNET Field Test</item>
+        <item>UX Group</item>
+        <item>Loc Tech</item>
+        <item>FUT-QIPL</item>
+        <item>Vivo Field Test</item>
+    </string-array>
+    <string-array name="load_profile_entries">
+        <item>Local</item>
+        <item>Remote</item>
+    </string-array>
+</resources>

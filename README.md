@@ -1,0 +1,2 @@
+# MiFavor_3.2.6_RU
+S291_ROM_MFV_3.2.6_RU

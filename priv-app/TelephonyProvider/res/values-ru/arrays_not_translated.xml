@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_sms_yp">
+        <item>10000|中国电信</item>
+        <item>10001|中国电信 (客服热线)</item>
+        <item>10010|中国联通</item>
+        <item>10011|中国联通 (全国统一客服热线)</item>
+        <item>10050|中国铁通</item>
+        <item>10086|中国移动通信</item>
+        <item>1008611|中国移动通信 (话费查询服务电话)</item>
+        <item>11185|中国邮政</item>
+        <item>12320|全国公共卫生公益热线</item>
+        <item>12306|全国铁路客户服务热线</item>
+        <item>12358|价格举报电话</item>
+        <item>12365|质量技术监督</item>
+        <item>12110|公安短信报警电话</item>
+        <item>12310|机构编制监督举报电话</item>
+        <item>12312|商务投诉服务中心举报电话</item>
+        <item>12348|法律服务热线</item>
+        <item>12117|报时服务</item>
+        <item>11183|中国邮政 (EMS快递物流热线)</item>
+        <item>12122|高速公路报警救援电话</item>
+        <item>12355|青少年法律与心理咨询热线</item>
+        <item>12338|全国妇联 (妇女维权公益热线)</item>
+        <item>12380|组织部举报热线</item>
+        <item>12333|人力资源和社会保障服务热线</item>
+        <item>12388|纪检督察机关举报电话</item>
+        <item>12369|环保投诉热线</item>
+        <item>12121|气象局 (天气服务电话)</item>
+        <item>12309|检察机关全国统一举报电话</item>
+        <item>12345|市民服务热线</item>
+        <item>12315|消费者投诉热线</item>
+        <item>12336|国土资源局</item>
+        <item>12395|全国水上搜救电话 (海上救援)</item>
+        <item>12580|中国移动通信 (综合信息服务平台)</item>
+        <item>116114|电话导航</item>
+        <item>118114|电信号码百事通</item>
+        <item>95079|长城宽带 (热线)</item>
+        <item>95598|供电服务热线</item>
+        <item>95169|挂号网</item>
+        <item>95105105|火车票订票热线</item>
+        <item>95516|中国银联</item>
+        <item>95533|建设银行</item>
+        <item>95599|农业银行</item>
+        <item>95588|工商银行</item>
+        <item>95566|中国银行</item>
+        <item>95555|招商银行</item>
+        <item>95559|交通银行</item>
+        <item>95580|邮政储蓄</item>
+        <item>95508|广发银行 (信用卡专线)</item>
+        <item>95558|中信银行/信诚人寿保险</item>
+        <item>95595|光大银行</item>
+        <item>95568|民生银行</item>
+        <item>95561|兴业银行</item>
+        <item>95528|浦发银行</item>
+        <item>95577|华夏银行</item>
+        <item>95501|深发银行</item>
+        <item>95526|北京银行</item>
+        <item>95594|上海银行</item>
+        <item>95527|浙商银行</item>
+        <item>95188|支付宝</item>
+        <item>95502|永安保险</item>
+        <item>95505|天安保险</item>
+        <item>95509|华泰财产保险</item>
+        <item>95510|阳光保险</item>
+        <item>95511|中国平安</item>
+        <item>95512|中国平安 (客服电话)</item>
+        <item>95515|合众人寿保险</item>
+        <item>95518|中国人保财险</item>
+        <item>95519|中国人寿</item>
+        <item>95522|泰康人寿</item>
+        <item>95567|新华人寿</item>
+        <item>95569|安邦保险</item>
+        <item>95585|中华联合保险</item>
+        <item>95589|太平人寿</item>
+        <item>95590|中国大地保险</item>
+        <item>95596|民生人寿保险</item>
+        <item>95556|华安保险</item>
+        <item>95105768|海康人寿保险</item>
+        <item>95550|天平汽车保险</item>
+        <item>95560|幸福寿险</item>
+        <item>95535|生命人寿</item>
+        <item>95581|农银人寿</item>
+        <item>95576|长城人寿</item>
+        <item>95586|都邦保险 (全国服务热线)</item>
+        <item>95542|百年寿险</item>
+        <item>95549|国华人寿保险</item>
+        <item>95552|永诚财产保险股份有限公司</item>
+        <item>95545|中英人寿</item>
+        <item>95520|吉祥航空</item>
+        <item>95524|春秋航空</item>
+        <item>95530|东方航空/上海航空</item>
+        <item>95539|南方航空/重庆航空</item>
+        <item>95557|厦门航空</item>
+        <item>95583|中国国际航空</item>
+        <item>95080|深圳航空</item>
+        <item>950715|香港航空</item>
+        <item>95071950|祥鹏航空</item>
+        <item>950710|天津航空</item>
+        <item>"950718|海南航空 "</item>
+        <item>950712|海南航空 (网上购票服务热线)</item>
+        <item>95071095|西部航空</item>
+        <item>95572|中铁快运</item>
+        <item>10016|中国联通 (电话营销专线)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item type="string" name="circle_radius_multiplier">0.82</item>
+  <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+  <item type="string" name="selection_radius_multiplier">0.16</item>
+  <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+  <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+  <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+  <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+  <item type="string" name="text_size_multiplier_normal">0.17</item>
+  <item type="string" name="text_size_multiplier_inner">0.14</item>
+  <item type="string" name="text_size_multiplier_outer">0.11</item>
+  <string name="time_placeholder">--</string>
+  <string name="time_separator">:</string>
+  <string name="radial_numbers_typeface">sans-serif</string>
+  <string name="sans_serif">sans-serif</string>
+  <string name="day_of_week_label_typeface">sans-serif</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="mailbox_name_server_inbox">Inbox</string>
+  <string name="mailbox_name_server_outbox">Outbox</string>
+  <string name="mailbox_name_server_drafts">Drafts</string>
+  <string name="mailbox_name_server_trash">Trash</string>
+  <string name="mailbox_name_server_sent">Sent</string>
+  <string name="mailbox_name_server_junk">Junk</string>
+  <string name="mailbox_name_server_starred">Starred</string>
+  <string name="mailbox_name_server_all_unread">Unread</string>
+  <string name="email_package_name">com.android.email</string>
+  <string name="titles" formatted="false">%s, %s</string>
+  <string name="prefDefault_suggestedContactsMode">none</string>
+  <string name="quoted_text_font_color_string">@color/text_color_grey</string>
+  <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+  <string name="date">2888/88/88</string>
+  <string name="compose_help_context">compose</string>
+  <string name="conversation_list_help_context">android_conversation_list</string>
+  <string name="conversation_view_help_context">android_conversation_view</string>
+  <string name="wait_help_context">wait</string>
+  <string name="main_help_context">ttl</string>
+  <string name="trigger_compose_char">n</string>
+  <string name="trigger_archive_char">d</string>
+  <string name="trigger_delete_char">\u0008</string>
+  <string name="trigger_send_char">"
+"</string>
+  <string name="trigger_save_char">s</string>
+  <string name="trigger_refresh_char">u</string>
+  <string name="trigger_toggle_drawer_char">m</string>
+  <string name="trigger_settings_char">,</string>
+  <string name="trigger_help_char">/</string>
+  <string name="trigger_reply_char">`</string>
+  <string name="trigger_reply_all_char">r</string>
+  <string name="trigger_toggle_read_unread_char">i</string>
+  <string name="trigger_change_label_char">l</string>
+  <string name="trigger_print_char">p</string>
+  <string name="trigger_undo_char">z</string>
+  <string name="mock_content_provider">Mock Content Provider</string>
+  <string name="conversation_content_provider">Conversation Content Provider</string>
+  <string name="account_cache_provider">Account Cache Provider</string>
+  <string name="app_name">Email</string>
+  <string name="attach_from_service_stub1" />
+  <string name="formatted_subject">%1$s %2$s</string>
+  <string name="reply_subject_label">Re:</string>
+  <string name="forward_subject_label">Fwd:</string>
+  <string name="signature">"
+
+%s"</string>
+  <string name="menu_move_to_state">0</string>
+  <string name="report_rendering_problem">Looks bad</string>
+  <string name="report_rendering_improvement">Looks good</string>
+  <string name="report_rendering_problem_desc">This message looks bad.</string>
+  <string name="report_rendering_improvement_desc">This message looks good.</string>
+  <string name="formatted_email_address">&lt;%1$s&gt;</string>
+  <string name="attachment_application_pdf">PDF</string>
+  <string name="attachment_extra_option1" />
+  <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="badge_and_subject">%1$s %2$s</string>
+  <string name="enumeration_comma">", "</string>
+  <string name="widget_large_unread_count">%d+</string>
+  <string name="search_title">Unified Email</string>
+  <string name="search_results_loaded">%1$d</string>
+  <string name="load_attachment">@string/load_more</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
+  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
+  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
+  <string name="hierarchical_folder_top">%1$s∕</string>
+  <string name="senders_split_token">, </string>
+  <string name="senders_elided">..</string>
+  <string name="elided_padding_token"> </string>
+  <string name="message_count_spacer">  </string>
+  <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
+  <string name="prefDefault_autoAdvance">list</string>
+  <string name="veiled_address" />
+  <string name="veiled_alternate_text" />
+  <string name="veiled_alternate_text_unknown_person" />
+  <string name="veiled_summary_unknown_person" />
+  <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="prefDefault_removal_action">archive</string>
+  <string name="preferences_default_reply_all_summary">@string/preferences_default_reply_all_summary_impl</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
+  <string name="address_print_display_format">%1$s &amp;lt;%2$s&amp;gt;</string>
+  <string name="widget_provider">com.android.email.provider.WidgetProvider</string>
+  <string name="print_job_name">Email - %1$s</string>
+  <string name="attach_file_content_description">@string/add_photo_attachment</string>
+  <string name="drawer_pullout_tag">drawer_pullout</string>
+  <string name="help_uri" />
+  <string name="view_app_page" />
+  <string name="app_url" />
+  <string name="privacy_policy_uri" />
+  <string name="full_message_activity" />
+  <string name="reply_choice_smiling_face">:)</string>
+  <string name="reply_choice_frowning_face">:(</string>
+  <string name="user_agent_format">%1$s AndroidUnifiedEmail/%2$s</string>
+  <string name="photo_view_activity">com.android.mail.photo.MailPhotoViewActivity</string>
+  <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
+  <string name="debug_enable_verbose_logging_label">Enable exchange logging?</string>
+  <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
+  <string name="debug_clear_webview_cache">Clear WebView cache</string>
+  <string name="debug_clear_migration_state">Clear migration state</string>
+  <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
+  <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
+  <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
+  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+  <string name="exchange_eas_name">Exchange</string>
+  <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+  <string name="email_feedback_uri" />
+  <string name="account_manager_type_exchange">com.android.exchange</string>
+  <string name="account_manager_type_pop3">com.android.email.pop3</string>
+  <string name="account_manager_type_imap">com.android.email.imap</string>
+  <string name="account_manager_type_legacy_imap">com.android.email.legacy.imap</string>
+  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
+  <string name="intent_exchange_cert_action">com.android.email.EXCHANGE_REQUEST_CERT</string>
+  <string name="intent_exchange_package">com.android.exchange</string>
+  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
+  <string name="intent_force_create_email_account">com.android.email.FORCE_CREATE_ACCOUNT</string>
+  <string name="intent_create_email_account">com.android.email.CREATE_NEW_ACCOUNT</string>
+  <string name="authority_email_provider">com.android.email.provider</string>
+  <string name="authority_conversation_provider">com.android.email.conversation.provider</string>
+  <string name="authority_account_cache_provider">com.android.email.accountcache</string>
+  <string name="protocol_legacy_imap">imap</string>
+  <string name="protocol_imap">imap</string>
+  <string name="protocol_pop3">pop3</string>
+  <string name="protocol_eas">eas</string>
+  <string name="application_mime_type">application/email-ls</string>
+  <string name="reconciliation_compose_activity_name">com.android.email.activity.ComposeActivityEmail</string>
+  <string name="gmail_name">Gmail</string>
+  <item type="string" name="APKTOOL_DUMMY_1d7">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1d8">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1d9">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1da">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1db">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1dc">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1de">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1df">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e1">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e2">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e3">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e4">false</item>
+  <item type="string" name="APKTOOL_DUMMY_1e5">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e0">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e1">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e2">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e3">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e4">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e5">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e6">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e7">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e8">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e9">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ea">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2eb">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ec">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ed">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ee">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ef">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f0">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f1">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f2">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f3">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f4">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f5">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f6">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f7">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f8">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f9">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2fa">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2fb">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2fc">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2fd">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2fe">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2ff">false</item>
+  <item type="string" name="APKTOOL_DUMMY_300">false</item>
+  <item type="string" name="APKTOOL_DUMMY_301">false</item>
+  <item type="string" name="APKTOOL_DUMMY_302">false</item>
+  <item type="string" name="APKTOOL_DUMMY_303">false</item>
+</resources>

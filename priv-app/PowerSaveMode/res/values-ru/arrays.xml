@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="Mode_title">
+    <item>Услуга передачи данных</item>
+    <item>WLAN</item>
+    <item>Bluetooth</item>
+    <item>Яркость</item>
+    <item>Автовыключение</item>
+    <item>GPS</item>
+  </string-array>
+  <string-array name="Mode_values">
+    <item>Закрыть</item>
+    <item>Закрыть</item>
+    <item>Закрыть</item>
+    <item>10/255</item>
+    <item>30s</item>
+    <item>Закрыть</item>
+  </string-array>
+</resources>

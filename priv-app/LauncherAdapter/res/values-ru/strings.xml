@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_filter_class" />
+  <string name="download_file_savepath">mifavorlauncher</string>
+  <string name="pick_image_title">Выберите Картинку</string>
+  <string name="wallpaper_set_success">Обои установлены успешно</string>
+  <string name="wallpaper_set_fail">Не удалось установить обои</string>
+  <string name="tab_pick_wallpaper">Выбрать обои</string>
+  <string name="tab_pick_color">Выбрать цвет</string>
+  <string name="activity_not_found">Приложение удалено.</string>
+  <string name="keypad_transparent">Прозрачный</string>
+  <string name="wallpaper_blur">Размытие</string>
+  <string name="lockscreen_create">Создать фотостену</string>
+  <string name="lockscreen_share">Поделиться своей фотографией на стене</string>
+  <string name="lockscreen_me">Я</string>
+  <string name="gallery_data_error">При инициализации данных элемента Галереи возникла ошибка!</string>
+  <string name="app_name">LauncherAdapter2</string>
+</resources>

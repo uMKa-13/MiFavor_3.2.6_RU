@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payeco_app_name">易联移动支付</string>
+    <string name="payeco"><br>易联支付</br></string>
+    <string name="payeco_loading">正在提交，请稍候…</string>
+    <string name="payeco_submiting">正在提交…</string>
+    <string name="payeco_error_pan">请输入正确的银行卡号</string>
+    <string name="payeco_error_pin">请输入正确的银行卡密码</string>
+    <string name="payeco_error_cvn2">请输入正确的CVN2</string>
+    <string name="payeco_error_mobliemac">请输入正确的短信验证码</string>
+    <string name="payeco_error_riskcontrol">请输入%1$s</string>
+    <string name="payeco_error_idNum">请输入正确的证件号码</string>
+    <string name="payeco_error_moblieNum">请输入正确的手机号码</string>
+    <string name="payeco_prompt">提示</string>
+    <string name="payeco_networkError">没有网络连接，请检查网络设置</string>
+    <string name="payeco_support_bank"><u>支持的银行列表</u></string>
+    <string name="payeco_order_detail">订单详情</string>
+    <string name="payeco_order_detail_orderId">订单编号:</string>
+    <string name="payeco_order_detail_orderDesc">商品描述:</string>
+    <string name="payeco_order_detail_orderAmt">支付金额:</string>
+    <string name="payeco_amount">￥%1$s</string>
+    <string name="payeco_order_detail_merchantName">商户名称:</string>
+    <string name="payeco_order_detail_orderTime">交易时间:</string>
+    <string name="payeco_pay_detail">交易详情</string>
+    <string name="payeco_back_merchant">"关        闭"</string>
+    <string name="payeco_exit_pay">退出支付</string>
+    <string name="payeco_re_toPay">再次提交</string>
+    <string name="payeco_pay_state">交易结果:</string>
+    <string name="payeco_payfail_desc">失败原因:</string>
+    <string name="payeco_pay_state_success">支付成功</string>
+    <string name="payeco_pay_state_fail">支付失败</string>
+    <string name="payeco_error_http_unknow_error">网络连接异常，请检查网络设置。</string>
+    <string name="payeco_confirm">"确    认"</string>
+    <string name="payeco_cancel">"取    消"</string>
+    <string name="payeco_commint_pay">提交付款</string>
+    <string name="payeco_confirm_pay">确认付款</string>
+    <string name="payeco_pay_panType">选择卡种:</string>
+    <string name="payeco_panType_debit">储蓄卡</string>
+    <string name="payeco_panType_credit">信用卡</string>
+    <string name="payeco_usecqp_tips">一键支付，免输密码</string>
+    <string name="payeco_pay_pan">银行卡号:</string>
+    <string name="payeco_pay_oldpan">您的银行卡号:</string>
+    <string name="payeco_pay_debit_hint">输入储蓄卡卡号</string>
+    <string name="payeco_pay_credit_hint">输入信用卡卡号</string>
+    <string name="payeco_pay_debit_credit_hint">输入储蓄卡或信用卡卡号</string>
+    <string name="payeco_pay_pin">银行卡密码:</string>
+    <string name="payeco_pay_pin_hint">输入银行卡密码</string>
+    <string name="payeco_pay_validate">有效期:</string>
+    <string name="payeco_pay_cvn2">C V N2:</string>
+    <string name="payeco_pay_cvn2_hint">卡背面最后三位数字</string>
+    <string name="payeco_pay_credit_info"><u>什么是有效期和CVN2</u></string>
+    <string name="payeco_validate_cvn2_detail">"CVN2代码是印在信用卡背面签名栏最后的3位数代码。我们需要这个代码做位确保客户安全。如果您找不到此代码或者此代码难以辨认，请与信用卡发卡银行联络。
+
+有效期是卡正面上带有 /的四位数字 ，格式为：月/年  例：12/15，则有效期为2015年12月。如果有两组有效期，就看Valid Thru后面的数字为到期日。"</string>
+    <string name="payeco_pay_username">真实姓名:</string>
+    <string name="payeco_pay_idType">证件类型:</string>
+    <string name="payeco_pay_idtype_prompt">选择证件类型</string>
+    <string name="payeco_pay_idNum">证件号码:</string>
+    <string name="payeco_pay_bank_address">开户行地区:</string>
+    <string name="payeco_select_province">请选择省份</string>
+    <string name="payeco_select_city">请选择市</string>
+    <string name="payeco_pay_result_title">交易结果</string>
+    <string name="payeco_pay_benifitName">受益人:</string>
+    <string name="payeco_pay_photoDesc">照片描述:</string>
+    <string name="payeco_pay_address">户籍地址:</string>
+    <string name="payeco_pay_yixiantong">一线通标志:</string>
+    <string name="payeco_takepickture_tips">银联安全提示：为保障您的支付安全，请拍摄本人身份证照片，以进行验证</string>
+    <string name="payeco_pay_idcard_photo">请拍摄身份证原件照片</string>
+    <string name="payeco_get_photo_fail">获取照片数据失败，请检查相机设置或者存储卡空间是否足够</string>
+    <string name="payeco_scale_picture">正在压缩并显示照片…</string>
+    <string name="payeco_pay_bindMobileNum">手机号码:</string>
+    <string name="payeco_pay_mobileMac">短信码:</string>
+    <string name="payeco_pay_regetmobilemac">重新获取</string>
+    <string name="payeco_pay_reget_success">短信验证码已发送</string>
+    <string name="payeco_keyboard">"密  码  键  盘"</string>
+    <string name="payeco_keyboard_tips">密码键盘采用银联标准加密技术加密传输，保证密码输入安全。</string>
+    <string name="payeco_keyboard_digital">数字</string>
+    <string name="payeco_keyboard_character">字母</string>
+    <string name="payeco_keyboard_symbol">符号</string>
+    <string name="payeco_keyboard_confirm">"确    定"</string>
+    <string name="payeco_keyboard_delete">"回  退"</string>
+    <string name="payeco_keyboard_edit_hint">请输入密码</string>
+    <string name="payeco_keyboard_next">下一页</string>
+    <string name="payeco_keyboard_pre">上一页</string>
+    <string name="payeco_exit_app_msg">支付未完成，确定退出支付？</string>
+    <string name="payeco_no_sdcard">没有找到存储卡</string>
+    <string name="payeco_get_mobilemac_fail">获取短信验证码失败，%1$s，重新获取</string>
+    <string name="payeco_close">"返        回"</string>
+    <string name="payeco_close_line"><u>返 回</u></string>
+    <string name="payeco_next">下 一 步</string>
+    <string name="payeco_back">上 一 步</string>
+    <string name="payeco_open_cpq">同意开通认证快付协议</string>
+    <string name="payeco_read_cpq_protocol"><u>阅读</u></string>
+    <string name="payeco_cpq_tips">提醒：下次用该银行卡支付不用输入密码，支付更快捷！</string>
+    <string name="payeco_changeCard">换卡</string>
+    <string name="payeco_cardType_tip">对不起，暂时不支持您所使用的银行卡类型</string>
+    <string name="payeco_plugin_pay_success">支付成功</string>
+    <string name="payeco_plugin_pay_fail">支付失败</string>
+    <string name="payeco_plugin_pay_cancel">支付取消</string>
+    <string name="payeco_plugin_pay_wait_manualrisk">订单支付状态未更新，为了您的交易安全，银联系统需要验证您的身份信息。</string>
+    <string name="payeco_plugin_pay_exception">支付插件异常，请重新支付。</string>
+    <string name="payeco_plugin_step_1">填资料</string>
+    <string name="payeco_plugin_step_2">认证中</string>
+    <string name="payeco_plugin_free_auth">免认证</string>
+    <string name="payeco_plugin_step_3">完成</string>
+    <string name="app_name">ZTE Account</string>
+    <string name="jpay_loading">Loading …</string>
+    <string name="param_not_right_waning">Invalid parameter,please check…</string>
+    <string name="jpay_title">Cashier Desk</string>
+    <string name="jpay_pay_fee">Price：</string>
+    <string name="jpay_pay_count">Count：</string>
+    <string name="jpay_pay_content">Trade Name：</string>
+    <string name="activity_remote_service_binding">AppDemo4</string>
+    <string name="remote_call_failed">Failure calling remote service</string>
+    <string name="partnerHint">partner</string>
+    <string name="sellerHint">seller</string>
+    <string name="out_trade_noHint">out_trade_no</string>
+    <string name="subjectHint">subject</string>
+    <string name="bodyHint">body</string>
+    <string name="total_feeHint">total_fee</string>
+    <string name="notify_urlHint">notify_url</string>
+    <string name="charsetHint">charset</string>
+    <string name="signTypeHint">signType</string>
+    <string name="confirm_install_hint">Installation notes</string>
+    <string name="confirm_install">In order to ensure the safety of your transaction, plz install the alipay secure payment service first, plz click n n ,then installation will start.</string>
+    <string name="jpay_ensure">OK</string>
+    <string name="jpay_cancel">Cancel</string>
+    <string name="check_sign_failed">Your order has been illegally tampered</string>
+    <string name="alipay_label">Alipay</string>
+    <string name="tenpay_label">Tenpay</string>
+    <string name="unionpay_label">Unionpay</string>
+    <string name="yilianpay_label">Yi Lian</string>
+    <string name="jiexunpay_label">Jie Xun</string>
+    <string name="tonglianpay_label">Tong Lian</string>
+    <string name="bank_name">Bank:</string>
+    <string name="province">Province:</string>
+    <string name="city">City:</string>
+    <string name="card_num">Card No</string>
+    <string name="card_pw">Card Password</string>
+    <string name="operators">Operator</string>
+    <string name="chinamobile">China Mobile card</string>
+    <string name="chinaunion">Unicom card</string>
+    <string name="chinatelecom">Telecom Card</string>
+    <string name="ok_pay">Pay</string>
+    <string name="cancel_pay">Cancel</string>
+    <string name="bank_card_num">Bank Card:</string>
+    <string name="id_card_num">ID Card:</string>
+    <string name="bank_account_name">Account Name:</string>
+    <string name="phone_num">PhoneNo:</string>
+    <string name="jiexun_label">19pay</string>
+    <string name="jx_tip">Make sure the price is same with the par value of Recharge Card</string>
+    <string name="yl_validate_msg">could not be null!</string>
+    <string name="tlpay_label">Allinpay</string>
+    <string name="paytype">Please select pay type:</string>
+    <string name="bspay_warn">Sim card is unavailable, please select other pay type.</string>
+    <string name="bspay_confirm">You will pay：</string>
+    <string name="jpay_price_confirm">You will pay：</string>
+    <string name="unit_cn">Yuan</string>
+    <string name="unit_us">Dollar</string>
+    <string name="wait_pay">waiting for payment</string>
+    <string name="server_error">Server is busying now,please try again later</string>
+    <string name="request_failure">Request failure…</string>
+    <string name="test_title">Goods Information</string>
+    <string name="network_unavailable">Network unavailable.</string>
+    <string name="canceling">Canceling</string>
+    <string name="exit_title">Tips</string>
+    <string name="exit_info">Payment is not complete,cancel or not</string>
+    <string name="text_none_tip">Please fill in complete information</string>
+    <string name="jx_price_error">The price does not allow payment by mobile recharge card</string>
+    <string name="jx_recharge_value">Recharge Card value</string>
+    <string name="voice_pay_tip">payment request has been submitted, Please wait for the voice call back</string>
+    <string name="mms_success">SMS send success</string>
+    <string name="mms_failure">SMS send failed</string>
+    <string name="pay_title">Tips</string>
+    <string name="paypal_tip">paypal may charge foreign exchange costs</string>
+    <string name="service_phone">Customer Service Phone:</string>
+    <string name="confirm_title">提示</string>
+    <string name="ensure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="content_description_icon">icon</string>
+    <string name="refresh">刷新</string>
+    <string name="processing">加载中</string>
+    <string name="download">下载</string>
+    <string name="download_fail">下载安装包失败</string>
+    <string name="cancel_install_msp">你已取消安装移动快捷支付服务。</string>
+    <string name="cancel_install_alipay">你已取消安装支付宝钱包。</string>
+    <string name="redo">重试</string>
+    <string name="card_value">充值卡面额</string>
+    <string name="sz_tip">“充值卡面额”必须与“该充值卡的实际面额”一致，否则可能导致充值失败或余额丢失 （损失自负）</string>
+    <string name="paying">正在进行支付</string>
+    <string name="dlg_title">Data charge notification</string>
+    <string name="dlg_no_datacharge_notify">Do not notify more</string>
+    <string name="dlg_msg">ZTE Cloud Account use network, this may be charged by operator, please use WLAN if it is free for you.</string>
+    <string name="comm_confirm">Confirm</string>
+    <string name="comm_cancel">Cancel</string>
+    <string name="comm_exit">Exit</string>
+    <string name="comm_login">Sign in</string>
+    <string name="comm_waiting">Please waiting</string>
+    <string name="comm_register">Sign up</string>
+    <string name="comm_fastregister">One touch sign up</string>
+    <string name="comm_normal_register">Normal sign up</string>
+    <string name="comm_username">Email or mobile number</string>
+    <string name="comm_password">Password(6~16 charactor)</string>
+    <string name="comm_password_confirm">Confirm password</string>
+    <string name="comm_save">Save</string>
+    <string name="comm_bind">Bind</string>
+    <string name="comm_sina_weibo">Sina Weibo</string>
+    <string name="comm_tencent_qq">QQ</string>
+    <string name="comm_connect_srv">Connecting to server#8230</string>
+    <string name="has_cloud_account">Already added a cloud account</string>
+    <string name="account_lab">ZTE Account</string>
+    <string name="task_username_null">User name is empty</string>
+    <string name="task_username_invalid">Invalid user name</string>
+    <string name="task_mobile_invalid">Mobile number invalid, check your input please</string>
+    <string name="task_email_invalid">email invalid, check your input please</string>
+    <string name="task_password_null">Password is empty</string>
+    <string name="task_password_invalid">Invalid password, it must be 6~16 charactor or number</string>
+    <string name="task_password_fail">Password is not correct</string>
+    <string name="task_newpassword_null">New password is empty</string>
+    <string name="task_newpassword_invalid">Invalid new password, it must be 6~16 charactor or number</string>
+    <string name="task_newpassword_duplicate">New password is same to old one</string>
+    <string name="task_username_exist">The user name is occupied</string>
+    <string name="task_connection_fail">Network is un avalible</string>
+    <string name="task_params_error">Internal parameters error</string>
+    <string name="task_default_fail">Operation failed</string>
+    <string name="task_default_success">Operation success</string>
+    <string name="task_imei_exist">The device is already registered</string>
+    <string name="task_bind_user_exist">This account is binded, use other account please</string>
+    <string name="task_user_not_bind">This account is not bind</string>
+    <string name="task_username_fail">User name is not exist</string>
+    <string name="task_addaccount_srv_error">Service is unavalible</string>
+    <string name="task_get_password_overtimes">You have get password too many times, try again 24h later please</string>
+    <string name="task_fastregister_text">Input your current phone number</string>
+    <string name="task_fastregister_des">This number will be used as the user login, so please fill in the real mobile phone number. After successful registration password will be sent by text message to the mobile phone.</string>
+    <string name="activity_acc_mng_head_title">Account manage</string>
+    <string name="activity_acc_mng_str_empty" />
+    <string name="activity_acc_mng_title_user">Current Account</string>
+    <string name="activity_acc_mng_title_modify">Profile</string>
+    <string name="activity_acc_mng_text_addreg_zteacc">Fulfill profile</string>
+    <string name="activity_acc_mng_text_comm_layout_title">Comm</string>
+    <string name="activity_acc_mng_text_bind_layout_title">Bind</string>
+    <string name="activity_acc_mng_profile_des">Use email or phone number to sign in or get back your password</string>
+    <string name="activity_acc_mng_text_addreg_zteacc_des">Complete your personal information, you can enjoy the ZTE cloud services!</string>
+    <string name="activity_acc_mng_text_about">About</string>
+    <string name="activity_acc_mng_text_checkupdate">Update</string>
+    <string name="activity_acc_mng_text_logout">Logout</string>
+    <string name="activity_acc_mng_title_3rd_acc">SNS account</string>
+    <string name="activity_acc_mng_text_3rd_acc">Manage SNS account</string>
+    <string name="activity_acc_mng_text_more_acc">More…</string>
+    <string name="activity_acc_mng_title_3rd_acc_des">bind SNS account, and share ZTE cloud to your freinds</string>
+    <string name="activity_acc_mng_text_bind_zte_acc">Fullfil profile</string>
+    <string name="activity_acc_mng_text_bind_3rd_acc">Bind SNS account</string>
+    <string name="dialog_signout_success">To use ZTE Cloud services, you need to sign in again. Remember to come by and see us.</string>
+    <string name="dialog_update_title">Update</string>
+    <string name="dialog_update_msg">Download?</string>
+    <string name="dialog_update_noversion">It is the latest version already</string>
+    <string name="activity_acc_mng_no_more_3rdaccount">There is no more SNS account could be binded!</string>
+    <string name="dialog_change_head_portrait">Change head portrait</string>
+    <string name="dialog_item_choose_from_album">Choose from album</string>
+    <string name="dialog_item_by_capture">Take a picture</string>
+    <string name="activity_acc_mng_result">Upload picture failed!</string>
+    <string name="activity_addaccount_getpwd_view">Find password</string>
+    <string name="activity_addaccount_find_password">Foget password?</string>
+    <string name="activity_addaccount_login_3rd">Or sign in with</string>
+    <string name="activity_addaccount_reg_des">Create account</string>
+    <string name="activity_addaccount_login_des">Have account</string>
+    <string name="activity_addaccount_login_ok">Add ZTE account success</string>
+    <string name="find_password">Foget password?</string>
+    <string name="activity_register_terms_notify">By sign in means you agree to our</string>
+    <string name="dialog_register_ib_des">pic des</string>
+    <string name="activity_register_uname_icon_noinput">It could be your account of ZTE official website, ZTE App Store, or ZTE Cloud.</string>
+    <string name="activity_register_uname_icon_alreadyexit">The user name is occupied.</string>
+    <string name="activity_register_uname_icon_invalid">The user name is invalid</string>
+    <string name="activity_register_uname_icon_waitting">Please wait#8230</string>
+    <string name="activity_register_pwd_not_equal">Confirm password is not same to password</string>
+    <string name="activity_getpwd_title">Find password</string>
+    <string name="activity_getpwd_des_view">Input the email address or phone number that you registered, and the password will be sent to it.</string>
+    <string name="activity_getpwd_username_view">Email or mobile number</string>
+    <string name="task_get_password_success">The password have been send to</string>
+    <string name="task_get_password_fail">The user name is not exist</string>
+    <string name="activity_modifypwd_title">Change password</string>
+    <string name="activity_modifypwd_curpwd_view">Old password</string>
+    <string name="activity_modifypwd_newpwd_view">(6~16 charactors)</string>
+    <string name="activity_modifypwd_conpwd_view">New password confirm</string>
+    <string name="activity_modifypwd_newpwd_same_to_old">New password can not same to old one</string>
+    <string name="dialog_modifypwd_password_null">Input old password please</string>
+    <string name="dialog_modifypwd_password_invalid">old password is not correct</string>
+    <string name="dialog_modifypwd_newpassword_confirm_null">Confirm password is empty</string>
+    <string name="dialog_modifypwd_newpassword_confirm_invalid">Confirm password is not same to new password</string>
+    <string name="task_modify_pwd_success">Password changed</string>
+    <string name="task_modify_pwd_show">Show password</string>
+    <string name="activity_modifyinfo_des_view">Use changed email or phone number when sign in again.</string>
+    <string name="activity_modifyinfo_mobile_view">mobile number</string>
+    <string name="activity_modifyinfo_email_view">email</string>
+    <string name="activity_modifyinfo_title">Edit profile</string>
+    <string name="activity_modifyinfo_icon_des">Click icon to set your own contact icon</string>
+    <string name="task_modify_info_success">Modify profile success</string>
+    <string name="dialog_pwd_hint">Input password</string>
+    <string name="activity_modifyinfo_3rd_title">Fulfill profile</string>
+    <string name="activity_modifyinfo_3rd_des">Use email or phone to register ZTE account, enjoy ZTE cloud service, or find password ty ZTE account.</string>
+    <string name="preferenc_screen_title">ZTE account</string>
+    <string name="preferenc_modifypwd_title">Manage</string>
+    <string name="preferenc_modifypwd_descript">Manage your account</string>
+    <string name="qq_title_activity_auth">QQ Authorise</string>
+    <string name="qq_bind_zte_account">Bind a ZTE account</string>
+    <string name="qq_alert_agree">Next means you are agree with</string>
+    <string name="qq_bind_other">, or bind later</string>
+    <string name="qq_bind_email_phone">bind you email or phone</string>
+    <string name="zte_user_contract">terminal protocol</string>
+    <string name="qq_deny">Disagree</string>
+    <string name="qq_next_step">Next</string>
+    <string name="connect_server_failed">Service is unavalible</string>
+    <string name="welcome">Welcome</string>
+    <string name="sina_title_activity_auth">Sina authorise</string>
+    <string name="credit_pay_title">Credit payment</string>
+    <string name="credit_center_title">Yunbi center</string>
+    <string name="credit_exch_title">Exchange</string>
+    <string name="credit_need_pay">Need to pay:</string>
+    <string name="credit_amount_info">Current balance</string>
+    <string name="credit_exch_info">Can exchange</string>
+    <string name="credit_exch_confirm">Exchang now</string>
+    <string name="credit_lack_info">The balance is not enough!You can exchange first and then pay。</string>
+    <string name="credit_confirm_pay">Confirm to pay</string>
+    <string name="credit_pay_waiting">Paying</string>
+    <string name="credit_exch_waiting">Exchanging</string>
+    <string name="credit_pay_success">Pay successfully</string>
+    <string name="credit_pay_fail">Failed</string>
+    <string name="credit_back">Back</string>
+    <string name="credit_canExch_str">Can exchange</string>
+    <string name="credit_unit" />
+    <string name="credit_appname">central application</string>
+    <string name="credit_exch_button">exchange</string>
+    <string name="credit_exchall_button">Exchange all</string>
+    <string name="credit_choose_exch_num">choose the number to pay</string>
+    <string name="credit_exchall_amount_info">Exchange all to gain</string>
+    <string name="credit_exch_success_info">exchange successfully</string>
+    <string name="credit_exch_ret_title">Exchang result</string>
+    <string name="credit_confirm">Confirm</string>
+    <string name="credit_get_account_info">Load account info</string>
+    <string name="credit_unit_info">yunbi</string>
+    <string name="credit_exch_fail_info">exchange failed</string>
+    <string name="credit_detail_start_info">All kinds of credits need to be exchang to</string>
+    <string name="credit_detail_end_info">then can be used to pay。</string>
+    <string name="credit_get_info_fail">fail to load account info。</string>
+    <string name="credit_add_user_fail">fail to add user</string>
+    <string name="credit_pay_yue">After paying,you balance is</string>
+    <string name="regbind_title">User profile</string>
+    <string name="regbind_notice_view">Fulfill your profile, use email or phone to find password</string>
+    <string name="login_thirdpart_button">Click to Login</string>
+    <string name="bind_thirdpart_button">Click to bind</string>
+    <string name="unbind_thirdpart_button">Click to unbind</string>
+    <string name="bind_thirdpart_notice">You have not bind an account</string>
+    <string name="manage_third_account">Manage other account</string>
+    <string name="dialog_unbind_title">unbind</string>
+    <string name="dialog_unbind_success">unbind success</string>
+    <string name="dialog_unbind_fail">unbind failed</string>
+    <string name="dialog_bind_success">bind success</string>
+    <string name="dialog_bind_fail">bind failed</string>
+    <string name="dialog_connect_sina_fail">Service is unavalible</string>
+    <string name="dialog_conform_unbind_notice">Sure to unbind?</string>
+    <string name="toast_unallow_unbind">The only account can not unbind,please complete your profile then it can be unbind!</string>
+    <string name="pay_save_wait">Trying to handle the payment result</string>
+    <string name="pay_check_wait">Loading...</string>
+    <string name="pay_signs_error">sign error</string>
+    <string name="pay_click_back">click to back</string>
+    <string name="pay_dialog_update_msg">please update,the payment function cannot be used in old version.confirm to update?</string>
+    <string name="pay_params_error">params error</string>
+    <string name="terms_title">中兴手机业务软件协议</string>
+    <string name="terms_back">返回</string>
+    <string name="terms_disagree">不同意</string>
+    <string name="terms_agree">同意</string>
+    <string name="terms_content">"本协议系由中兴通讯股份有限公司及其关联公司（以下简称“ZTE中兴”或“我们”）与所有使用中兴云服务（以下简称“中兴云服务”）的主体（包括但不限于个人、团队等）（以下简称“用户”或“您”）针对中兴云服务的使用及相关服务所订立的有效合约。使用中兴云服务任何服务即表示理解并接受本协议的全部条款。本协议适用于任何中兴云服务，包括本协议期限内的用户所使用的各项服务和软件的升级和更新。
+
+一、服务内容及使用须知
+
+1、 中兴云服务是ZTE中兴面向中兴手机用户提供的一系列互联网在线服务的总称，包括但不限于“汇”系列、“掌心”系列、云盘、云同步、云备份、Joinme等具体服务。ZTE中兴有权随时增加、移除、变更中兴云服务包含的具体服务项，无需事先通知用户。
+2、 用户不得滥用中兴云服务的服务，ZTE中兴在此郑重提请您注意，任何经由本服务传送的资讯、资料、文字、软件、音乐、音讯、照片、图形、视讯、信息、用户的登记资料或其他资料，均由内容提供者、使用者对其上传、使用行为自行承担责任。中兴云服务作为信息服务平台，无法控制传送内容，也无法对用户的使用行为进行全面控制，因此不能保证内容的合法性、正确性、完整性、真实性。
+3、 若用户使用中兴云服务的行为不符合本协议，ZTE中兴在经由通知、举报等途径发现时有权做出判断，且有权在无需事先通知用户的情况下立即终止向用户提供部分或全部服务。因用户进行上述内容在中兴云服务的上载、传播而导致任何第三方提出索赔要求或衍生的任何损害或损失，由用户自行承担全部责任。
+4、 ZTE中兴有权对用户使用中兴云服务网络服务的情况进行监督，如经由通知、举报等途径发现用户在使用中兴云服务所提供的网络服务时违反任何本协议的规定，ZTE中兴有权要求用户改正或直接采取一切ZTE中兴认为必要的措施（包括但不限于更改或删除用户上载的内容、暂停或终止用户使用网络服务的权利）以减轻用户不当行为造成的影响。
+5、 未成年人用户在使用中兴云服务前，应获得家长或法定监护人的书面许可；家长或法定监护人应在充分理解并遵守本协议的基础上，指导未成年人用户使用中兴云服务并为其使用行为承担责任。
+
+二、所有权
+
+ ZTE中兴保留对以下各项内容、信息完全的、不可分割的所有权及知识产权：
+（1） 除用户自行上载、传播的内容外，中兴云服务有权保留包括但不限于所有内容、数据、技术、软件、代码、用户界面以及与其相关作品的所有权及知识产权；
+（2） 用户向中兴云服务提供的与该平台服务相关的任何信息及反馈。
+ 未经ZTE中兴同意，上述资料均不得在任何媒体直接或间接发布、播放、出于播放或发布目的而改写或再发行，或者被用于其他任何商业目的。中兴云服务不就由上述资料产生或在传送或递交全部或部分上述资料过程中产生的延误、不准确、错误和遗漏或从中产生或由此产生的任何损害赔偿，向用户或任何第三方负责；中兴云服务为提供网络服务而使用的任何软件的一切权利均属于该软件的著作权人，未经该软件的著作权人许可，用户不得对该软件进行反向工程、反向编译或反汇编，或以其他方式涉嫌侵害著作权的行为。
+
+三、承诺与保证
+
+1、 用户保证，其向中兴云服务上传的内容不得直接或间接的：
+（1） 删除、隐匿、改变、损害中兴云服务上显示或其中包含的任何专利、版权、商标或其他所有权声明；
+（2） 以任何方式干扰或企图干扰中兴云服务或ZTE中兴网站其任何部分或功能的正常运行；
+（3） 避开、尝试避开或声称能够避开任何内容保护机制或者中兴云服务数据度量工具；
+（4） 未事先经过原始用户的同意向任何非原始用户显示或以其他方式提供任何用户信息；
+（5） 提供跟踪功能，包括但不限于识别其他用户在个人主页上查看或操作；
+（6） 自动将浏览器窗口定向到其他网页；
+ 用户违反上述任何一款的保证，ZTE中兴均有权就其情节，对其做出警告、屏蔽、直至取消资格的处罚；如因用户违反上述保证而给中兴云服务、中兴云服务用户或ZTE中兴的任何合作伙伴造成损失，用户自行负责承担一切法律责任并赔偿损失。
+
+1、 用户的承诺：
+（1） 其已经取得利用中兴云服务提供的网络服务上传、发布、传送或通过其他方式传播的内容的权利人（如有）的书面授权，保证其在将相关内容提交、上传至中兴云服务前拥有充分、完整无瑕疵、排他的所有权及知识产权；如因用户利用中兴云服务提供的网络服务上传、发布、传送或通过其他方式传播的内容存在权利瑕疵或侵犯了第三方的合法权益（包括但不限于专利权、商标权、著作权及著作权邻接权、肖像权、隐私权、名誉权等）而导致ZTE中兴或与ZTE中兴合作的其他单位面临任何投诉、举报、质询、索赔、诉讼；或者使ZTE中兴或者与ZTE中兴合作的其他单位因此遭受任何名誉、声誉或者财产上的损失，用户应积极地采取一切可能采取的措施，以保证ZTE中兴及与ZTE中兴合作的其他单位免受上述索赔、诉讼的影响。同时用户对ZTE中兴及与ZTE中兴合作的其他单位因此遭受的直接及间接经济损失负有全部的损害赔偿责任。
+（2） 用户利用中兴云服务提供的网络服务上传、发布、传送或通过其他方式传播的内容，不得含有任何违反国家法律法规政策的信息，包括但不限于下列信息：
+(a)反对宪法所确定的基本原则的；
+(b) 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
+(c) 损害国家荣誉和利益的；
+(d) 煽动民族仇恨、民族歧视，破坏民族团结的；
+(e) 破坏国家宗教政策，宣扬邪教和封建迷信的；
+(f) 散布谣言，扰乱社会秩序，破坏社会稳定的；
+(g) 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+(h) 侮辱或者诽谤他人，侵害他人合法权益的；
+(i) 含有法律、行政法规禁止的其他内容的。
+（3） 用户不得为任何非法目的而使用本网络服务系统；不得利用中兴云服务网络服务系统进行任何可能对互联网或移动网正常运转造成不利影响的行为；
+（4） 用户不得利用中兴云服务的服务从事危害计算机信息网络安全的行为。
+
+四、知识产权保护
+
+ 如果用户上传的内容允许其他用户下载、查看、收听或以其他方式访问或分发，其必须保证该内容的发布和相关行为实施符合相关知识产权法律法规中相关的版权政策，包括但不限于：
+1、 用户在收到侵权通知之时，应立即删除或禁止访问声明的侵权内容，并同时联系递送通知的人员以了解详细信息。
+2、 用户知悉并同意ZTE中兴将根据相关法律法规对第三方发出的合格的侵权通知进行处理，并按照要求删除或禁止访问声明的侵权内容，采用并实施适当的政策，以期杜绝在相应条件下重复侵权。
+
+五、隐私保护
+
+ 为了进一步提升您在使用中兴云服务过程中的使用体验，向您提供更好的服务，我们会在为您提供服务的过程中收集必要的数据信息，并通过分析这些数据，为您提供更准确、更贴心的服务。
+（1）个人信息
+ 当您注册使用中兴云服务时，需要提供用于身份验证的手机号码或Email，也可以提供补充信息如头像、昵称、生日、工作单位等。当您使用第三方（如新浪、腾讯）账号登录中兴云服务时，中兴云服务将从第三方服务器获取到您的ID、昵称、头像、个人简介、社交关系等开放的信息并保存到我们的服务器中。我们的服务器也会保管第三方平台授予的访问令牌，在您使用的各个具体服务间共享，避免您反复登录第三方服务器。部分服务如云备份、云盘，可能会将您的通讯录、短信、照片等信息保存到我们的服务器上，如果您不愿提供此类信息，则您可能无法使用相关服务或者只能使用服务的部分功能。
+（2）设备信息
+ 因为有些服务是针对特定设备型号的，在业务开通前和使用过程中，我们会收集与设备相关的信息，包括您的设备型号、系统版本、唯一设备识别码以及网络状态等信息，以便准确匹配服务。
+（3）Cookie
+ 当您使用中兴云服务时，我们会使用业界通行的Cookie技术来提供自动登录等服务。
+（4）位置信息
+ 当您使用具有定位功能的中兴云服务时（如手机找回），我们可能会收集并处理有关您实际所在位置的信息。
+（5）日志信息
+ 中兴云服务的应用程序包含唯一的应用程序编号，当这些应用程序定期与我们的服务器通信（例如软件自动更新检查）时，或者当您反馈使用中遇到的问题时，应用程序会将此编号以及应用程序的活跃信息、异常信息、设备信息、以及用户自行填写的联系信息等内容发送给中兴云服务器，以帮助我们诊断应用程序的问题，及时推出更新版本。
+
+ ZTE中兴不会公开、透露用户的个人信息及保存在中兴云服务中的非公开内容，除非有下列情况：
+（1） 获得了合法用户的授权；
+（2） 为满足有关法律、法规的规定或执行政府主管部门的命令；
+（3） 为满足中兴云服务合法服务程序的规定；
+（4） 在紧急情况下，为维护国家安全或者用户及公众的权益；
+（5） 在出现企业并购、出售、重整等情况时将信息转移给第三方；
+（6） 为维护ZTE中兴的合法权益；
+（7） 其他依法需要公开个人信息的情况。
+
+六、免责声明
+
+1、 鉴于网络服务的特殊性，用户同意ZTE中兴有权随时变更、中断或终止部分或全部的网络服务。对于变更、中断或终止的网络服务，ZTE中兴在合理的范围内尽可能提前发出通知，但不对任何用户和任何第三方承诺承担任何责任。
+2、 用户理解，中兴云服务需要定期或不定期地对提供网络服务的平台或相关的设备进行检修或者维护，如因此类情况而造成收费网络服务在合理时间内的中断，ZTE中兴无需为此承担任何责任。
+3、 ZTE中兴不保证（包括但不限于）：
+（1） 中兴云服务适合用户的使用要求；
+（2） 中兴云服务不受干扰，及时、安全、可靠或不出现错误。
+4、 基于以下原因而造成的利润、商业信誉、资料损失或其他有形或无形损失，ZTE中兴不承担任何直接、间接的法律责任，包括但不限于经济赔偿：
+（1） 对中兴云服务的使用或无法使用；
+（2） 用户信息遭到未授权的使用或修改；
+（3） 其他与中兴云服务相关的事宜。
+
+七、其他
+
+1、 本协议最终解释权归ZTE中兴所有。
+2、 本协议一经公布即生效，ZTE中兴有权随时对协议内容进行修改，修改后的结果公布于中兴云服务网站上。如果不同意中兴云服务对本协议相关条款所做的修改，用户有权停止使用网络服务。如果用户继续使用网络服务，则视为用户接受ZTE中兴对本协议相关条款所做的修改。
+3、 本协议项下中兴云服务对于用户所有的通知均可通过网页公告、电子邮件、手机短信或常规的信件传送等方式进行；该通知于发送之日视为已送达收件人。
+4、 本协议的订立、执行和解释及争议的解决均应适用中国法律。如双方就本协议内容或其执行发生任何争议，双方应尽量友好协商解决；协商不成时，双方同意将争议提交深圳国际仲裁院进行仲裁，适用该仲裁委员会现行的仲裁规则，仲裁地点在中国深圳市。仲裁裁决是终局的，对双方都具有约束力。
+5、 本协议构成双方对本协议之约定事项及其他有关事宜的完整协议，除本协议规定的之外，未赋予本协议各方其他权利。
+6、 如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍应有效并且有约束力。
+"</string>
+    <string name="snssdk_install_title">Install SNS account login plugin</string>
+    <string name="snssdk_install_content">To login by SNS account, need to install SNS plugin.</string>
+    <string name="promote_title">To sign up ZTE account</string>
+    <string name="promote_text">"1.Save your credit in cloud, credit never lost
+2.Log your purchase in cloud, once sign in you can download pervious purchase free"</string>
+    <string name="accmgr_credit_n">0</string>
+    <string name="accmgr_empty_name" />
+    <string name="accmgr_make_credite">Get Credits</string>
+    <string name="accmgr_credit_shop">Credits Shop</string>
+    <string name="accmgr_creditx">Credit</string>
+    <string name="activity_modifypwd_newpwdlab_view">New password</string>
+</resources>

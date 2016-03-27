@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_widget_bg">
+        <item>使用背景</item>
+        <item>完全透明</item>
+    </string-array>
+    <string-array name="array_widget_org2_bg">
+        <item>使用背景</item>
+        <item>完全透明</item>
+    </string-array>
+    <string-array name="notify_color_type">
+        <item>默认</item>
+        <item>星空灰</item>
+        <item>土豪金</item>
+        <item>大地绿</item>
+    </string-array>
+    <string-array name="notify_back_color_type">
+        <item>默认</item>
+        <item>灰色</item>
+    </string-array>
+    <string-array name="array_download_method">
+        <item>电子市场(推荐)</item>
+        <item>墨迹官方下载</item>
+    </string-array>
+    <string-array name="clock_anim_entries">
+        <item>轮子</item>
+        <item>弹出</item>
+        <item>脉冲</item>
+        <item>环绕</item>
+    </string-array>
+    <string-array name="scene_preview_name">
+        <item>白天晴天</item>
+        <item>夜晚晴天</item>
+        <item>白天多云</item>
+        <item>夜晚多云</item>
+        <item>阴天</item>
+        <item>白天阵雨</item>
+        <item>夜晚阵雨</item>
+        <item>雷阵雨</item>
+        <item>白天冰雹</item>
+        <item>夜晚冰雹</item>
+        <item>白天雨夹雪</item>
+        <item>夜晚雨夹雪</item>
+        <item>白天小雨</item>
+        <item>夜晚小雨</item>
+        <item>白天中雨</item>
+        <item>夜晚中雨</item>
+        <item>白天大雨</item>
+        <item>夜晚大雨</item>
+        <item>白天小雪</item>
+        <item>夜晚小雪</item>
+        <item>白天小雪</item>
+        <item>夜晚小雪</item>
+        <item>白天中雪</item>
+        <item>夜晚中雪</item>
+        <item>白天大雪</item>
+        <item>夜晚大雪</item>
+        <item>白天雾</item>
+        <item>夜晚雾</item>
+        <item>白天冻雨</item>
+        <item>夜晚冻雨</item>
+        <item>沙尘暴</item>
+        <item>雾霾</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="face_emotion_array">
+        <item>[微笑]</item>
+        <item>[幸福]</item>
+        <item>[坏笑]</item>
+        <item>[悲伤]</item>
+        <item>[大笑]</item>
+        <item>[俏皮]</item>
+        <item>[流汗]</item>
+        <item>[惊讶]</item>
+        <item>[口罩]</item>
+        <item>[瞪眼]</item>
+        <item>[不屑]</item>
+        <item>[尴尬]</item>
+        <item>[凌乱]</item>
+        <item>[大哭]</item>
+        <item>[吐舌]</item>
+        <item>[瞌睡]</item>
+        <item>[痛苦]</item>
+        <item>[难过]</item>
+        <item>[哭笑]</item>
+        <item>[流泪]</item>
+        <item>[开心]</item>
+        <item>[亲亲]</item>
+        <item>[飞吻]</item>
+        <item>[生气]</item>
+        <item>[大汗]</item>
+        <item>[尖叫]</item>
+        <item>[发情]</item>
+        <item>[鬼脸]</item>
+        <item>[严肃]</item>
+        <item>[低落]</item>
+        <item>[乐观]</item>
+        <item>[爱心]</item>
+        <item>[心碎]</item>
+        <item>[表扬]</item>
+        <item>[鼓掌]</item>
+        <item>[okay]</item>
+        <item>[剪刀]</item>
+        <item>[玫瑰]</item>
+        <item>[太阳]</item>
+        <item>[白云]</item>
+        <item>[下雨]</item>
+        <item>[月亮]</item>
+        <item>[雪人]</item>
+        <item>[闪电]</item>
+        <item>[星星]</item>
+        <item>[闪亮]</item>
+        <item>[水滴]</item>
+        <item>[日出]</item>
+        <item>[流星]</item>
+        <item>[彩虹]</item>
+        <item>[游轮]</item>
+        <item>[丰收]</item>
+        <item>[雨伞]</item>
+        <item>[圣诞]</item>
+        <item>[便便]</item>
+        <item>[猪头]</item>
+        <item>[恶魔]</item>
+        <item>[bug]</item>
+        <item>[睡觉]</item>
+        <item>[礼物]</item>
+        <item>[气体]</item>
+        <item>[嘴唇]</item>
+        <item>[圣诞老人]</item>
+        <item>[国旗]</item>
+        <item>[脚印]</item>
+    </string-array>
+    <string-array name="english_week_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="english_week_abbr_array">
+        <item>Sun.</item>
+        <item>Mon.</item>
+        <item>Tue.</item>
+        <item>Wed.</item>
+        <item>Thur.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
+    </string-array>
+    <string-array name="widget_hotarea_default_name">
+        <item>手机闹钟</item>
+        <item>手机日历</item>
+        <item>切换城市</item>
+        <item>未设定</item>
+        <item>更新天气</item>
+        <item>语音播报</item>
+        <item>时景拍照</item>
+        <item>时景热图</item>
+    </string-array>
+    <string-array name="widget_hotarea_default_package">
+        <item>phone_clock|phone_clock</item>
+        <item>phone_calendar|phone_calendar</item>
+        <item>changecity|changecity</item>
+        <item>none|none</item>
+        <item>updatenow|updatenow</item>
+        <item>voice|voice</item>
+        <item>sns_camera|sns_camera</item>
+        <item>sns_hot_pic|sns_hot_pic</item>
+    </string-array>
+    <string-array name="array_retrievePsd">
+        <item>手机找回密码</item>
+        <item>邮箱找回密码</item>
+    </string-array>
+    <string-array name="aqiNotice0">
+        <item>"开窗
+通风"</item>
+        <item>"室外
+运动"</item>
+        <item>"加强
+锻炼"</item>
+    </string-array>
+    <string-array name="aqiNotice1">
+        <item>"不宜
+开窗"</item>
+        <item>"佩戴
+口罩"</item>
+        <item>"室内
+运动"</item>
+        <item>"注意
+防护"</item>
+    </string-array>
+    <array name="category_default">
+        <item>@array/aqiNoticeIcons0</item>
+        <item>@array/aqiNoticeIcons1</item>
+    </array>
+    <array name="aqiNoticeIcons0">
+        <item>@drawable/window_open</item>
+        <item>@drawable/sports_outdoor</item>
+        <item>@drawable/exercise_more</item>
+    </array>
+    <array name="aqiNoticeIcons1">
+        <item>@drawable/window_closed</item>
+        <item>@drawable/mask_wear</item>
+        <item>@drawable/sports_indoor</item>
+        <item>@drawable/protection</item>
+    </array>
+    <string-array name="week_array">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+    <string-array name="nut_week_array">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nut_work_array">
+        <item>工作日</item>
+        <item>休息日</item>
+        <item>每天</item>
+        <item>从不</item>
+    </string-array>
+    <string-array name="nut_check_array">
+        <item>5分钟</item>
+        <item>15分钟</item>
+        <item>30分钟</item>
+        <item>1小时</item>
+        <item>2小时</item>
+        <item>3小时</item>
+        <item>不检测</item>
+    </string-array>
+    <string-array name="nut_name_one_array">
+        <item>家</item>
+        <item>卧室</item>
+        <item>办公室</item>
+    </string-array>
+    <string-array name="nut_name_two_array">
+        <item>儿童房</item>
+        <item>书房</item>
+        <item>客厅</item>
+    </string-array>
+    <string-array name="nut_name_three_array">
+        <item>教室</item>
+        <item>老人房</item>
+        <item>咖啡店</item>
+    </string-array>
+    <string-array name="nut_detecting_array">
+        <item>正在检测PM2.5…</item>
+        <item>正在检测CO₂…</item>
+        <item>正在检测温度…</item>
+        <item>正在检测湿度…</item>
+        <item>正在对比室外环境…</item>
+        <item>检测完成</item>
+        <item>获取检测数据超时</item>
+        <item>正在启动检测…</item>
+    </string-array>
+    <string-array name="nut_delete_code">
+        <item>彩虹</item>
+        <item>大雨</item>
+        <item>多云</item>
+        <item>删除</item>
+        <item>星空</item>
+        <item>阴天</item>
+    </string-array>
+    <string-array name="message_dialog_array">
+        <item>回复评论</item>
+        <item>查看原图</item>
+        <item>删除</item>
+        <item>举报</item>
+    </string-array>
+    <string-array name="moon_name_array">
+        <item>朔 月</item>
+        <item>娥眉月</item>
+        <item>上弦月</item>
+        <item>盈凸月</item>
+        <item>望 月</item>
+        <item>亏凸月</item>
+        <item>下弦月</item>
+        <item>残 月</item>
+    </string-array>
+    <array name="moon_image_array">
+        <item>@drawable/new_moon</item>
+        <item>@drawable/waxing_crescent</item>
+        <item>@drawable/first_quarter</item>
+        <item>@drawable/waxing_gibbous</item>
+        <item>@drawable/full_moon</item>
+        <item>@drawable/waning_gibbous</item>
+        <item>@drawable/last_quarter</item>
+        <item>@drawable/waning_crescent</item>
+    </array>
+    <string-array name="moon_one_word_array">
+        <item>月亮难以看见，潮差达到最大</item>
+        <item>月相开始变宽，潮差逐渐缩小</item>
+        <item>月相半隐半现，潮差达到最小</item>
+        <item>月相继续变宽，潮差开始变大</item>
+        <item>月相达到最圆，潮差达到最大</item>
+        <item>月相开始变窄，潮差逐渐缩小</item>
+        <item>月相半隐半现，潮差达到最小</item>
+        <item>月相继续变窄，潮差开始变大</item>
+    </string-array>
+    <string-array name="taobao_ad_title">
+        <item>小墨猜您感兴趣：</item>
+        <item>小墨为您诚意推荐：</item>
+    </string-array>
+    <integer-array name="constellation_num_array">
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </integer-array>
+    <string-array name="constellation_array">
+        <item>白羊座</item>
+        <item>金牛座</item>
+        <item>双子座</item>
+        <item>巨蟹座</item>
+        <item>狮子座</item>
+        <item>处女座</item>
+        <item>天秤座</item>
+        <item>天蝎座</item>
+        <item>射手座</item>
+        <item>摩羯座</item>
+        <item>水瓶座</item>
+        <item>双鱼座</item>
+    </string-array>
+    <string-array name="language_desc">
+        <item>简体中文</item>
+        <item>繁体中文</item>
+        <item>繁体中文(香港)</item>
+    </string-array>
+    <string-array name="language_original">
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>繁體中文(香港)</item>
+    </string-array>
+    <string-array name="voice_language_desc">
+        <item>中文(普通话 – 中国大陆)</item>
+        <item>中文(粤语 – 广东、香港)</item>
+        <item>中文(普通话 – 台湾)</item>
+    </string-array>
+    <string-array name="setting_units">
+        <item>温度</item>
+        <item>风速</item>
+        <item>气压</item>
+    </string-array>
+    <string-array name="units_temperature">
+        <item>摄氏度</item>
+        <item>华氏度</item>
+    </string-array>
+    <string-array name="units_speed">
+        <item>蒲福氏风级</item>
+        <item>千米/小时</item>
+        <item>英里/小时</item>
+        <item>米/秒</item>
+        <item>节</item>
+        <item>香港描述</item>
+    </string-array>
+    <string-array name="units_pressure">
+        <item>百帕</item>
+        <item>毫米汞柱</item>
+        <item>英寸汞柱</item>
+        <item>毫巴</item>
+    </string-array>
+    <string-array name="units_length">
+        <item>公里</item>
+        <item>英里</item>
+    </string-array>
+    <string-array name="units_temperature_symbol">
+        <item>℃</item>
+        <item>℉</item>
+    </string-array>
+    <string-array name="units_speed_symbol">
+        <item>Beaufort</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>m/s</item>
+        <item>kt</item>
+        <item>HK</item>
+    </string-array>
+    <string-array name="units_pressure_symbol">
+        <item>hPa</item>
+        <item>mm.Hg</item>
+        <item>in.Hg</item>
+        <item>mbar</item>
+    </string-array>
+    <string-array name="units_length_symbol">
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+    <string-array name="units_hk_description">
+        <item>无风</item>
+        <item>轻微</item>
+        <item>和缓</item>
+        <item>清劲</item>
+        <item>强风</item>
+        <item>烈风</item>
+        <item>暴风</item>
+        <item>颶风</item>
+    </string-array>
+    <string-array name="tag_name">
+        <item>爆料</item>
+        <item>出游</item>
+        <item>美食</item>
+        <item>话题</item>
+        <item>情感</item>
+        <item>生活</item>
+        <item>天气</item>
+        <item>职场</item>
+        <item>其他</item>
+    </string-array>
+</resources>

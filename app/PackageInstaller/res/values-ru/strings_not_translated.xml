@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+</resources>

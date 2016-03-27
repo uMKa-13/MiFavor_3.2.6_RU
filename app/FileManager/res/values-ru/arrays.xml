@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_audio_as">
+        <item>@string/phone_ringtone</item>
+        <item>@string/notification_ringtone</item>
+    </string-array>
+    <string-array name="set_audio_as_double_card">
+        <item>@string/sim_card_1</item>
+        <item>@string/sim_card_2</item>
+    </string-array>
+</resources>
