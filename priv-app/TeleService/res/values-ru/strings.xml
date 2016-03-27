@@ -401,7 +401,7 @@
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
   <string name="throttle_data_rate_reduced_subtext">"Превышен лимит в %1$s.
 Скорость передачи данных снижена до %2$d кбит/с."</string>
-  <string name="throttle_time_frame_subtext">"Пройдено %1$d% цикла.
+  <string name="throttle_time_frame_subtext">"Пройдено %1$d%% цикла.
 Следующий период начнется в течение %2$d дн. ( %3$s)"</string>
   <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
   <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
