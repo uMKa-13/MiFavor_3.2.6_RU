@@ -26,8 +26,8 @@ ro.product.cpu.abilist=armeabi-v7a,armeabi
 ro.product.cpu.abilist32=armeabi-v7a,armeabi
 ro.product.cpu.abilist64=
 ro.product.manufacturer=ZTE
-ro.product.locale.language=zh
-ro.product.locale.region=CN
+ro.product.locale.language=ru
+ro.product.locale.region=RU
 ro.wifi.channels=
 ro.board.platform=msm8974
 # ro.build.product is obsolete; use ro.product.device
@@ -184,7 +184,7 @@ ro.mifavor.rom.type=stable
 #ro.config.alarm_alert=Alarm_Classic.ogg
 
 #zte chengguangliang add for adjust default timezone to +08:00
-persist.sys.timezone=Asia/Shanghai
+persist.sys.timezone=Europe/Moscow
 
 ro.product.manufacturer=ZTE
 ro.sdupdate.check.info=ZTE_CN_P897A20
