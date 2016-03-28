@@ -11,11 +11,13 @@
     <item quantity="few">+ ещё %d</item>
   </plurals>
   <plurals name="extension_status">
-    <item quantity="other">%d updates</item>
-    <item quantity="one">%d update</item>
+    <item quantity="one">%d обновление</item>
+	<item quantity="few">%d обновления</item>
+	<item quantity="other">%d обновлений</item>
   </plurals>
   <plurals name="extension_expandedTitle">
-    <item quantity="other">%d CyanogenMod updates</item>
-    <item quantity="one">%d CyanogenMod update</item>
+    <item quantity="one">%d CyanogenMod обновление</item>
+	<item quantity="few">%d CyanogenMod обновления</item>
+	<item quantity="other">%d CyanogenMod обновлений</item>
   </plurals>
 </resources>

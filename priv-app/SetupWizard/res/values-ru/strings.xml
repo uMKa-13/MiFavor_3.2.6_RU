@@ -58,8 +58,8 @@
   <string name="vip_detail_4">Закажите защиту для экрана, чистку Вашего телефона и очистку памяти телефона бесплатно</string>
   <string name="vip_title_5">Скидка на ремонт:</string>
   <string name="vip_detail_5">Если экран телефона случайно треснул или телефон случайно поврежден водой, вы можете получить скидку на ремонт</string>
-  <string name="vip_title_6">Free repair:</string>
-  <string name="vip_detail_6">If phone screen is accidentally cracked or the phone is accidentally water damaged, you can enjoy free maintenance for one time within 30 days since the date of purchase.</string>
+  <string name="vip_title_6">Бесплатный ремонт:</string>
+  <string name="vip_detail_6">Если экран телефона треснул или телефон был случайно поврежден водой, вы можете получить бесплатное техническое обслуживание в течение 30 дней с момента покупки.</string>
   <string name="device_settings_title">Мой телефон</string>
   <string name="device_settings_dlg_device_name">Название устройства</string>
   <string name="device_name_summary">Назовите Ваш телефон для того, чтобы его было легче идентифицировать при использовании Bluetooth, Wi-Fi Direct, Wi-Fi точки доступа и DLNA</string>

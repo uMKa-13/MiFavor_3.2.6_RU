@@ -1,53 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="multi_language_20404">China Telecom</string>
-  <string name="multi_language_46000">China Mobile</string>
-  <string name="multi_language_46001">China Unicom</string>
-  <string name="multi_language_46002">China Mobile</string>
-  <string name="multi_language_46003">China Telecom</string>
-  <string name="multi_language_46007">China Mobile</string>
-  <string name="multi_language_46019">460 19</string>
-  <string name="pppoe_indicator_title">PPPOE</string>
-  <string name="textoff" />
-  <string name="texton" />
-  <item type="string" name="circle_radius_multiplier">0.82</item>
-  <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
-  <item type="string" name="selection_radius_multiplier">0.16</item>
-  <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
-  <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
-  <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
-  <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
-  <item type="string" name="text_size_multiplier_normal">0.17</item>
-  <item type="string" name="text_size_multiplier_inner">0.14</item>
-  <item type="string" name="text_size_multiplier_outer">0.11</item>
-  <string name="email_subject_prefix">"Re: "</string>
-  <string name="preferences_week_start_day_default">-1</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
-  <string name="preferences_default_reminder_default">10</string>
-  <string name="tardis">TARDIS</string>
-  <string name="notification_sender_id" />
-  <string name="delete_all_the_repeates">Delete all the repeats</string>
-  <string name="search_action">Search event</string>
-  <string name="agenda_select_count_num">0</string>
-  <string name="show_workday" />
-  <string name="show_holiday" />
-  <string name="change_alarm_hint" />
-  <string name="cancel_set_hint" />
-  <string name="chinese_festival_notify_content" />
-  <string name="chinese_festival_ignore_content" />
-  <string name="data_left">(</string>
-  <string name="data_right">)</string>
-  <string name="time_separator">:</string>
-  <string name="radial_numbers_typeface">sans-serif</string>
-  <string name="sans_serif">sans-serif</string>
-  <string name="version_numble">3.2.0</string>
-  <string name="day_of_week_label_typeface">sans-serif</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="chnFes_qingming" />
-  <string name="ChnHol_fuhuo" />
-  <string name="year" />
-  <string name="term_qingming" />
   <string name="lunar_radio_text">农历</string>
   <string name="gregorian_radio_text">公历</string>
   <string name="lunar_fest_chunjie">春节</string>

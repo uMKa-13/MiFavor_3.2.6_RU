@@ -28,7 +28,7 @@
     <item quantity="one">Одна песня будет навсегда удалена из памяти.</item>
   </plurals>
   <plurals name="download_select_delete_alert">
-    <item quantity="other">%d download historys will be deleted.</item>
-    <item quantity="one">1 download history will be deleted.</item>
+    <item quantity="other">%d историй загрузок будет удалено.</item>
+    <item quantity="one">1 история загрузки будет удалена.</item>
   </plurals>
 </resources>

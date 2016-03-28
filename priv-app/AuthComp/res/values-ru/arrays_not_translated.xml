@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="operators">
-        <item>@string/chinamobile</item>
-        <item>@string/chinaunion</item>
-        <item>@string/chinatelecom</item>
-    </string-array>
     <string-array name="card_values">
         <item>10元</item>
         <item>20元</item>

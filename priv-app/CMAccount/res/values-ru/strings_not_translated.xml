@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="cmaccount_uri">https://account.cyanogenmod.org</string>
-  <string name="product_name">cyanogenmod</string>
-  <string name="account_name">CyanogenMod</string>
-  <string name="location_client_powered_by_google">Powered by Google</string>
-</resources>

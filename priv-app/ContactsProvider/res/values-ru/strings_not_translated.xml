@@ -1,25 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="multi_language_20404">China Telecom</string>
-  <string name="multi_language_46000">China Mobile</string>
-  <string name="multi_language_46001">China Unicom</string>
-  <string name="multi_language_46002">China Mobile</string>
-  <string name="multi_language_46003">China Telecom</string>
-  <string name="multi_language_46007">China Mobile</string>
-  <string name="multi_language_46019">460 19</string>
-  <string name="pppoe_indicator_title">PPPOE</string>
-  <string name="textoff" />
-  <string name="texton" />
-  <string name="dialpad_0_number">0</string>
-  <string name="dialpad_1_number">1</string>
-  <string name="dialpad_2_number">2</string>
-  <string name="dialpad_3_number">3</string>
-  <string name="dialpad_4_number">4</string>
-  <string name="dialpad_5_number">5</string>
-  <string name="dialpad_6_number">6</string>
-  <string name="dialpad_7_number">7</string>
-  <string name="dialpad_8_number">8</string>
-  <string name="dialpad_9_number">9</string>
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_0_letters">+</string>
@@ -32,11 +12,4 @@
   <string name="dialpad_7_letters">PQRS</string>
   <string name="dialpad_8_letters">TUV</string>
   <string name="dialpad_9_letters">WXYZ</string>
-  <string name="dialpad_star_letters" />
-  <string name="dialpad_pound_letters" />
-  <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
-  <string name="common_name_prefixes" />
-  <string name="common_name_suffixes" />
-  <string name="common_last_name_prefixes" />
-  <string name="common_name_conjunctions" />
 </resources>

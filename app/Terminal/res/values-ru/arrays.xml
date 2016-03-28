@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="screen_orientation_labels">
-        <item>Automatic</item>
-        <item>Landscape</item>
-        <item>Portrait</item>
+        <item>Автоповорот</item>
+        <item>Горизонтальная</item>
+        <item>Вертикальная</item>
     </string-array>
     <string-array name="screen_orientation_values">
         <item>automatic</item>
@@ -27,12 +27,12 @@
         <item>24</item>
     </string-array>
     <string-array name="text_colors_labels">
-        <item>Black text on white</item>
-        <item>White text on black</item>
-        <item>Green text on black</item>
-        <item>Amber text on black</item>
-        <item>Red text on black</item>
-        <item>Blue text on black</item>
+        <item>Черный текст на белом</item>
+        <item>Белый текст на черном</item>
+        <item>Зеленый текст на черном</item>
+        <item>Желтый текст на черном</item>
+        <item>Красный текст на черном</item>
+        <item>Синий текст на черном</item>
     </string-array>
     <string-array name="text_colors_values">
         <item>\#212121/#fafafa</item>

@@ -24,8 +24,8 @@
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
-  <string name="setting_off_value">off</string>
-  <string name="setting_on_value">on</string>
+  <string name="setting_off_value">выкл.</string>
+  <string name="setting_on_value">вкл.</string>
   <string name="accessibility_camera_picker">Переключение на переднюю или заднюю камеру</string>
   <string name="accessibility_decrement">уменьшить%1$s</string>
   <string name="accessibility_increment">увеличить%1$s</string>

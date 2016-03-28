@@ -1,16 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="multi_language_20404">China Telecom</string>
-  <string name="multi_language_46000">China Mobile</string>
-  <string name="multi_language_46001">China Unicom</string>
-  <string name="multi_language_46002">China Mobile</string>
-  <string name="multi_language_46003">China Telecom</string>
-  <string name="multi_language_46007">China Mobile</string>
-  <string name="multi_language_46019">460 19</string>
-  <string name="pppoe_indicator_title">PPPOE</string>
-  <string name="textoff" />
-  <string name="texton" />
-  <string name="app_name">newSmsSdk</string>
   <string name="duoqu_contact_hotel">联系酒店</string>
   <string name="duoqu_delete">删除</string>
   <string name="defaultText">短信原文</string>
@@ -189,9 +178,4 @@
   <string name="prefDefault_cmasRemind">Off</string>
   <string name="pws_other_message_identifiers">Emergency Alert</string>
   <string name="pref_title_mms_uaprofile">Pic/Vid Msging uaprofile</string>
-  <string name="recipients_email">E-mail</string>
-  <string name="empty_slide_menu_item" />
-  <string name="sim1_default_name">SIM1</string>
-  <string name="sim2_default_name">SIM2</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
 </resources>

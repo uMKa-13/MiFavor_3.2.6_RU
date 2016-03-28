@@ -307,7 +307,7 @@
   <string name="delete_events_massage">%d события будут удалены.</string>
   <string name="events_clear">Очистить все события</string>
   <string name="clear_events_message">Все события будут очищены.</string>
-  <string name="delete_all_the_repeates">Delete all the repeats</string>
+  <string name="delete_all_the_repeates">Удалить все повторяющиеся</string>
   <string name="tap_to_select">Нажмите, чтобы выбрать</string>
   <string name="agenda_select_count_descrip">выбранные</string>
   <string name="mark_all">Все</string>
@@ -319,7 +319,7 @@
   <string name="copy_and_new_event_dialog_option">Копировать</string>
   <string name="import_fail">Ошибка импорта файла vcal</string>
   <string name="export_fail">Не удалось экспортировать файл календаря</string>
-  <string name="search_action">Search event</string>
+  <string name="search_action">Поиск событий</string>
   <string name="select">Выбрать</string>
   <string name="cancel_action">Отмена</string>
   <string name="contactsList">Список контактов</string>

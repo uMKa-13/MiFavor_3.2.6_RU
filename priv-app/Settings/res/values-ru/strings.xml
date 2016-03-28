@@ -3279,7 +3279,7 @@
   <string name="pppoe_dialog_no_available">Нет доступных PPPOE, пожалуйста добавтье одно PPPOE.</string>
   <string name="pppoe_dialog_save">Сохранить</string>
   <string name="pppoe_dialog_profile">Пользовательское имя профиля</string>
-  <string name="pppoe_dialog_username">UserName</string>
+  <string name="pppoe_dialog_username">Имя пользователя</string>
   <string name="pppoe_dialog_password">Пароль</string>
   <string name="pppoe_dialog_showpassword">Показать пароль</string>
   <string name="pppoe_dialog_connected">Подключено</string>

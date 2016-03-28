@@ -4,29 +4,15 @@
     <item>Block</item>
     <item>Unblock</item>
   </string-array>
-  <string-array name="entryvalues_strange_call_preference">
-    <item>unknown_call_block</item>
-    <item>unknown_call_unblock</item>
-  </string-array>
   <string-array name="entries_strange_message_preference">
     <item>Block</item>
     <item>Unblock</item>
-  </string-array>
-  <string-array name="entryvalues_strange_message_preference">
-    <item>unknown_mms_block</item>
-    <item>unknown_mms_unblock</item>
   </string-array>
   <string-array name="entries_holdoff_mode_preference">
     <item>回复为挂机</item>
     <item>回复为停机</item>
     <item>回复为空号</item>
     <item>回复为关机</item>
-  </string-array>
-  <string-array name="entryvalues_holdoff_mode_preference">
-    <item>holdoff_default</item>
-    <item>holdoff_stop</item>
-    <item>holdoff_invalid</item>
-    <item>holdoff_close</item>
   </string-array>
   <string-array name="entries_screen_off_time_preference">
     <item>15秒</item>
@@ -36,39 +22,12 @@
     <item>10分钟</item>
     <item>从不待机</item>
   </string-array>
-  <string-array name="value_screen_off_time_preference">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>600000</item>
-    <item>-1</item>
-  </string-array>
   <string-array name="entries_wifi_auto_close_time_preference">
     <item>15秒</item>
     <item>30秒</item>
     <item>1分钟</item>
     <item>3分钟</item>
     <item>5分钟</item>
-  </string-array>
-  <string-array name="value_wifi_auto_close_time_preference">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>180000</item>
-    <item>300000</item>
-  </string-array>
-  <string-array name="entries_wifi_auto_close_signal_preference">
-    <item>5%</item>
-    <item>15%</item>
-    <item>30%</item>
-    <item>45%</item>
-  </string-array>
-  <string-array name="value_wifi_auto_close_signal_preference">
-    <item>5</item>
-    <item>15</item>
-    <item>30</item>
-    <item>45</item>
   </string-array>
   <string-array name="entries_wifi_auto_close_screen_time">
     <item>15秒</item>
@@ -77,26 +36,12 @@
     <item>5分钟</item>
     <item>10分钟</item>
   </string-array>
-  <string-array name="value_wifi_auto_close_screen_time">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>300000</item>
-    <item>600000</item>
-  </string-array>
   <string-array name="entries_bluetooth_check_time">
     <item>5分钟</item>
     <item>8分钟</item>
     <item>10分钟</item>
     <item>15分钟</item>
     <item>30分钟</item>
-  </string-array>
-  <string-array name="values_bluetooth_check_time">
-    <item>300000</item>
-    <item>480000</item>
-    <item>600000</item>
-    <item>900000</item>
-    <item>1800000</item>
   </string-array>
   <string-array name="entries_bluetooth_setting">
     <item>若附近没有其他装置则关闭</item>
@@ -122,11 +67,6 @@
     <item>显示部分动画</item>
     <item>显示所有窗口动画</item>
   </string-array>
-  <string-array name="animations_values">
-    <item>00</item>
-    <item>01</item>
-    <item>11</item>
-  </string-array>
   <string-array name="entries_check_update_preference">
     <item>软件版本</item>
     <item>归属地</item>
@@ -150,38 +90,6 @@
     <item>振动提醒</item>
     <item>通知栏+振动</item>
     <item>振动+短信铃声</item>
-  </string-array>
-  <string-array name="entryvalues_7">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-  </string-array>
-  <string-array name="entryvalues_6">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-  </string-array>
-  <string-array name="entryvalues_4">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="entryvalues_3">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="entryvalues_2">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="secure_call_mode">
     <item>正常接听</item>
@@ -211,44 +119,18 @@
     <item>call_long_number</item>
     <item>call_all_number</item>
   </string-array>
-  <string-array name="entryvalues_icon">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="entry_apn_type">
     <item>Net</item>
     <item>Wap</item>
-  </string-array>
-  <string-array name="entryvalues_apn_type">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="entry_screenshot_type">
     <item>通知栏截屏</item>
     <item>摇晃截屏</item>
   </string-array>
-  <string-array name="entryvalues_screenshot_type">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="entry_screenshot_format">
-    <item>PNG</item>
-    <item>JPEG</item>
-  </string-array>
-  <string-array name="entryvalues_screenshot_format">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="entry_screenshot_quality">
     <item>高</item>
     <item>中</item>
     <item>低</item>
-  </string-array>
-  <string-array name="entryvalues_screenshot_quality">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="protect_tip">
     <item>提示所有操作</item>
@@ -310,261 +192,6 @@
     <item>天翼</item>
     <item>电信营业厅</item>
     <item>联通营业厅</item>
-  </string-array>
-  <string-array name="privacy_picture_video_btn">
-    <item>@string/select_photo_video</item>
-    <item>@string/start_camera</item>
-    <item>@string/start_video</item>
-  </string-array>
-  <string-array name="privacy_handle_encrypted_item">
-    <item>@string/view</item>
-    <item>@string/global_decryption</item>
-    <item>@string/delete</item>
-  </string-array>
-  <string-array name="privacy_handle_encrypted_item1">
-    <item>@string/global_decryption</item>
-    <item>@string/delete</item>
-  </string-array>
-  <string-array name="privacy_other_files_btn">
-    <item>@string/select_files</item>
-  </string-array>
-  <string-array name="shortcut_ations">
-    <item>com.zte.heartyservice.intent.action.startActivity.HARASSMENT_INTERCEPT</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PRIVACY_LOGIN</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PERMISSION_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.TENCENT</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.ad_intercept</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.VIRUS_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.SPEED_UP</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.INSTALLED_SOFTWARE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PACKAGE_MANAGEMENT</item>
-    <item>com.zte.heartyservice.intent.action.startApk.CLOUDBACKUP.HS_ENTRY</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.DEFAULT_APPLICATION</item>
-    <item>com.zte.heartyservice.intent.action.startApk.RETRIEVE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PRIVACY_LOGIN_APP_LOCK</item>
-  </string-array>
-  <string-array name="shortcut_ations_new1">
-    <item>com.zte.heartyservice.intent.action.startActivity.SPEED_UP</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.NET_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.HARASSMENT_INTERCEPT</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.VIRUS_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.MARKET_START</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PERMISSION_SCANNER</item>
-  </string-array>
-  <string-array name="shortcut_ations_new2">
-    <item>com.zte.heartyservice.intent.action.startApk.RETRIEVE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PRIVACY_START</item>
-    <item>intent.action.startActivity.SOFTWARE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.ad_intercept</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.SECURITY_ACTIVITY</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.APP_LOCK_START</item>
-  </string-array>
-  <string-array name="shortcut_ations_new3">
-    <item>com.zte.heartyservice.intent.action.startActivity.SPEED_UP</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.NET_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.HARASSMENT_INTERCEPT</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.VIRUS_SCANNER</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.SECURITY_ACTIVITY</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PERMISSION_SCANNER</item>
-  </string-array>
-  <string-array name="shortcut_ations_new4">
-    <item>com.zte.heartyservice.intent.action.startApk.RETRIEVE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PRIVACY_START</item>
-    <item>intent.action.startActivity.SOFTWARE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.ad_intercept</item>
-    <item>com.zte.heartyservice.intent.action.startApk.CLOUDBACKUP.HS_ENTRY</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.APP_LOCK_START</item>
-  </string-array>
-  <string-array name="shortcut_ations_new5">
-    <item>com.zte.heartyservice.intent.action.startApk.RETRIEVE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.PRIVACY_START</item>
-    <item>intent.action.startActivity.SOFTWARE</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.ad_intercept</item>
-    <item>com.zte.handservice.main.HS_ENTRY</item>
-    <item>com.zte.heartyservice.intent.action.startActivity.APP_LOCK_START</item>
-  </string-array>
-  <string-array name="power_mode">
-    <item>@string/long_standby_mode</item>
-    <item>@string/general_mode</item>
-    <item>@string/ultimate_mode</item>
-    <item>@string/my_mode</item>
-  </string-array>
-  <string-array name="power_mode_widget">
-    <item>@string/widget_long_standby_mode</item>
-    <item>@string/widget_general_mode</item>
-    <item>@string/widget_ultimate_mode</item>
-    <item>@string/my_mode</item>
-  </string-array>
-  <string-array name="add_contact">
-    <item>@string/select_from_contacts</item>
-    <item>@string/select_from_sms</item>
-    <item>@string/select_from_calllog</item>
-    <item>@string/new_contact</item>
-  </string-array>
-  <string-array name="set_password_type">
-    <item>@string/set_word_password</item>
-    <item>@string/set_pattern_password</item>
-  </string-array>
-  <string-array name="password_type">
-    <item>@string/word_password</item>
-    <item>@string/pattern_password</item>
-  </string-array>
-  <string-array name="password_feedback_type">
-    <item>@string/pattern_vibrate</item>
-    <item>@string/pattern_show_track</item>
-  </string-array>
-  <string-array name="abnormal_event">
-    <item>@string/failed_to_sleep</item>
-    <item>@string/wifi_awake</item>
-    <item>@string/bluetooth_awake</item>
-    <item>@string/timer_awake</item>
-  </string-array>
-  <string-array name="intercept_log_option_anonymous_call">
-    <item>@string/delete</item>
-  </string-array>
-  <string-array name="intercept_log_option">
-    <item>@string/restore_call_log</item>
-    <item>@string/add_number_to_whitelist</item>
-    <item>@string/add_number_to_blacklist</item>
-    <item>@string/call</item>
-    <item>@string/delete</item>
-  </string-array>
-  <string-array name="intercept_sms_log_option">
-    <item>@string/restore_sms_log</item>
-    <item>@string/add_number_to_whitelist</item>
-    <item>@string/add_number_to_blacklist</item>
-    <item>@string/call</item>
-    <item>@string/delete</item>
-  </string-array>
-  <string-array name="qa_category_title">
-    <item>@string/qa_category1_title</item>
-    <item>@string/qa_category2_title</item>
-    <item>@string/qa_category3_title</item>
-    <item>@string/qa_category4_title</item>
-    <item>@string/qa_category5_title</item>
-    <item>@string/qa_category6_title</item>
-    <item>@string/qa_category7_title</item>
-    <item>@string/qa_category8_title</item>
-  </string-array>
-  <string-array name="qa_content_q0">
-    <item>@string/qa_item_q_1_1</item>
-    <item>@string/qa_item_q_1_2</item>
-  </string-array>
-  <string-array name="qa_content_a0">
-    <item>@string/qa_item_a_1_1</item>
-    <item>@string/qa_item_a_1_2</item>
-  </string-array>
-  <string-array name="qa_content_q1">
-    <item>@string/qa_item_q_2_1</item>
-    <item>@string/qa_item_q_2_2</item>
-  </string-array>
-  <string-array name="qa_content_a1">
-    <item>@string/qa_item_a_2_1</item>
-    <item>@string/qa_item_a_2_2</item>
-  </string-array>
-  <string-array name="qa_content_q2">
-    <item>@string/qa_item_q_3_1</item>
-  </string-array>
-  <string-array name="qa_content_a2">
-    <item>@string/qa_item_a_3_1</item>
-  </string-array>
-  <string-array name="qa_content_q3">
-    <item>@string/qa_item_q_4_1</item>
-  </string-array>
-  <string-array name="qa_content_a3">
-    <item>@string/qa_item_a_4_1</item>
-  </string-array>
-  <string-array name="qa_content_q4">
-    <item>@string/qa_item_q_5_1</item>
-    <item>@string/qa_item_q_5_2</item>
-    <item>@string/qa_item_q_5_3</item>
-    <item>@string/qa_item_q_5_4</item>
-    <item>@string/qa_item_q_5_5</item>
-    <item>@string/qa_item_q_5_6</item>
-  </string-array>
-  <string-array name="qa_content_a4">
-    <item>@string/qa_item_a_5_1</item>
-    <item>@string/qa_item_a_5_2</item>
-    <item>@string/qa_item_a_5_3</item>
-    <item>@string/qa_item_a_5_4</item>
-    <item>@string/qa_item_a_5_5</item>
-    <item>@string/qa_item_a_5_6</item>
-  </string-array>
-  <string-array name="qa_content_q5">
-    <item>@string/qa_item_q_7_1</item>
-    <item>@string/qa_item_q_7_2</item>
-    <item>@string/qa_item_q_7_3</item>
-  </string-array>
-  <string-array name="qa_content_a5">
-    <item>@string/qa_item_a_7_1</item>
-    <item>@string/qa_item_a_7_2</item>
-    <item>@string/qa_item_a_7_3</item>
-  </string-array>
-  <string-array name="qa_content_q6">
-    <item>@string/qa_item_q_8_1</item>
-    <item>@string/qa_item_q_8_2</item>
-  </string-array>
-  <string-array name="qa_content_a6">
-    <item>@string/qa_item_a_8_1</item>
-    <item>@string/qa_item_a_8_2</item>
-  </string-array>
-  <string-array name="qa_content_q7">
-    <item>@string/qa_item_q_9_1</item>
-  </string-array>
-  <string-array name="qa_content_a7">
-    <item>@string/qa_item_a_9_1</item>
-  </string-array>
-  <string-array name="security_questions">
-    <item>@string/security_question1</item>
-    <item>@string/security_question2</item>
-    <item>@string/security_question3</item>
-    <item>@string/security_question4</item>
-  </string-array>
-  <string-array name="appfileinfo_longpress_option">
-    <item>@string/add_number_to_whitelist</item>
-  </string-array>
-  <string-array name="reminder_time_list">
-    <item>@string/settings_cache_reminder_every_day</item>
-    <item>@string/settings_cache_reminder_3days</item>
-    <item>@string/settings_cache_reminder_7days</item>
-    <item>@string/settings_cache_reminder_15days</item>
-  </string-array>
-  <string-array name="reminder_size_list">
-    <item>@string/settings_cache_reminder_50M</item>
-    <item>@string/settings_cache_reminder_100M</item>
-    <item>@string/settings_cache_reminder_300M</item>
-    <item>@string/settings_cache_reminder_500M</item>
-  </string-array>
-  <string-array name="reminder_time_data">
-    <item>1</item>
-    <item>3</item>
-    <item>7</item>
-    <item>15</item>
-  </string-array>
-  <string-array name="reminder_size_data">
-    <item>50</item>
-    <item>100</item>
-    <item>300</item>
-    <item>500</item>
-  </string-array>
-  <string-array name="memory_level_entries">
-    <item>20%</item>
-    <item>15%</item>
-    <item>10%</item>
-  </string-array>
-  <integer-array name="memory_level_values">
-    <item>20</item>
-    <item>15</item>
-    <item>10</item>
-  </integer-array>
-  <string-array name="timeout_array_value">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>1800000</item>
   </string-array>
   <string-array name="process_status">
     <item>Importance background</item>

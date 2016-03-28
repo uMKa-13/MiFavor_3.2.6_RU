@@ -888,9 +888,9 @@
     <item>com.android.sim</item>
   </string-array>
   <string-array name="cellcular2wifi_entries">
-    <item>Automatically connect</item>
-    <item>Manually connect</item>
-    <item>Always ask</item>
+    <item>Подключаться автоматически</item>
+    <item>Подключаться вручную</item>
+    <item>Всегда спрашивать</item>
   </string-array>
   <string-array name="cellcular2wifi_values">
     <item>0</item>

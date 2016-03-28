@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_ip_number_unicom">17911</string>
-    <string name="default_ip_number_mobile">17951</string>
-    <string name="default_ip_number_telecom">17901</string>
-    <string name="default_ip_number">17901</string>
-    <string name="config_import_vcard_type">default</string>
-    <string name="config_export_vcard_type">default</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_prohibited_phone_number_regexp" />
-    <string name="app_market_name">ZTE Yellow Page</string>
-    <string name="app_name">Yellow Page</string>
-    <string name="touchPal">Powered by TouchPal</string>
-    <string name="zd">Powered by ZD</string>
     <string name="search_title">ALL CONTACTS</string>
     <string name="search_number">%1$s found</string>
     <string name="search_number_title">号码查询</string>

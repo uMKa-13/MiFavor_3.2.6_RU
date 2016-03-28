@@ -55,10 +55,10 @@
   <string name="no_connection_to_printer">Нет связи с принтером</string>
   <string name="reason_unknown">неизвестно</string>
   <string name="printer_unavailable">%1$s – недоступен</string>
-  <string name="permlab_accessAllPrintJobs">access all print jobs</string>
-  <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
-  <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
-  <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+  <string name="permlab_accessAllPrintJobs">все задания печати</string>
+  <string name="permdesc_accessAllPrintJobs">Позволяет владельцу получить доступ к заданиям печати, созданным другим приложением. Никогда не нужно для обычных приложений.</string>
+  <string name="permlab_startPrintServiceConfigActivity">начать настройку услуг печати</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Позволяет владельцу начать настройку услуг печати. Никогда не нужно для обычных приложений.</string>
   <string name="print_write_error_message">Не удалось записать в файл</string>
   <string name="print_error_default_message">Ошибка. Повторите попытку.</string>
   <string name="print_error_retry">Повторить</string>

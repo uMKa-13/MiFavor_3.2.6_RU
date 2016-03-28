@@ -133,7 +133,7 @@
   <string name="hours">%s час.</string>
   <string name="and">и</string>
   <string name="space">" "</string>
-  <string name="subminute">less than 1 min</string>
+  <string name="subminute">меньше минуты</string>
   <string name="minute">1 минута</string>
   <string name="minutes">%s мин.</string>
   <string name="am">AM</string>

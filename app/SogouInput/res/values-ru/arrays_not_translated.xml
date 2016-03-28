@@ -1,65 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="baidu_web">
-        <item>百度</item>
-        <item>search_baidu</item>
-        <item>search_baidu</item>
-        <item>http://m.baidu.com/s?from=1491a&amp;ua={ua}&amp;word={keyword}</item>
-    </string-array>
-    <string-array name="sogou_web">
-        <item>搜狗</item>
-        <item>search_sogou</item>
-        <item>search_sogou</item>
-        <item>@string/hotwords_sogou_search_url</item>
-    </string-array>
-    <string-array name="google_web_zh">
-        <item>谷歌</item>
-        <item>search_google</item>
-        <item>search_google</item>
-        <item>http://www.google.com.hk/search?q={keyword}</item>
-    </string-array>
-    <array name="icon_map" />
-    <string-array name="local_skin_alias">
-        <item>默认</item>
-        <item>晚霞之滨</item>
-        <item>青葱岁月</item>
-        <item>阿狸·尾巴</item>
-    </string-array>
-    <string-array name="play_video_show_list">
-        <item>com.mxtech.videoplayer.ad</item>
-        <item>me.abitno.vplayer.t</item>
-        <item>com.pplive.androidphone</item>
-        <item>com.sohu.sohuvideo</item>
-        <item>com.kandian.vodapp</item>
-        <item>com.qiyi.video</item>
-        <item>com.storm.smart</item>
-        <item>com.clov4r.android.nil</item>
-        <item>com.tencent.research.drop</item>
-        <item>com.missuteam.android.player</item>
-        <item>com.real.RealPlayer</item>
-        <item>com.funshion.video.mobile</item>
-        <item>com.letv.android.client</item>
-        <item>com.daroonplayer.player</item>
-    </string-array>
-    <string-array name="all_video_type">
-        <item>avi</item>
-        <item>f4v</item>
-        <item>flv</item>
-        <item>3gp</item>
-        <item>mkv</item>
-        <item>mp4</item>
-        <item>rmvb</item>
-        <item>rm</item>
-        <item>mpeg</item>
-        <item>mov</item>
-        <item>vob</item>
-        <item>wmv</item>
-        <item>webm</item>
-        <item>divx</item>
-        <item>xvid</item>
-        <item>m3u8</item>
-        <item>m3u</item>
-    </string-array>
     <string-array name="save_password_items">
         <item>询问保存</item>
         <item>总是不保存</item>
@@ -70,105 +10,10 @@
         <item>配置数据中.. </item>
         <item>配置数据中...</item>
     </string-array>
-    <string-array name="competitive_package">
-        <item>com.UCMobile</item>
-        <item>com.uc.browser</item>
-        <item>com.UCMobile.x86</item>
-        <item>com.UCMobile.intl</item>
-        <item>com.uc.browser.en</item>
-        <item>com.tencent.mtt.x86</item>
-        <item>com.tencent.mtt</item>
-        <item>com.baidu.browser.apps</item>
-        <item>com.oupeng.mini.android</item>
-        <item>com.oupeng.browser</item>
-        <item>com.opera.mini.android</item>
-        <item>com.qihoo.browser</item>
-        <item>com.mx.browser</item>
-        <item>com.android.chrome</item>
-        <item>com.dolphin.browser.xf</item>
-        <item>com.ijinshan.browser</item>
-    </string-array>
-    <string-array name="novel_free_host">
-        <item>download.mse.sogou.com</item>
-        <item>novel.mse.sogou.com</item>
-        <item>img03.store.sogou.com</item>
-    </string-array>
     <string-array name="choose_download_path_items">
         <item>手机</item>
         <item>SD卡</item>
         <item>自定义</item>
-    </string-array>
-    <string-array name="wifi_black_table">
-        <item>CMCC</item>
-        <item>UNICOM</item>
-        <item>CHINANET</item>
-    </string-array>
-    <string-array name="fileEndingImage">
-        <item>png</item>
-        <item>gif</item>
-        <item>jpg</item>
-        <item>jpeg</item>
-        <item>bmp</item>
-        <item>tif</item>
-        <item>psd</item>
-        <item>ai</item>
-        <item>raw</item>
-    </string-array>
-    <string-array name="fileEndingApk">
-        <item>apk</item>
-    </string-array>
-    <string-array name="fileEndingAudio">
-        <item>mp3</item>
-        <item>wav</item>
-        <item>ogg</item>
-        <item>midi</item>
-        <item>wma</item>
-        <item>ape</item>
-        <item>flac</item>
-        <item>m4a</item>
-        <item>aac</item>
-    </string-array>
-    <string-array name="fileEndingPackage">
-        <item>jar</item>
-        <item>zip</item>
-        <item>rar</item>
-        <item>7z</item>
-    </string-array>
-    <string-array name="fileEndingDoc">
-        <item>epub</item>
-        <item>txt</item>
-        <item>pdf</item>
-        <item>umd</item>
-        <item>mobi</item>
-        <item>doc</item>
-        <item>docx</item>
-        <item>wps</item>
-        <item>wpt</item>
-        <item>xls</item>
-        <item>xlsx</item>
-    </string-array>
-    <string-array name="fileEndingVideo">
-        <item>mp4</item>
-        <item>rm</item>
-        <item>rmvb</item>
-        <item>mkv</item>
-        <item>mpg</item>
-        <item>avi</item>
-        <item>wmv</item>
-        <item>3gp</item>
-        <item>flv</item>
-        <item>asf</item>
-        <item>vob</item>
-        <item>swf</item>
-        <item>mov</item>
-        <item>dvd</item>
-        <item>f4b</item>
-        <item>mpeg</item>
-        <item>webm</item>
-        <item>divx</item>
-        <item>xvid</item>
-        <item>m3u8</item>
-        <item>m3u</item>
     </string-array>
     <string-array name="hotwords_cloud_combine_head">
         <item>收藏</item>
@@ -279,237 +124,6 @@
         <item>联通3G</item>
         <item>电信</item>
     </string-array>
-    <string-array name="mobile_m_zoon">
-        <item>CXGLL</item>
-        <item>6666</item>
-        <item>1051</item>
-        <item>101</item>
-        <item>803</item>
-        <item>18</item>
-        <item>TCCX</item>
-        <item>CXGPRSTC</item>
-        <item>103</item>
-        <item>7013</item>
-        <item>106</item>
-        <item>CXGPRS</item>
-        <item>603</item>
-        <item>CXLL</item>
-        <item>CXSJLL</item>
-        <item>11803</item>
-        <item>1173</item>
-        <item>192</item>
-        <item>CXGPRS</item>
-        <item>119</item>
-        <item>CXGPRS</item>
-        <item>17</item>
-        <item>30617</item>
-        <item>3</item>
-        <item>107</item>
-        <item>3053</item>
-        <item>HF</item>
-        <item>CXTCSY</item>
-        <item>CXGPRSTC</item>
-        <item>CXYHSY</item>
-        <item>1581</item>
-    </string-array>
-    <string-array name="mobile_global">
-        <item>CXGLL</item>
-        <item>6666</item>
-        <item>1051</item>
-        <item>101</item>
-        <item>803</item>
-        <item>18</item>
-        <item>TCCX</item>
-        <item>CXGPRSTC</item>
-        <item>103</item>
-        <item>7013</item>
-        <item>106</item>
-        <item>CXGPRS</item>
-        <item>603</item>
-        <item>CXLL</item>
-        <item>CXSJLL</item>
-        <item>11803</item>
-        <item>1173</item>
-        <item>192</item>
-        <item>CXGPRS</item>
-        <item>119</item>
-        <item>CXGPRS</item>
-        <item>17</item>
-        <item>CXGPRSTC</item>
-        <item>3</item>
-        <item>107</item>
-        <item>3053</item>
-        <item>HF</item>
-        <item>CXTCSY</item>
-        <item>108</item>
-        <item>CXYHSY</item>
-        <item>1581</item>
-    </string-array>
-    <string-array name="mobile_china">
-        <item>CXGLL</item>
-        <item>6666</item>
-        <item>1051</item>
-        <item>101</item>
-        <item>703</item>
-        <item>18</item>
-        <item>TCCX</item>
-        <item>CXGPRSTC</item>
-        <item>103</item>
-        <item>7013</item>
-        <item>106</item>
-        <item>CXGPRS</item>
-        <item>603</item>
-        <item>CXLL</item>
-        <item>CXSJLL</item>
-        <item>11803</item>
-        <item>1173</item>
-        <item>192</item>
-        <item>CXGPRS</item>
-        <item>119</item>
-        <item>CXGPRS</item>
-        <item>17</item>
-        <item>CXGPRSTC</item>
-        <item>3</item>
-        <item>107</item>
-        <item>3053</item>
-        <item>HF</item>
-        <item>CXTCSY</item>
-        <item>108</item>
-        <item>CXYHSY</item>
-        <item>1581</item>
-    </string-array>
-    <string-array name="unicom_2g">
-        <item>CXGPRS</item>
-        <item>SWLL</item>
-        <item>1071</item>
-        <item>797</item>
-        <item>LL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>CXGPRSLL</item>
-        <item>SSLL</item>
-        <item>CXLL</item>
-        <item>107</item>
-        <item>7011</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>7011</item>
-        <item>705</item>
-        <item>CXLL</item>
-        <item>CX2GLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>704</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>CXLL</item>
-    </string-array>
-    <string-array name="unicom_3g">
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>LL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>SSLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>7011</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>1071</item>
-        <item>CXLL</item>
-        <item>1071</item>
-        <item>1071</item>
-    </string-array>
-    <string-array name="telecom">
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>188</item>
-        <item>108</item>
-        <item>BYXXCX</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>3531</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>108</item>
-        <item>199</item>
-        <item>193</item>
-    </string-array>
-    <string-array name="cycleDay">
-        <item>1日</item>
-        <item>2日</item>
-        <item>3日</item>
-        <item>4日</item>
-        <item>5日</item>
-        <item>6日</item>
-        <item>7日</item>
-        <item>8日</item>
-        <item>9日</item>
-        <item>10日</item>
-        <item>11日</item>
-        <item>12日</item>
-        <item>13日</item>
-        <item>14日</item>
-        <item>15日</item>
-        <item>16日</item>
-        <item>17日</item>
-        <item>18日</item>
-        <item>19日</item>
-        <item>20日</item>
-        <item>21日</item>
-        <item>22日</item>
-        <item>23日</item>
-        <item>24日</item>
-        <item>25日</item>
-        <item>26日</item>
-        <item>27日</item>
-        <item>28日</item>
-        <item>29日</item>
-        <item>30日</item>
-        <item>31日</item>
-    </string-array>
     <string-array name="network_type">
         <item>2G/3G数据移动网络</item>
         <item>Wi-Fi</item>
@@ -518,12 +132,6 @@
         <item>所有</item>
         <item>中文</item>
         <item>英文</item>
-    </string-array>
-    <string-array name="signup_emails">
-        <item>\@sogou.com</item>
-        <item>\@sohu.com</item>
-        <item>\@chinaren.com</item>
-        <item>\@focus.cn</item>
     </string-array>
     <string-array name="latin_case_mode">
         <item>默认</item>
@@ -589,44 +197,6 @@
         <item>黑色</item>
         <item>透明</item>
     </string-array>
-    <integer-array name="gesture_code">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-    </integer-array>
-    <string-array name="gesture_stroke_color_value">
-        <item>0xFFE84900</item>
-        <item>0xFF763296</item>
-        <item>0xFFFACF06</item>
-        <item>0xFF64B127</item>
-        <item>0xFF218DB3</item>
-        <item>0xFFFFFFFF</item>
-        <item>0xFF000000</item>
-        <item>0x00000000</item>
-    </string-array>
-    <string-array name="gesture_stroke_color_value_map">
-        <item>0xFFFF7A00</item>
-        <item>0xFF9A00FF</item>
-        <item>0xFFFFB000</item>
-        <item>0xFF07FF00</item>
-        <item>0xFF00BDFF</item>
-        <item>0xFFFFFFFF</item>
-        <item>0xFF000000</item>
-        <item>0x00000000</item>
-    </string-array>
     <string-array name="gesture_options">
         <item>符号表</item>
         <item>编辑</item>
@@ -679,75 +249,10 @@
         <item>普通效果</item>
         <item>笔锋效果</item>
     </string-array>
-    <string-array name="show_popup_hw_effect_list_value">
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="qwerty_dianhua_table">
-        <item>~</item>
-        <item>:</item>
-        <item>-</item>
-        <item>\@</item>
-        <item>3</item>
-        <item>\#</item>
-        <item>%</item>
-        <item>"'"</item>
-        <item>8</item>
-        <item>＆</item>
-        <item>*</item>
-        <item>\?</item>
-        <item>/</item>
-        <item>;</item>
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-        <item>4</item>
-        <item>!</item>
-        <item>5</item>
-        <item>7</item>
-        <item>_</item>
-        <item>2</item>
-        <item>)</item>
-        <item>6</item>
-        <item>(</item>
-    </string-array>
-    <string-array name="qwerty_pinyin_dianhua_table">
-        <item>~</item>
-        <item>:</item>
-        <item>-</item>
-        <item>\@</item>
-        <item>3</item>
-        <item>\#</item>
-        <item>%</item>
-        <item>“</item>
-        <item>8</item>
-        <item>”</item>
-        <item>*</item>
-        <item>？</item>
-        <item>/</item>
-        <item>;</item>
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-        <item>4</item>
-        <item>！</item>
-        <item>5</item>
-        <item>7</item>
-        <item>_</item>
-        <item>2</item>
-        <item>)</item>
-        <item>6</item>
-        <item>(</item>
-    </string-array>
     <string-array name="cloudinput_popup_list">
         <item>仅wifi下使用</item>
         <item>在任何网络条件下使用</item>
         <item>关闭</item>
-    </string-array>
-    <string-array name="cloudinput_popup_list_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="stroke_type">
         <item>一</item>
@@ -770,9 +275,6 @@
     </string-array>
     <string-array name="sheild_label">
         <item>分词</item>
-    </string-array>
-    <string-array name="substitute_label">
-        <item>1</item>
     </string-array>
     <string-array name="filter_category">
         <item>拼音</item>
@@ -821,51 +323,10 @@
         <item>香港特别行政区</item>
         <item>澳门特别行政区</item>
     </string-array>
-    <string-array name="province_pinyin_array">
-        <item>beijing</item>
-        <item>tianjin</item>
-        <item>shanghai</item>
-        <item>chongqing</item>
-        <item>anhui</item>
-        <item>fujian</item>
-        <item>gansu</item>
-        <item>guangdong</item>
-        <item>guizhou</item>
-        <item>hainan</item>
-        <item>hebei</item>
-        <item>henan</item>
-        <item>heilongjiang</item>
-        <item>hubei</item>
-        <item>hunan</item>
-        <item>jilin</item>
-        <item>jiangsu</item>
-        <item>jiangxi</item>
-        <item>liaoning</item>
-        <item>qinghai</item>
-        <item>shandong</item>
-        <item>shanxi</item>
-        <item>shaanxi</item>
-        <item>sichuan</item>
-        <item>taiwan</item>
-        <item>yunnan</item>
-        <item>zhejiang</item>
-        <item>xizang</item>
-        <item>ningxia</item>
-        <item>guangxi</item>
-        <item>xinjiang</item>
-        <item>neimenggu</item>
-        <item>xianggang</item>
-        <item>aomen</item>
-    </string-array>
     <string-array name="voiceinput_speecharea_list">
         <item>普通话</item>
         <item>英语</item>
         <item>粤语</item>
-    </string-array>
-    <string-array name="voiceinput_speecharea_list_index">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="offline_speech_switch_list">
         <item>无网络下使用</item>
@@ -873,18 +334,8 @@
         <item>无网络/2G/3G/4G网络下使用</item>
         <item>所有网络下使用</item>
     </string-array>
-    <string-array name="offline_speech_switch_list_index">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="smart_search_engine_name">
         <item>搜狗搜索</item>
         <item>百度</item>
-    </string-array>
-    <string-array name="smart_search_engine_code">
-        <item>0</item>
-        <item>1</item>
     </string-array>
 </resources>

@@ -1,39 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="multi_language_20404">China Telecom</string>
-  <string name="multi_language_46000">China Mobile</string>
-  <string name="multi_language_46001">China Unicom</string>
-  <string name="multi_language_46002">China Mobile</string>
-  <string name="multi_language_46003">China Telecom</string>
-  <string name="multi_language_46007">China Mobile</string>
-  <string name="multi_language_46019">460 19</string>
-  <string name="pppoe_indicator_title">PPPOE</string>
-  <string name="textoff" />
-  <string name="texton" />
-  <string name="cpu_memory_radius">57.5</string>
-  <string name="widget_memoryview_size">85</string>
-  <string name="widget_memoryview_radius">31.2</string>
   <string name="zte_service_center_default_city">北京市</string>
-  <string name="zteswitch_textsize">15.0</string>
-  <string name="zteswitch_lm">15.0</string>
-  <string name="zteswitch_tm">6.0</string>
   <string name="app_name_preset_ct">手机助手</string>
   <string name="app_name_preset_ct2">手机安全助手</string>
-  <string name="colon">:</string>
-  <string name="remaining_time_value_hour">%d</string>
-  <string name="remaining_time_value_min">%d</string>
-  <string name="battery_time_used_value">%1$s</string>
-  <string name="percentage">%d%%</string>
-  <string name="power_wifi">WLAN</string>
-  <string name="power_bluetooth">Bluetooth</string>
-  <string name="am_unit">AM</string>
-  <string name="pm_unit">PM</string>
-  <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
-  <string name="usage_type_gps">GPS</string>
-  <string name="battery_info_temperature_units">° C</string>
-  <string name="battery_info_power_usb">USB</string>
-  <string name="wifi_settings">Wi‑Fi</string>
-  <string name="bluetooth_settings">Bluetooth</string>
-  <string name="percent_unit">%</string>
 </resources>

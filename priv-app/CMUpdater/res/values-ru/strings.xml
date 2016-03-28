@@ -64,6 +64,6 @@
   <string name="no_changelog_alert">Список изменений недоступен</string>
   <string name="changelog_dialog_title">Список изменений</string>
   <string name="loading_changelog">Загрузка…</string>
-  <string name="extension_label">CyanogenMod Updates</string>
-  <string name="extension_description">Displays number of new updates available.</string>
+  <string name="extension_label">Обновления CyanogenMod</string>
+  <string name="extension_description">Число новых доступных обновлений.</string>
 </resources>

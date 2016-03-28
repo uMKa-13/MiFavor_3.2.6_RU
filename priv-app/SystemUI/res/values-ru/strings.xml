@@ -245,7 +245,7 @@
   <string name="kg_remaining_attempts">Осталось попыток: %d</string>
   <string name="kg_slot_id">"Слот %d: "</string>
   <string name="kg_new_simcard">Новая SIM-карта</string>
-  <string name="kg_detecting_simcard">Detecting...</string>
+  <string name="kg_detecting_simcard">Обнаружение...</string>
   <string name="accessibility_ime_switch_button">Кнопка переключения способа ввода.</string>
   <string name="fingureprint_input_error">Отпечаток пальца не совпадает. Повторите попытку!</string>
   <string name="fingureprint_try_again">Повторите попытку через %s секунд(у)</string>

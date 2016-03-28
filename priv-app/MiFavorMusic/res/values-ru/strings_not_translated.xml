@@ -1,18 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="multi_language_20404">China Telecom</string>
-  <string name="multi_language_46000">China Mobile</string>
-  <string name="multi_language_46001">China Unicom</string>
-  <string name="multi_language_46002">China Mobile</string>
-  <string name="multi_language_46003">China Telecom</string>
-  <string name="multi_language_46007">China Mobile</string>
-  <string name="multi_language_46019">460 19</string>
-  <string name="pppoe_indicator_title">PPPOE</string>
-  <string name="textoff" />
-  <string name="texton" />
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="app_name">DRM_UI</string>
   <string name="frequent">Frequenty listener</string>
   <string name="song_name">songName</string>
   <string name="artirst_name">artirstName</string>
@@ -25,27 +12,12 @@
   <string name="genre_tab">GenreBrowserActivity</string>
   <string name="favorate_tab">MediaFavoriteActivity</string>
   <string name="topten_tab">topten</string>
-  <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="cara_ok_lyric">Cara OK lyrics</string>
   <string name="aliveshare">AliveShare</string>
-  <string name="zoe_time">0:00</string>
   <string name="recognization">MusicHunter</string>
   <string name="recognizating">MusicHunter…</string>
   <string name="audition_quality_network">audition quality network</string>
-  <string name="zero_mins">0</string>
-  <string name="thirty_mins">30</string>
-  <string name="sixty_mins">60</string>
-  <string name="ninety_mins">90</string>
-  <string name="sleep_time">60</string>
-  <string name="plus_5">+5</string>
   <string name="artist_musician">Xiami Musician</string>
-  <string name="artist_japanese_m">Japan male</string>
-  <string name="artist_japanese_f">Japan female</string>
-  <string name="artist_japanese_b">Japan groups</string>
-  <string name="artist_korea_m">Korean male</string>
-  <string name="artist_korea_f">Korean female</string>
-  <string name="artist_korea_b">Korean groups</string>
   <string name="only_wlan_use_online">You turn on the WLAN only under the songs, you need to turn off this feature to access online content</string>
   <string name="only_wlan_download_lyric">You turn on the WLAN only download lyric</string>
   <string name="only_wlan_use_online_download_lyric">You turn on the WLAN only under the songs, cannot download lyric</string>
@@ -70,14 +42,7 @@
   <string name="xiami_music_billboard">billboard单曲榜</string>
   <string name="xiami_music_oricon">Oricon公信单曲榜</string>
   <string name="xiami_music_mnet">M-net综合数据周榜</string>
-  <string name="albumsongseparator">"
-"</string>
-  <string name="notification_artist_album">"%2$s
-%1$s"</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
   <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="pull_to_refresh_refreshing_label">Loading…</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
-  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
 </resources>

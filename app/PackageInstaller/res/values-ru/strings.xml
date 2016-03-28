@@ -28,7 +28,7 @@
   <string name="launch">Открыть</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
   <string name="unknown_apps_dlg_text">В целях безопасности на устройстве заблокирована установка приложений из неизвестных источников.</string>
-  <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+  <string name="unknown_apps_admin_dlg_text">"Администратор запретил установку приложений из неизвестных источников."</string>
   <string name="ok">ОК</string>
   <string name="settings">Настройки</string>
   <string name="allow_source_dlg_title">Новый источник для приложений</string>
